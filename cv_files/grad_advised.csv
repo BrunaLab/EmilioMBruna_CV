@@ -1,0 +1,91 @@
+﻿role,Student,Instititution,Program,Degree,Year
+advisor,Thomas Smith,UF,Wildlife Ecology & Conservation    ,Ph.D.,In progress
+advisor,Simon Parsons,UF,Latin American Studies,M.A.,2018
+advisor,Ernane H. M. Vieira Neto,UF,Wildlife Ecology & Conservation    ,Ph.D.,2016
+advisor,Fabiane Moreira Mundim,UF,Wildlife Ecology & Conservation    ,Ph.D.,2016
+advisor,Ana Ceclia Silva ,UF,Latin American Studies,M.A.,2014
+advisor,Paulo Rubim,UFSCar (Brazil),Ecology,Ph.D.,2014
+advisor,Pedro B. de Vasconcelos,UFU (Brazil),Biology,M.S.,2012
+advisor,Christine Lucas,UF,Wildlife Ecology & Conservation    ,Ph.D.,2011
+advisor,Cris Follman Jurinitz,USP (Brazil),Ecology,Ph.D.,2010
+advisor,Stella Copeland,UF,Wildlife Ecology & Conservation    ,M.S.,2009
+advisor,Gwen Iacona,UF,Wildlife Ecology & Conservation    ,M.S.,2008
+advisor,Alana Vaz Ferreira,UFU (Brazil),Ecology & Nat. Res. Cons.,M.S.,2008
+advisor,Ian Fiske ,UF,Wildlife Ecology & Conservation    ,M.S.,2006
+advisor,Matthew Trager,UF,Interdisciplinary Ecology,M.S.,2005
+advisor,Maria B. Nogueira-Ribeiro ,USP (Brazil),Ecology,M.S.,2005
+doc_cmte,David Mason,UF,Wildlife Ecology & Conservation ,Ph.D.,In progress
+doc_cmte,Andrea Irons,UF,Forest Resources & Conservation,Ph.D.,In progress
+doc_cmte,Maria Beatriz Cortez,UF,Biology,Ph.D.,In progress
+doc_cmte,Johanna R. Jantzen,UF,Biology,Ph.D.,2020
+doc_cmte,Demian Gomez Damiano,UF,Forest Resources & Conservation,Ph.D.,2020
+doc_cmte,Jacy Hyde ,UF,Forest Resources & Conservation,Ph.D.,2019
+doc_cmte,Flavia Montaño Centellas,UF,Wildlife Ecology & Conservation,Ph.D.,2018
+doc_cmte,Jade Badon,UF,Entomology,Ph.D.,2018
+doc_cmte,Pablo Allen,UF,Entomology,Ph.D.,2017
+doc_cmte,Margo Stoddard ,UF,Wildlife Ecology & Conservation,Ph.D.,2017
+doc_cmte,Scott Macrae,UF,Anthropology,Ph.D.,2017
+doc_cmte,Rajeev Pillay ,UF,Wildlife Ecology & Conservation,Ph.D.,2016
+doc_cmte,Rosalyn Johnson,UF,Wildlife Ecology & Conservation,Ph.D.,2016
+doc_cmte,Gonzalo Rivas,UF,Wildlife Ecology & Conservation,Ph.D.,2015
+doc_cmte,Oscar Gonzalez ,UF,Wildlife Ecology & Conservation,Ph.D.,2015
+doc_cmte,Trevor Caughlin,UF,Biology,Ph.D.,2013
+doc_cmte,Kristine Callis,UF,Biology,Ph.D.,2013
+doc_cmte,Marina Cortes,Columbia,"Ecology, Evolution, Behavior",Ph.D.,2012
+doc_cmte,Mollie Brooks,UF,Biology,Ph.D.,2012
+doc_cmte,Silvia Alvarez-Clare ,UF,Biology,Ph.D.,2012
+doc_cmte,Christie Klimas,UF,Forest Resources & Conservation    ,Ph.D.,2010
+doc_cmte,C. Seabird McKeon,UF,Biology,Ph.D.,2010
+doc_cmte,Joseph Veldman,UF,Biology,Ph.D.,2010
+doc_cmte,Jennifer Schafer,UF,Biology,Ph.D.,2010
+doc_cmte,Joanna Tucker,UF,Interdisciplinary Ecology,Ph.D.,2010
+doc_cmte,Dan Thornton,UF,Wildlife Ecology & Conservation,Ph.D.,2010
+doc_cmte,Matt Trager,UF,Interdisciplinary Ecology,Ph.D.,2009
+doc_cmte,Alex Jahn,UF,Zoology,Ph.D.,2009
+doc_cmte,Ivan Diaz,UF,Wildlife Ecology & Conservation ,Ph.D.,2009
+doc_cmte,Christa Zweig,UF,Wildlife Ecology & Conservation ,Ph.D.,2008
+doc_cmte,Silvia Lomáscolo,UF,Zoology ,Ph.D.,2008
+doc_cmte,Bonifacio Mostacedo,UF,Botany,Ph.D.,2007
+doc_cmte,David Serrano,UF,Entomology,Ph.D.,2006
+doc_cmte,Traci Darnell,UF,Wildlife Ecology & Conservation,Ph.D.,2006
+masters_cmte,Autumn Rose,UF,Anthropology,M.A.,In progress
+masters_cmte,Tania Kim,UF,Zoology,M.S.,2006
+masters_cmte,Lauren Trotta,UF,Wildlife Ecology & Conservation,M.S.,2016
+masters_cmte,Crisne Lebron,UF,Latin American Studies,M.A.,2015
+masters_cmte,Brittany Bankovich,UF,Wildlife Ecology & Conservation,M.S.,2014
+masters_cmte,Carly Voight ,UF,Latin American Studies,M.A.,2010
+masters_cmte,Nathan Marcy,UF,Wildlife Ecology & Conservation,M.S.,2010
+masters_cmte,Kristen Aaltonen,UF,Wildlife Ecology & Conservation,M.S.,2009
+masters_cmte,Laura Fonseca,UF,Latin American Studies,M.A.,2009
+masters_cmte,Mariano Rodriguez Cabal,UF,Wildlife Ecology & Conservation,M.S.,2007
+masters_cmte,Jennifer Holm,UF,Forest Resources & Conservation    ,M.S.,2007
+masters_cmte,Jamie Cotta,UF,Interdisciplinary Ecology,M.S.,2006
+masters_cmte,Teresa Cooper,UF,Entomology,M.S.,2006
+masters_cmte,Christie Klimas,UF,Forest Resources & Conservation    ,M.S.,2006
+masters_cmte,Silvia Alvarez Clare,UF,"Botany, 2004 ",M.S.,2004
+masters_cmte,Jennifer Davies,UF,Latin American Studies,M.A.,2003
+other,Helen Belan,UFU (Brazil),Ecology & Nat. Res. Cons.,PH.D. Defense,2020
+other,Talita Reis,UNICAMP (Brazil),Ecology,Ph.D. Thesis Examiner,2015
+other,Laura Vivian Barbosa ,UFU (Brazil),Ecology & Nat. Res. Cons.,Ph. D. Proposal Defense,2014
+other,Alan Nilo da Costa,UFU (Brazil),Ecology & Nat. Res. Cons.,Ph.D. Defense ,2013
+other,Jonas B. Marvalhas ,UFU (Brazil),Ecology & Nat. Res. Cons.,M.S. Defense,2013
+other,Mauricio Bonesso Sampaio ,UNICAMP (Brazil),Ecology,Ph.D. Thesis Examiner,2012
+other,Carine Emer,INPA (Brazil),Ecology,M.S. Thesis Examiner,2011
+other,Flávio de Oliveira Rodrigues,INPA (Brazil),Ecology,M.S. Thesis Examiner,2011
+other,Sjirk Geerts,Stellenbosch (S. Africa),Ecology,Ph.D. Thesis Examiner,2011
+other,Maria Rosa Darrigo,UNICAMP (Brazil),Ecology,Ph.D. Thesis Examiner,2011
+other,Waldete Castro Lourenço,INPA (Brazil),Entomology,M.S. Thesis Examiner,2009
+other,Carine Emer ,INPA (Brazil),Ecology,M.S. Proposal Examiner,2009
+other,Melina Alcalá,UFSCar (Brazil),Ecology,M.S. Qualifying Exam,2009
+other,Raquel Negrão Baldoni,UFSCar (Brazil),Ecology,M.S. Qualifying Exam,2009
+other,Pedro B. Vasconcelos,UFU (Brazil),Biological Sciences,B.S. Thesis Defense,2009
+other,Rafael Soares de Arruda,INPA (Brazil),Ecology,Ph.D. Thesis Examiner,2008
+other,Ernane Vieira Neto ,UFU (Brazil),Ecology & Nat. Res. Cons.,M.S. Defense,2008
+other,Simone B. Fontoura,INPA (Brazil),Ecology,M.S. Thesis Examiner,2007
+other,Alan Nilo da Costa,UFU (Brazil),Ecology & Nat. Res. Cons.,M.S. Defense,2007
+other,Fabiane M. Mundim ,UFU (Brazil),Biological Sciences,B.S. Thesis Defense,2007
+other,Simone Benedet Founatura,"INPA, Brazil",Ecology,M.S. Proposal Examiner,2006
+other,Thiago Junqueira Izzo,INPA (Brazil),Ecology,Ph.D. Thesis Examiner,2005
+other,Paula M. Pedrosa,INPA (Brazil),Ecology,M.S. Thesis Examiner,2004
+other,Thiago Junqueira Izzo,INPA (Brazil),Ecology,M.S. Proposal Examiner,2002
+other,Daniel Mascia Vieira,UnB (Brazil),Ecology,M.S. Defense,2002
