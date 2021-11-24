@@ -358,7 +358,11 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 *Note: I do not co-author papers from my students’ theses unless I have made contributions substantially beyond the mentoring, fundraising, and editing I consider my fundamental responsibility as their advisor. Moreover, I encourage lab members to engage in side projects, which often result in publications on which I am not a co-author. A list of my lab members’ publications on which I am not a coauthor is below.* 
 
 
-<!-- ### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=2) -->
+### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=2)
+
+4. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. *Plant Ecology.*
+
+3. Halpern, Benjamin S. *et al.* Priorities for synthesis in ecology and environmental science. *Frontiers in Ecology and the Environment *
 
 <!-- this allows you to print text after the "References" section -->
 <!-- <div id="refs"></div>  -->
@@ -545,8 +549,6 @@ Science data. *Journal of Open Source Software*, 5(45):2028. https://doi.org/10.
 
 69. Bruna, EM, and MBN Ribeiro. 2005a. The compensatory responses of an understory herb to experimental damage are habitat-dependent. _American Journal of Botany_ 92:2101-2210.    
 
-70. Bruna, EM, and MBN Ribeiro. 2005b. Regeneration and population structure of _Heliconia acuminata_ in Amazonian secondary forests with contrasting land-use histories. _Journal of Tropical Ecology_ 21:127-131.   
-
 71. Bruna, EM, HL Vasconcelos, and S Heredia. 2005. The effect of habitat fragmentation on communities of mutualists: Amazonian ants and their host plants. _Biological Conservation_ 124:209-216.  
 
 72. Doak, DF, WF Morris, C Pfister, BE Kendall, and EM Bruna. 2005. Correctly estimating how environmental stochasticity influences fitness and population growth. _American Naturalist_ 166:E14-E21.  **[Highlighted as a “Must Read” by the Faculty of 1000]**.  
@@ -711,6 +713,7 @@ Science data. *Journal of Open Source Software*, 5(45):2028. https://doi.org/10.
 
 2.	E. M. Bruna, M. Uriarte, and W. J. Kress. Abundance and demography of the understory herb *Heliconia acuminata* (Heliconiaceae) in an experimentally fragmented landscape in the Central Amazon (1997-2009). In preparation for *Ecology*.
 
+
 3. Russell, A.E., T.M. Aide, E. Braker, E. M. Bruna, C. N. Ganong, R. D. Hardin, K. D. Holl, S. C. Hotchkiss, J. Klemens, E. K. Kuprewicz, L. G. Lohmann, S. K. Macey, G. Middendorf, C. R. Nufio, R. 
 Ostertag, J. S. Powers, S. Russo, J. L. Stynoski, C. G. Wills, U. Valdez. Novel approaches to bringing tropical biology into the undergraduate classroom: the OCELOTS Network. In preparation for *Biotropica*.
 
@@ -729,8 +732,6 @@ Ostertag, J. S. Powers, S. Russo, J. L. Stynoski, C. G. Wills, U. Valdez. Novel 
 6.	Loiselle, B. A., E. M. Bruna, R. Buschbacher, and S. Athayde. In prep. How can Brazilian Studies and partnerships with Brazilian institutions shape the perception of tropical conservation and development issues at US universities? Lessons from the University of Florida. Brazilian Studies in the United States: The road ahead. Yale University, FGV, and The Ministry of Education in Brazil.
 
 7.	Rubim, P. R., M. Uriarte, O. Ferreira, and E. M. Bruna. Neighborhood effects and the reproductive effort of a tropical perennial herb. In preparation for *Ecology* [Ph.D. Thesis Chapter].
-
-8.	Rodrigues, D. R., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, and E. Bianchini. Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. In preparation for *Plant Ecology*.
 
 9.	Ferreira, A. M. A. P. Faria, H. L. Vasconcelos, E. M. Bruna, A. S. Franco Pinheiro Moreira. Effect of nitrogen deposition on metabolism, biomass increase and species richness in a grass community of the Brazilian Cerrado.  In preparation for *Plant & Soil*.
 
@@ -1121,7 +1122,7 @@ Advisory Committee, Pan-Amazon Community of Practice Project (2018-2020)
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-Tenure and Promotion Portfolio Evaluations: 2020 (3), 2018 (2), 2017 (1), 2016 (3), 2015 (1), 2011 (1)  
+Tenure and Promotion Portfolio Evaluations: 2021 (2), 2020 (3), 2018 (2), 2017 (1), 2016 (3), 2015 (1), 2011 (1)  
 ASN/SSE/SSB Committee on Development a Professional Code of Ethics (2018-2019)  
 External Advisor, 2nd Planning Workshop, Brazilian Biodiversity and Ecosystem Services Synthesis Center (2018)  
 Discussant, Research & Writing Conference, Florida Education Fund/McKnight Doctoral Fellowship Program (2016)  
@@ -1189,7 +1190,7 @@ kbl(talks,
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-2021\hspace{4mm} Chronicle for Higher Education, The Florida Independent Alligator, Associated Press  
+2021\hspace{4mm} Chronicle for Higher Education, The Florida Independent Alligator, Associated Press, Nightline (ABC)
 2020\hspace{4mm} Washington Post   
 2019\hspace{4mm} USA Today, CBC News Network (Canada), The Atlantic, The Verge, MSNBC’s Velshi & Ruhle  
 &nbsp;\hspace{10mm} WIRED Magazine (2), Mashable, BBC World Service (UK), The Miradas Podcast    
