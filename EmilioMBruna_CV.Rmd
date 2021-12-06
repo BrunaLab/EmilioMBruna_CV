@@ -372,7 +372,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- \endgroup  -->
 
 
-### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & ESSAYS (N = 108)
+### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & ESSAYS (N = 107)
 
 
 1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. *In press.* Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. *Global Change Biology*. Preprint at [https://doi.org/10.1101/2021.06.28.450186](https://doi.org/10.1101/2021.06.28.450186)
@@ -885,7 +885,7 @@ kbl(grad_advised,digits = 1,
   sub("\\\\bottomrule", "", .)
 
 ```
-**Wildlife Ecology & Conservation**: David Mason (in progress), Flavia Montaño Centellas (2018), Margo Stoddard (2017), Rajeev Pillay (2016), Rosalyn Johnson (2016), Gonzalo Rivas (2015), Oscar Gonzalez (2015), Dan Thornton (2010), Ivan Diaz (2008), Christa Zweig (2008), Traci Darnell (2006)  **Forest Resources & Conservation**: Andrea Irons (in progress), Demian Gomez Damiano (2020), Jacy Hyde (2019), Christie Klimas (2010)  **Biology (*formerly Depts. of Botany & Zoology*)**: Maria Beatriz Cortez (in progress), Johanna R. Jantzen (2020), Trevor Caughlin (2013), Kristine Callis (2013), Mollie Brooks (2012), Silvia Alvarez-Clare (2012), C. Seabird McKeon (2010), Joseph Veldman (2010), Jennifer Schafer (2010), Alex Jahn (2009), Silvia Lomáscolo (2008), Bonifacio Mostacedo (2007)  **Interdisciplinary Ecology**: Joanna Tucker (2010), Matt Trager	(2009)  **Entomology**: Jade Badon (2018), Pablo Allen (2017), David Serrano (2006)  **Anthropology**: Scott Macrae (2017)  **Columbia University**: Marina Cortes (Ecology, Evolution, Behavior (2012)
+<!-- **Wildlife Ecology & Conservation**: David Mason (in progress), Flavia Montaño Centellas (2018), Margo Stoddard (2017), Rajeev Pillay (2016), Rosalyn Johnson (2016), Gonzalo Rivas (2015), Oscar Gonzalez (2015), Dan Thornton (2010), Ivan Diaz (2008), Christa Zweig (2008), Traci Darnell (2006)  **Forest Resources & Conservation**: Andrea Irons (in progress), Demian Gomez Damiano (2020), Jacy Hyde (2019), Christie Klimas (2010)  **Biology (*formerly Depts. of Botany & Zoology*)**: Maria Beatriz Cortez (in progress), Johanna R. Jantzen (2020), Trevor Caughlin (2013), Kristine Callis (2013), Mollie Brooks (2012), Silvia Alvarez-Clare (2012), C. Seabird McKeon (2010), Joseph Veldman (2010), Jennifer Schafer (2010), Alex Jahn (2009), Silvia Lomáscolo (2008), Bonifacio Mostacedo (2007)  **Interdisciplinary Ecology**: Joanna Tucker (2010), Matt Trager	(2009)  **Entomology**: Jade Badon (2018), Pablo Allen (2017), David Serrano (2006)  **Anthropology**: Scott Macrae (2017)  **Columbia University**: Marina Cortes (Ecology, Evolution, Behavior (2012) -->
 
 
 
@@ -1190,7 +1190,7 @@ kbl(talks,
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-2021\hspace{4mm} Chronicle for Higher Education, The Florida Independent Alligator, Associated Press, Nightline (ABC)
+2021\hspace{4mm} Chronicle for Higher Education, The Florida Independent Alligator, Associated Press, Nightline (ABC)  
 2020\hspace{4mm} Washington Post   
 2019\hspace{4mm} USA Today, CBC News Network (Canada), The Atlantic, The Verge, MSNBC’s Velshi & Ruhle  
 &nbsp;\hspace{10mm} WIRED Magazine (2), Mashable, BBC World Service (UK), The Miradas Podcast    
