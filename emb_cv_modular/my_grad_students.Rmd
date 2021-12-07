@@ -1,0 +1,56 @@
+### GRADUATE STUDENTS ADVISED
+```{r GradStudentsA, echo=FALSE,message = FALSE,warning=FALSE}
+# library(flextable)
+# https://cran.r-project.org/web/packages/flextable/vignettes/format.html#borders
+# df <- grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="advisor") %>% select(-role)
+# table1<-df %>% regulartable() %>% autofit() %>% 
+# width(j=~Degree,width=.3) %>% width(j=~Year,width=.9) %>% width(j=~Instititution,width=.1)
+# table1 <- fontsize(table1, part = "header", size = 11) 
+# table1 <- border_remove(x = table1)
+# table1
+```
+
+
+```{r GradStudents, echo=FALSE,message = FALSE,warning=FALSE}
+
+grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="advisor") %>% select(-role)
+kbl(grad_advised,digits = 1,
+                  format = "latex",
+                  align="l",
+    col.names = NULL,
+    longtable = T,
+                  row.names = FALSE,
+                  booktabs=T,
+                  linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+
+```
+
+Students under my supervision have been awarded over $35,000 in grants to support their research and been the recipients of prestigious fellowships and awards to support their studies: 
+
+*	FLAS Fellowship (S. Parsons)
+*	NSF Predoctoral Fellowships (M. Trager, S. Copeland)
+*	UF IGERT Fellowship (C. Lucas)
+*	Inter-American Foundation Grassroots Development Fellowship (C. Lucas)
+*	UF Alumni Fellowship (M. Trager)
+*	Fulbright Fellowship (A. Neto)
+*	Science Without Borders Doctoral Fellowship (E. V. Neto, F. Mundim).
+*	NSF Doctoral Dissertation Enhancement Grant (C. Lucas)
+*	UF-WEC Jennings Scholarship (A. Neto, M. Trager, F. Mundim, G. Iacona) 
+*	UF-CALS Doris Lowe & Earl & Verna Lowe Scholarship (C. Lucas, E. V. Neto). 
+
+Research by my students has also been recognized for its excellence: 
+
+*	Fabiane Mundim: 2016 UF-WEC High-Impact Publication
+*	Ana Cecilia Silva: Honorable Mention, 2015 Charles Wood Thesis Award, UF Latin American Studies
+*	Fabiane Mundim: Honorable Mention, 2012 OTS Outstanding Paper Competition 
+*	Christine Lucas: 2012 Marianne Schmink Award for the University of Florida’s outstanding Dissertation in Tropical Conservation and Development.
+*	Ernane Vieira Neto: 2011 E. Lucy Braun Award (Outstanding poster presented at the Annual Meeting of the Ecological Society of America).
+*	Shannon Moore, a high school student in my lab as part of UF’s Student Science Training Program (SSTP), was awarded the prize for the best oral presentation at the 2010 SSTP Symposium.
+*	Matthew Trager: 2005 Wildlife Grad Student Assoc. Outstanding Research Award (MS Category).

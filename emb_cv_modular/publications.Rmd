@@ -1,0 +1,22 @@
+---
+output: pdf_document
+bibliography: EMB_publications.bib  
+csl: brunacv.csl
+---
+<!-- https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
+
+```{r pub_list, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE,message=FALSE,warning=FALSE)
+# library(tidyverse)
+# library(gridExtra)
+# library(kableExtra)
+# library(citr)
+# library(RefManageR)
+
+```
+
+ 
+---
+nocite: '@*'
+---
+

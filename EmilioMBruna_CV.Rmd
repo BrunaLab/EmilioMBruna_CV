@@ -15,11 +15,13 @@ urlcolor: darkmidnightblue
 # jobtitle: "Professor & Distinguished Teaching Scholar, University of Florida"
 # address: "PO Box 110430 · 110 Newins-Ziegler Hall · Gainesville, FL 32611-040"
 fontawesome: yes
+bibliography: ./emb_cv_modular/EMB_publications.bib  
+csl: brunacv.csl
 # bibliography: BrunaPublications.bib
-bibliography: ./cv_files/BrunaPublications.bib
+# bibliography: ./cv_files/BrunaPublications.bib
 # bibliography_software: chapters.bib
 # csl: biotropica.csl
-csl: ./cv_files/brunacv2.csl
+# csl: ./cv_files/brunacv2.csl
 updated: yes
 # site: bookdown::bookdown_site
 header-includes:
@@ -82,6 +84,12 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 \textbf{\textcolor{darkmidnightblue}{LANGUAGES:}} Native fluency in Spanish and English, Fluent in Portuguese  
 \vspace{-0.6cm}  
+
+<!-- ```{r, child=c('one.Rmd', 'two.Rmd')} -->
+<!-- ``` -->
+
+<!-- ```{r, child='one.Rmd'} -->
+<!-- ``` -->
 
 ### EDUCATION
 <!--to indent a block of stuff treat it as a 'group' and then set leftskip -->
@@ -364,12 +372,26 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 3. Halpern, Benjamin S. *et al.* Priorities for synthesis in ecology and environmental science. *Frontiers in Ecology and the Environment *
 
-<!-- this allows you to print text after the "References" section -->
-<!-- <div id="refs"></div>  -->
 
+<!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
 <!-- maybe to print out by reference groups? -->
 <!-- https://forums.zotero.org/discussion/23604/a-mini-guide-to-sort-bibliography-by-reference-type -->
 <!-- \endgroup  -->
+
+<!-- TODO:  -->
+<!-- 1) indent the automated refs -->
+<!-- 2) put field in zotero for noes (eg theis chapter, recipient of..., etc), -->
+<!-- 3) make the extra field with notes bold for cv -->
+<!-- 3) find out which refs ones are missing -->
+
+
+
+<!-- ### PEER-REVIEWED PUBLICATIONS (AUTOMATED) -->
+
+<!-- <div id="refs"></div> # this allows you to put text after -->
+<!-- --- -->
+<!-- nocite: '@*'  # this puts eveything in .bib without needing to ccite it -->
+<!-- --- -->
 
 
 ### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & ESSAYS (N = 107)
@@ -749,7 +771,7 @@ Ostertag, J. S. Powers, S. Russo, J. L. Stynoski, C. G. Wills, U. Valdez. Novel 
 4. “Jean Theodore Descourtilz (1796-1855) and the Ornithologie Bresilienne.” A website created by TCD graduate students in my Tropical Ecology class to provide background information and an analysis of artwork acquired by the Harn Museum of Art on their behalf.  https://descourtilz.wordpress.com/ 
 
 
-### COURSE DEVELOPMENT TEACHING EXPERIENCE
+### COURSE DEVELOPMENT & TEACHING EXPERIENCE
 
 \begingroup 
 \setlength{\leftskip}{.2cm}  
@@ -1085,7 +1107,7 @@ Chair, Peer Teaching Evaluation Committee for Dr. Morgan Ernest (2017-2018)
 Chair, Peer Teaching Evaluation Committee for Dr. Lyn Branch (2011)  
 Chair, Peer Teaching Evaluation Committee for Dr. Bill Pine (2010)  
 Chair, Peer Teaching Evaluation Committee for Dr. Robert Fletcher (2009)  
-Tenure Mentorship Committee for Dr. Nia Morales (2021-2022) 
+Tenure Mentorship Committee for Dr. Nia Morales (2021-2022)  
 Peer Teaching Evaluation Committee for Dr. Madan Oli (2003)  
 Peer Teaching Evaluation Committee for Dr. Bill Pine (2015)  
 

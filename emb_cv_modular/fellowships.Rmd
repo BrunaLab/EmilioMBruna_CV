@@ -1,0 +1,17 @@
+### FELLOWSHIPS
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+2012\hspace{4mm}*Ciência Sem Fronteiras* Special Visiting Researcher Fellowship, CNPq Brazil  
+2009\hspace{4mm}Fulbright Scholar, Brazil  
+2009\hspace{4mm}Visiting Researcher Fellowship, CNPq Brazil  
+2001\hspace{4mm}NSF Minority Postdoctoral Research Fellowship  
+2001\hspace{4mm}NSF International Research Fellowship *(declined)*  
+2000\hspace{4mm}Ford Foundation Dissertation Year Fellowship  
+1999\hspace{4mm}UC Davis Graduate Studies Fellowship  
+1998\hspace{4mm}UC Davis John F. Steindler Graduate Fellowship  
+1995\hspace{4mm}NSF Minority Predoctoral Research Fellowship  
+1993\hspace{4mm}Howard Hughes Senior Honors Thesis Fellowship  
+1993\hspace{4mm}UCSD Howard Hughes Summer Research Fellowship  
+
+\endgroup

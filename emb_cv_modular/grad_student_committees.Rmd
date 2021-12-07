@@ -1,0 +1,70 @@
+### DOCTORAL STUDENT COMMITTEE SERVICE, UNIVERSITY OF FLORIDA
+
+```{r DocCmte, echo=FALSE,message = FALSE,warning=FALSE}
+grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="doc_cmte") %>% select(-role)
+
+kbl(grad_advised,digits = 1,
+                  format = "latex",
+                  align="l",
+                  col.names = NULL,
+                  row.names = FALSE,
+                  booktabs=T,
+                  longtable = T, 
+                  linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+
+```
+<!-- **Wildlife Ecology & Conservation**: David Mason (in progress), Flavia Montaño Centellas (2018), Margo Stoddard (2017), Rajeev Pillay (2016), Rosalyn Johnson (2016), Gonzalo Rivas (2015), Oscar Gonzalez (2015), Dan Thornton (2010), Ivan Diaz (2008), Christa Zweig (2008), Traci Darnell (2006)  **Forest Resources & Conservation**: Andrea Irons (in progress), Demian Gomez Damiano (2020), Jacy Hyde (2019), Christie Klimas (2010)  **Biology (*formerly Depts. of Botany & Zoology*)**: Maria Beatriz Cortez (in progress), Johanna R. Jantzen (2020), Trevor Caughlin (2013), Kristine Callis (2013), Mollie Brooks (2012), Silvia Alvarez-Clare (2012), C. Seabird McKeon (2010), Joseph Veldman (2010), Jennifer Schafer (2010), Alex Jahn (2009), Silvia Lomáscolo (2008), Bonifacio Mostacedo (2007)  **Interdisciplinary Ecology**: Joanna Tucker (2010), Matt Trager	(2009)  **Entomology**: Jade Badon (2018), Pablo Allen (2017), David Serrano (2006)  **Anthropology**: Scott Macrae (2017)  **Columbia University**: Marina Cortes (Ecology, Evolution, Behavior (2012) -->
+
+
+
+### MASTER’S STUDENT COMMITTEE SERVICE
+```{r MastersCmte, echo=FALSE,message = FALSE,warning=FALSE}
+
+grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="masters_cmte") %>% select(-role)
+kbl(grad_advised,digits = 1,
+                  format = "latex",
+                  align="l",
+        longtable = T, 
+    col.names = NULL,
+                  row.names = FALSE,
+                  booktabs=T,
+                  linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+
+```
+<!-- **Wildlife Ecology & Conservation**: Lauren Trotta (2016), Brittany Bankovich (2014), Nathan Marcy (2010), Kristen Aaltonen (2009), Mariano Rodriguez Cabal (2007)  **Forest Resources & Conservation**: Jennifer Holm (2007), Christie Klimas (2006)  **Biology (*formerly Depts. of Botany & Zoology*)**: Tania Kim (2006), Silvia Alvarez Clare (2004)  **Interdisciplinary Ecology**: Jamie Cotta (2006)  **Entomology**: Teresa Cooper (2006)  **Latin American Studies**: Crisne Lebron (2015), Carly Voight (2010), Laura Fonseca (2009), Jennifer Davies (2003), **Anthropology**: Autumn Rose (in progress). -->
+		
+### MEMBER OF PROPOSAL REVIEW, THESIS REVIEW, OR THESIS DEFENSE COMMITTEE
+```{r external, echo=FALSE,message = FALSE,warning=FALSE}
+
+other<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="other") %>% select(-role,-Program)
+kbl(other,digits = 1,
+                  format = "latex",
+                  align="l",
+        longtable = T, 
+    col.names = NULL,
+                  row.names = FALSE,
+                  booktabs=T,
+                  linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+
+```

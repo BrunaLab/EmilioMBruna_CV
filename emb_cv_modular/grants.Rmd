@@ -1,0 +1,94 @@
+
+### GRANT PROPOSALS UNDER REVIEW or IN PREPARATION
+
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+1. one
+
+2. two
+
+\endgroup
+
+
+### UNFUNDED GRANT APPLICATIONS
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+1. one 
+
+2. two
+
+\endgroup
+
+
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+### GRANTS IN SUPPORT OF RESEARCH, TRAINING, & PROGRAM DEVELOPMENT (>$5.5 million)  
+
+1. Sloan Foundation. “Reinventing Field Courses” ($74,060; PI: E. M. Bruna, Co-PIs: R. McCleery, P. Antonenko, N. Attias, D. Barton, 2020-2021)
+
+2. National Science Foundation. SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics ($199,904; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2020-2022).
+
+2. National Science Foundation. REU Supplement for "SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics ($14,400; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2021).
+
+3. National Science Foundation. “The role of the matrix in fragmented landscapes: experimental tests and novel theory ($548,058; PI: R. Fletcher, Co-PIs: E. M. Bruna, R. D. Holt, and B. Reichert, 2018-2023)  
+
+4. UF Informatics Institute SEED Funds: “Cross-National Patterns of Productivity & Collaboration by Latin American Scientists” ($20,000, PI: E. M. Bruna, Co-PIs: Stephen Perz, Chris McCarty).
+
+5. Mindlin Foundation. “Who are the Gatekeepers of Discovery? A crowdsourced project to ID & map the editors of academic journals” ($3633, 2017-2018).
+
+5. National Geographic Global Exploration Fund. “Experimental climate change in the Amazon: How will rising CO2 influence plants, insects, and their interactions?” ($19,970, PI: E. M. Bruna, Co-PIs H. Vasconcelos, F. Mundim, D. Lapola).
+
+5. John Wiley and Sons. “Funds to support the Biotropica Editorial Office” ($199,945; 2014-2019).
+
+5. UF Center for Latin American Studies Faculty Travel Award ($1500)
+
+5. UF Center for Latin American Studies Speakers Program. “Herton Escobar: Science Correspondent, Estado de São Paulo Newspaper ($2000, including matching funds provided by the College of Journalism and Communications, the Tropical Conservation and Development Program, and Office of the VP for Research).
+
+5. UF Center for Latin American Studies Faculty Research Award: “Cross-national patterns of productivity and collaboration by Latin American ecologists” ($5450, 2012-2013).
+
+5. National Science Foundation: “Doctoral Dissertation Enhancement Proposal: International: Carbon sequestration and tree biodiversity in Amazonian floodplain forests”.  ($11,000; OISE-0929183 to E. Bruna prepared by and for doctoral student Christine Lucas, 2010-2012).
+
+5. David and Lucile Packard Foundation. “Nitrogen dynamics in Brazil’s Cerrado” ($142,198, Grant 2008-32691 to E. Bruna and co-PIs M. Mack and H. Vasconcelos, 2009-2011).
+
+5. National Science Foundation. “IGERT in Spatial Ecology & Evolution: Quantitative Training in Biology, Statistics, & Mathematics”. ($2,958,113; PI: B. Bolker; Co-PI’s: E. Bruna, C. Osenberg, M. Martcheva, & M. Christman, 2008-2013).
+
+5. UF International Center. “International Speakers Program: Dr. Claudio Padua, 2008 UF Distinguished Alumnus” ($1500, with $3500 in matching funds from Wildlife Ecology and Conservation, Latin American Studies, the Tropical Conservation and Development Program, and Institute for Agricultural and Life Sciences).
+
+5. US Department of Education Fund for the Improvement of Postsecondary Education (FIPSE). “Energy, environment, and sustainable development: the central role of the United States and Brazil” ($202,329; PI: J. Kahn, Washington & Lee University; E. Bruna is UF Project Director; 2006-2010)
+
+5. National Science Foundation Collaborative Grant.  “Mechanisms influencing seedling recruitment and establishment in a fragmented Amazonian landscape” DEB-0614149 to E. Bruna ($230,888) and DEB-0614339 to M. Uriarte, Columbia Univ. ($251,831; 2006-10).
+
+5. National Science Foundation Minority Career Advancement Award. “Linking population and ecosystem ecology: how does nitrogen deposition influence plant demography in tropical savannas?”  DEB-0542287 ($174,499; 2006-08).
+
+5. Joseph Jones Ecological Research Center. “Productivity and Biodiversity Patterns: Control in a SE Coastal Plain Landscape (Support for the graduate studies of Gwen Iacona)”. ($19,860; 2005-2007).
+
+5. National Science Foundation Collaborative Grant. “Elucidating mechanisms of coexistence in a community of ant-plant mutualists”.  DEB-0453631 to E. Bruna ($245,096) & DEB-0452720 to B. Inouye, FSU ($260,000; 2005-09).
+
+5. National Science Foundation Grant OISE-0437369.  “U.S.-Brazil Collaborative Research: Seed predation and herbivory in Neotropical savannas: are there demographic consequences for plants?” ($25,012; 2005-2008).
+
+5.  Nacional de Desenvolvimento Científico e Tecnológico, Brazil. “Top-down effects on the structure of Cerrado plant communities” (R$ 22,875.74, Co-PI, 2005-2007)
+
+5. Fundação de Amparo a Pesquisa do Estado de Minas Gerais, Brazil. “Diversity and conservation of invertebrates in the ‘Triângulo Mineiro’: a case study using ants as bioindicators” (R$12,924.13; Senior Collaborator, 2005-2007)
+
+5. Fundação de Amparo a Pesquisa do Estado de Minas Gerais, Brazil (Fapemig). “Effect of herbivory by leaf-cutter ants on Cerrado vegetation” (R$25,229.74, Co-PI, 2004-2006)
+
+5. School for Natural Resources and the Environment New Faculty Support Program. “Seed predation and herbivory in Neotropical savannas: are there demographic consequences for plants?” ($5,000; 2004)
+
+5. Alfred P. Sloan Foundation.  “Increasing the number of minority Ph.D.’s studying Ecology at UF.” ($32,440 and four-year Teaching Assistantships from the College of Agricultural and Life Sciences; 2004).
+
+5. National Science Foundation Research Starter Grant DEB-0309819.  “The effect of forest fragmentation on ant-plant mutualisms.” $50,585; 2003-2005).
+
+5. USAID Subcontract from IIEB.  “Sustainable Communities and Landscapes: A proposed 	program to sustain natural ecosystems and enhance local livelihoods in Brazil’s Amazon and Atlantic Forest regions” ($199,145; 10/01/03-9/30/07; PI: Marianne Schmink; EB and 5 other Co-PIs).
+
+5. Instituto Internacional de Educação do Brasil-SUNY International Development Group.  “Training of young scientists in Amazonia: A new internship program at the Biological Dynamics of Forest Fragments Project.” (R$21,000; co-PI Patricia Delamônica, 2001).
+
+5. National Science Foundation Minority Postdoctoral Research Fellowship DBI-0109226. “The effect of forest fragmentation on ant-plant mutualisms” ($190,200; 2001).
+
+5. NSF Dissertation Improvement Grant INT 98-06351. “Effect of habitat fragmentation on the growth, reproduction, and population dynamics of an Amazonian understory herb” ($17,600; 1998-2000).
+
+5. Grants for Graduate Research: Smithsonian Institution, Manomet Observatory Kathleen S. Anderson Award, Wilson Ornithological Society Paul A. Stewart Award, and UC Davis (M.E. Mathias Award, Graduate Studies Research Grant, Jastro-Shields Research Award, and Center for Population Biology Summer Research Grant (Total: $11860; 1996-1997).
+
+5. Grants for Undergraduate Research: Explorer’s Club Grant, UCSD Undergraduate Scholastic Research Grant (Total: $1955; 1994-1995).
+
+\endgroup

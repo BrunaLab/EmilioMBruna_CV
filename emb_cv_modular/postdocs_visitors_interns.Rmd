@@ -1,0 +1,82 @@
+### POSTDOCTORAL, SABBATICAL, & POSTGRADUATE SCHOLARS 
+```{r lab_members, echo=FALSE,message = FALSE,warning=FALSE}
+lab_members<-read_csv("./cv_files/lab_members.csv") 
+lab_members$cat<-as.factor(lab_members$cat)
+lab_members$cat <- ordered(lab_members$cat, levels = c("postdoc","sab" ,"postgrad", "vis_grad","ug","hs"))
+lab_members2<-lab_members %>% 
+  filter(cat=="postdoc"|cat=="sab"|cat=="postgrad") %>% 
+  arrange(order(cat)) %>% 
+  select(-cat) %>% 
+  replace_na(list(Name=" ", Institution=" ", Position=" ", Year=" "))
+
+kbl(lab_members2,digits = 1,
+    format = "latex",
+    align="l",
+    longtable = T, 
+    col.names = NULL,
+    row.names = FALSE,
+    booktabs=T,
+    linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+      
+```
+
+<!-- **Doctoral Defense Committee:** Helen Belan (U. Federal de Uberlândia, Brazil, 2020), Alan Nilo da Costa (U. Federal de Uberlândia, Brazil, 2013). **Doctoral Dissertation Examiner:** Talita Reis (UNICAMP, Brazil, 2015), Mauricio Bonesso Sampaio (UNICAMP, Brazil, 2012), Maria Rosa Darrigo (UNICAMP, Brazil, 2011), Sjirk Geerts (Stellenbosch University, South Africa, 2011), Rafael Soares de Arruda (INPA, Brazil, 2008), Thiago Junqueira Izzo (INPA, Brazil, 2005). **Doctoral Proposal Defense**: Laura Vivian Barbosa (U. Federal de Uberlândia, Brazil, 2014) **Master's Thesis Defense Committee**: Jonas B. Marvalhas (U. Federal de Uberlândia, Brazil 2013), Ernane Vieira Neto (U. Federal de Uberlândia, Brazil, 2008), Alan Nilo da Costa (U. Federal de Uberlândia, Brazil, 2007), Daniel Mascia Vieira (Universidade de Brasília, Brazil, 2002) -->
+
+<!-- Carine Emer			INPA, Brazil				M.S. Thesis Examiner, 2011 -->
+<!-- Flávio de Oliveira Rodrigues	INPA, Brazil				M.S. Thesis Examiner, 2011 -->
+<!-- Waldete Castro Lourenço		INPA, Brazil				M.S. Thesis Examiner, 2009 -->
+<!-- Simone B. Fontoura		INPA, Brazil				M.S. Thesis Examiner, 2007 -->
+<!-- Paula M. Pedrosa			INPA, Brazil				M.S. Thesis Examiner, 2004 -->
+
+<!-- Carine Emer 			INPA, Brazil				M.S. Proposal Examiner, 2009 -->
+<!-- Simone Benedet Founatura	INPA, Brazil				M.S. Proposal Examiner, 2006 -->
+<!-- Thiago Junqueira Izzo		INPA, Brazil				M.S. Proposal Examiner, 2002 -->
+
+<!-- Melina Alcalá			UFSCar, Brazil				M.S. Qualifying Exam, 2009 -->
+<!-- Raquel Negrão Baldoni		UFSCar, Brazil				M.S. Qualifying Exam, 2009 -->
+
+<!-- Pedro B. Vasconcelos		U. Federal de Uberlândia, Brazil		B.S. Thesis Defense, 2009 -->
+<!-- Fabiane M. Mundim 		U. Federal de Uberlândia, Brazil		B.S. Thesis Defense, 2007 -->
+
+### UNDERGRADUATE THESIS STUDENTS, HIGH SCHOOL RESEARCHERS, & VISITING GRADUATE STUDENTS  
+```{r lab_members2, echo=FALSE,message = FALSE,warning=FALSE}
+lab_members<-read_csv("./cv_files/lab_members.csv") 
+lab_members$cat<-as.factor(lab_members$cat)
+lab_members$cat <- ordered(lab_members$cat, levels = c("postdoc","sab" ,"postgrad", "vis_grad","ug","hs"))
+lab_members3<-lab_members %>% 
+  filter(cat=="ug"|cat=="hs"|cat=="vis_grad") %>% 
+  arrange(order(cat)) %>% 
+  select(-cat) %>% 
+  replace_na(list(Name=" ", Institution=" ", Position=" ", Year=" "))
+
+kbl(lab_members3,digits = 1,
+                  format = "latex",
+                  align="l",
+        longtable = T, 
+    col.names = NULL,
+                  row.names = FALSE,
+                  booktabs=T,
+                  linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+
+```
+
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+*__Research Interns:__* _2007_: Wesley Dáttilo da Cruz, Univ. Estadual do Norte Fluminense (Brazil), Jefferson José Valsko da Silva, Universidade do Norte Fluminense (Brazil). _2005-2007_: Renata Pacheco do Nacimento and Cauê Thomé Lopes, Univ. Federal de Uberlândia (Brazil). _2005-2006_: Polyanna Custodio Duarte, Univ. Federal de Uberlândia (Brazil). _2006_: Waldete Castro Lourenço, Univ. Federal do Amazonas (Brazil), Elisabete Marques da Costa, Univ. Federal de Pernambuco (Brazil). _2005_: Bruno Turbiani, Universidade Estadual Paulista (Brazil). _2004_: Cristina Escate, Universidade Federal do Amazonas (Brazil), Simone Benedet, Universidade do Vale do Rio do Sinos (Brazil). _2003_: Cris Follman Jurinitz, Univ. Federal do Rio Grande do Sul (Brazil), Denise Cruz, Univ. Federal do Rio de Janeiro (Brazil). _2003-2004_: David M. Lapola, Universidade Estadual Paulista (Brazil). _2002_: Maria Beatriz Nogueira, Universidade de São Paulo (Brazil). _2001-2002_: Sylvia Heredia, Universidad de los Andes (Colombia). _2001_: Obed Garcia, INPA (Brazil), Olavo Nardy, UNESP (Brazil).
+
+\endgroup
