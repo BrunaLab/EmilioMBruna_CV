@@ -45,8 +45,14 @@ header-includes:
 # define the colors used above with rgb codes
 - \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
 - \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
-
+# - \usepackage{ragged2e}
+# # - \setlength\RaggedRightParindent{15pt}
+# - \RaggedRight - # make the right margin ragged
+# https://tex.stackexchange.com/questions/258714/prevent-hyphenation-across-lines-enforce-right-margin
+# - \hyphenpenalty=10000 #to suppress ordinary hyphenation
+# - \exhyphenpenalty=10000 #to prohibit line breaks at explicit hyphens.
 # - \setstretch{1.0}
+
 # https://babichmorrowc.github.io/post/changing-fonts-in-rmarkdown-pdfs/
 
 output:
@@ -70,6 +76,7 @@ library(kableExtra)
 library(RefManageR)
 ```
 <!-- this next line suppresses the header (line, name,  page number) on 1st page -->
+<!-- \begin{document}. -->
 \thispagestyle{empty}  
 # EMILIO MIGUEL BRUNA
 \vspace{-0.3cm}  <!--space between name and address -->
@@ -368,9 +375,9 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 ### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=2)
 
-4. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. *Plant Ecology.*
+1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. *Plant Ecology.*
 
-3. Halpern, Benjamin S. *et al.* Priorities for synthesis in ecology and environmental science. *Frontiers in Ecology and the Environment *
+2. Halpern, Benjamin S. *et al.* Priorities for synthesis in ecology and environmental science. *Frontiers in Ecology and the Environment *
 
 
 <!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
@@ -397,18 +404,18 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 ### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & ESSAYS (N = 107)
 
 
-1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. *In press.* Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. *Global Change Biology*. Preprint at [https://doi.org/10.1101/2021.06.28.450186](https://doi.org/10.1101/2021.06.28.450186)
+1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. *In press.* Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. _Global Change Biology_. Preprint at [https://doi.org/10.1101/2021.06.28.450186](https://doi.org/10.1101/2021.06.28.450186)
 
-2. Smith, A. C., L. Merz, J. Borden, C. Gulick, A. R. Kshirsagar, and E. M. Bruna. *In press*. Article processing charges, the geographic diversity of author communities, and barriers to publication for authors in the Global South. *Quantitative Science Studies*.  Preprint at [https://doi.org/10.21222/osf.io/s7cx4](https://doi.org/10.21222/osf.io/s7cx4)
+2. Smith, A. C., L. Merz, J. Borden, C. Gulick, A. R. Kshirsagar, and E. M. Bruna. *In press*. Article processing charges, the geographic diversity of author communities, and barriers to publication for authors in the Global South. _Quantitative Science Studies_.  Preprint at [https://doi.org/10.21222/osf.io/s7cx4](https://doi.org/10.21222/osf.io/s7cx4)
 
-1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. *Journal of Ecology* 109:2729– 2739. [PhD Thesis Chapter].  https://doi.org/10.1111/1365-2745.13684
+1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. _Journal of Ecology_ 109:2729– 2739. [PhD Thesis Chapter].  https://doi.org/10.1111/1365-2745.13684
 
 1. Bruna, E.M., R Chazdon, TM Errington and BA Nosek. 2021. A proposal to advance theory and promote collaboration in tropical biology by supporting replications. _Biotropica_, 53:6-10.  
 
 1. Barbosa Silva, LV, HL Vasconcelos, MC Mack, AdS Ferreira, and EM Bruna. 2020. Effects of experimental nitrogen enrichment on soil properties and litter decomposition in a Neotropical savanna. _Austral Ecology_ 45:1093-1102. [Ph. D. Thesis Chapter].  
 
 2. Fournier, Auriel. Matthew E. Boone, Forrest R. Stevens, and Emilio M. Bruna. 2020. refsplitr: Author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of
-Science data. *Journal of Open Source Software*, 5(45):2028. https://doi.org/10.21105/joss.02028
+Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.21105/joss.02028
 
 
 2. Beckman, NG, CE Aslan, HS Rogers, O Kogan, JL Bronstein, JM Bullock, F Hartig, J HilleRisLambers, Y Zhou, D Zurell, JF Brodie, EM Bruna, RS Cantrell, RR Decker, E Efiom, EC Fricke, K Gurski, A Hastings, JS Johnson, BA Loiselle, MN Miriti, MG Neubert, L Pejchar, JR Poulsen, G Pufal, OH Razafindratsima, ME Sandor, K Shea, S Schreiber, EW Schupp, RS Snell, C Strickland, and J Zambrano. 2020. Advancing an interdisciplinary framework to study seed dispersal ecology. _AoB Plants_ 12:plz048.  
@@ -425,7 +432,7 @@ Science data. *Journal of Open Source Software*, 5(45):2028. https://doi.org/10.
 
 9. Fletcher, RJ, Jr., JA Sefair, C Wang, CL Poli, TAH Smith, EM Bruna, RD Holt, M Barfield, AJ Marx, and MA Acevedo. 2019. Towards a unified framework for connectivity that disentangles movement and mortality in space and time. _Ecology Letters_ 22:1680-1689.  
 
-10. Bruna, EM 2018. Editorial board members are a non-random sample of ecological experts. _Nature Ecology and Evolution_ 2(2):202.  
+10. Bruna, EM. 2018. Editorial board members are a non-random sample of ecological experts. _Nature Ecology and Evolution_ 2(2):202.  
 
 10. Costa, AN, EM Bruna, and HL Vasconcelos. 2018. Do an ecosystem engineer and environmental gradient act independently or in concert to shape juvenile plant communities? Tests with the leaf-cutter ant _Atta laevigata_ in a Neotropical savanna. _PeerJ_ 6:e5612.  [Ph. D. Thesis Chapter].  
 
@@ -797,20 +804,20 @@ Social Media Workshop (Graduate, 2016)
 
 __Other Teaching Experience__  
 
-
 *__Guest Lectures in UF Courses__*  
-Diverse Perspectives in Conservation(WIS4934, 2021)
-Human Footprint on the Landscape (GEO3352, 2019)  
-Facets of Sustainability (IDS2154, 2011, 2013)  
-Environmental Planning & Design (EES 6051, 2016,2018)  
-The Amazon (LAS6290, 2009, 2011)  
+The Professional Scientist (WIS 6934: 2021)
+Diverse Perspectives in Conservation (WIS4934: 2021)
+Human Footprint on the Landscape (GEO3352: 2019)  
+Facets of Sustainability (IDS2154: 2011, 2013)  
+Environmental Planning & Design (EES 6051: 2016, 2018)  
+The Amazon (LAS6290: 2009, 2011)  
 Design & Methods of Research in Latin American Studies (Graduate, 2019, 2020)  
-Discovering Research & Communicating Science (IDH3931, 2015)  
-Wildlife Techniques (WIS4945C, 2005)  
-Development Theory & Practice (LAS6938, 2010)  
-Wildlife Population Modeling (WIS6466, 2003, 2006, 2008, 2010)  
-Principles of Wildlife Ecology & Conservation (WIS6934, 2008)  
-Luso-Brazilian Civilization (POW3500, 2004)  
+Discovering Research & Communicating Science (IDH3931: 2015)  
+Wildlife Techniques (WIS4945C: 2005)  
+Development Theory & Practice (LAS6938: 2010)  
+Wildlife Population Modeling (WIS6466: 2003, 2006, 2008, 2010)  
+Principles of Wildlife Ecology & Conservation (WIS6934: 2008)  
+Luso-Brazilian Civilization (POW3500: 2004)  
 
 *__Courses Taught & Guest lectures at Other Institutions__*  
 Univ. Federal de Uberlândia: Mechanisms of Species Coexistence (Graduate Course, 2006)  

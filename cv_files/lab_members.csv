@@ -1,5 +1,6 @@
 ﻿cat,Name,Institution,Position,Year
-postdoc,Eric Scott,UF,Postdoctoral Scholar,2020-2021
+postdoc,Eric Scott,UF,Postdoctoral Scholar,2020-2022
+postdoc,Nina Attias,UF,Postdoctoral Scholar,2021-2022
 postdoc,Maria Rosa Darrigo,UF,Postdoctoral Scholar,2012
 postdoc,Paul Gagnon,UF,Postdoctoral Scholar,2008-2011
 postdoc,Heather Passmore ,UF,Postdoctoral Scholar,2010-2011
@@ -29,6 +30,8 @@ vis_grad,Fabiane Mundim Ribeiro,UFU (Brazil),Visiting M.S. Student,2008
 vis_grad,Rita Quitete Portela,UNICAMP (Brazil),Visiting Ph.D. Student,2007
 vis_grad,Ernane Vieira Neto,UFU (Brazil),Visiting M.S. Student,2007
 vis_grad,,,,
+ug,Andrew Mercadante,UF,NSF REU Scholar,2021
+ug,Ellie McDaniel,UF,NSF REU Scholar,2021
 ug,Irina Skinner,UF,UF Scholars Thesis,2009
 ug,Irina Skinner,UF,WEC Individual Project,2006
 ug,David M. Lapola,UNESP (Brazil),Senior Thesis Co-advisor,2004
