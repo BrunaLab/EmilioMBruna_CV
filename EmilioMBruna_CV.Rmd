@@ -89,7 +89,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 \par\noindent\rule{\textwidth}{0.4pt}
 \textbf{\textcolor{darkmidnightblue}{RESEARCH \& TEACHING INTERESTS:}} Tropical ecology and conservation, plant population ecology, plant-animal interactions, scientometrics and bibliometrics, science & science policy in Latin America  
 
-\textbf{\textcolor{darkmidnightblue}{LANGUAGES:}} Native fluency in Spanish and English, Fluent in Portuguese  
+\textbf{\textcolor{darkmidnightblue}{LANGUAGES:}} Fluent in Spanish, English, and Portuguese  
 \vspace{-0.6cm}  
 
 <!-- ```{r, child=c('one.Rmd', 'two.Rmd')} -->
@@ -147,6 +147,8 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 2013-Present\hspace{6mm}**Professor & Distinguished Teaching Scholar**, University of Florida  
 &nbsp;\hspace{24mm}Department of Wildlife Ecology & Conservation & Center for Latin American Studies  
 
+2022-2025\hspace{10mm}**Secretary**, Ecological Society of America  
+
 2020-2021\hspace{10mm}**President**, Association for Tropical Biology and Conservation  
 
 2012-2021\hspace{10mm}**Director**, Florida-Brazil Linkage Institute, University of Florida   
@@ -169,7 +171,6 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 &nbsp;\hspace{24mm}Instituto Nacional de Pesquisas da Amazônia-Smithsonian Institution  
 
 \endgroup
-
 <!-- ```{r positions, echo=FALSE,message = FALSE,warning=FALSE} -->
 
 <!-- positions<-read_csv("./cv_files/positions.csv") %>% -->
@@ -198,9 +199,8 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!--   sub("\\\\bottomrule", "", .) -->
 <!-- ``` -->
 
-
+\vspace{-0.2cm}
 ### AWARDS
-
 <!-- ```{r awards, echo=FALSE,message = FALSE,warning=FALSE} -->
 
 <!-- awards<-read_csv("./cv_files/fellowships.csv") %>%  -->
@@ -231,7 +231,8 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- ``` -->
 
 \begingroup 
-\setlength{\leftskip}{.2cm}  
+\setlength{\leftskip}{.2cm} 
+
 2020\hspace{4mm}Selected for Induction into Alpha Zeta (Faculty Affiliate, UF Chapter)    
 2020\hspace{4mm}Roche Teaching Scholar, UF College of Agricultural and Life Sciences    
 2016\hspace{4mm}Sigma Xi (Full Member, University of Florida Chapter)    
@@ -375,11 +376,11 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 ### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=2)
 
-1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. *Plant Ecology.*
+1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. _In review._ Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. *Plant Ecology.*
 
-2. Halpern, Benjamin S. *et al.* Priorities for synthesis in ecology and environmental science. *Frontiers in Ecology and the Environment *
+2. Halpern, Benjamin S. *et al.* _In review._ Priorities for synthesis in ecology and environmental science. *Frontiers in Ecology and the Environment *
 
-
+3. Russell, A.E., T.M. Aide, E. Braker, E. M. Bruna, C. N. Ganong, R. D. Hardin, K. D. Holl, S. C. Hotchkiss, J. Klemens, E. K. Kuprewicz, L. G. Lohmann, S. K. Macey, G. Middendorf, C. R. Nufio, R. Ostertag, J. S. Powers, S. Russo, J. L. Stynoski, C. G. Wills, U. Valdez. _In revision._ Novel approaches to bringing tropical biology into the undergraduate classroom: the OCELOTS Network. *Biotropica*.
 <!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
 <!-- maybe to print out by reference groups? -->
 <!-- https://forums.zotero.org/discussion/23604/a-mini-guide-to-sort-bibliography-by-reference-type -->
@@ -741,10 +742,6 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 1.	E. S. Parsons and E. M. Bruna. Assessing the magnitude of abiotic edge effects in fragmented landscapes: revisiting the paradigm with data. In preparation for *Biological Conservation* [MA Thesis chapter].
 
 2.	E. M. Bruna, M. Uriarte, and W. J. Kress. Abundance and demography of the understory herb *Heliconia acuminata* (Heliconiaceae) in an experimentally fragmented landscape in the Central Amazon (1997-2009). In preparation for *Ecology*.
-
-
-3. Russell, A.E., T.M. Aide, E. Braker, E. M. Bruna, C. N. Ganong, R. D. Hardin, K. D. Holl, S. C. Hotchkiss, J. Klemens, E. K. Kuprewicz, L. G. Lohmann, S. K. Macey, G. Middendorf, C. R. Nufio, R. 
-Ostertag, J. S. Powers, S. Russo, J. L. Stynoski, C. G. Wills, U. Valdez. Novel approaches to bringing tropical biology into the undergraduate classroom: the OCELOTS Network. In preparation for *Biotropica*.
 
 3.	E. H. M. Vieira-Neto, F. M. Mundim, and E. M. Bruna. Closed and open demographic models give contrasting patterns of inter-ppopulation dynamics in a long-lived superorganism. In preparation for *Ecology.*
 
@@ -1165,8 +1162,7 @@ UC San Diego EAP Selection Committee, Tropical Biology Program (1994)
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-President (2021)  
-President-Elect (2020)  
+Past-President (2022), President (2021), President-Elect (2020)  
 Program Committee, Annual Meeting of the ATBC (2021)    
 Student Field Grants Selection Committee (2020)  
 Student Field Grants Selection Committee (2020)  
