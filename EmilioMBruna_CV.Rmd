@@ -404,12 +404,11 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 ### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & ESSAYS (N = 107)
 
+1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. 2022. Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. _Global Change Biology_. 28(2):463-479.  https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15900 
 
-1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. *In press.* Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. _Global Change Biology_. Preprint at [https://doi.org/10.1101/2021.06.28.450186](https://doi.org/10.1101/2021.06.28.450186)
+2. Smith, A. C., L. Merz, J. Borden, C. Gulick, A. R. Kshirsagar, and E. M. Bruna. 2002. Article processing charges, the geographic diversity of author communities, and barriers to publication for authors in the Global South. _Quantitative Science Studies_. 2(4):1123–1143. https://direct.mit.edu/qss/article/2/4/1123/107612/Assessing-the-effect-of-article-processing-charges
 
-2. Smith, A. C., L. Merz, J. Borden, C. Gulick, A. R. Kshirsagar, and E. M. Bruna. *In press*. Article processing charges, the geographic diversity of author communities, and barriers to publication for authors in the Global South. _Quantitative Science Studies_.  Preprint at [https://doi.org/10.21222/osf.io/s7cx4](https://doi.org/10.21222/osf.io/s7cx4)
-
-1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. _Journal of Ecology_ 109:2729– 2739. [PhD Thesis Chapter].  https://doi.org/10.1111/1365-2745.13684
+1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. _Journal of Ecology_ 109:2729– 2739. [PhD Thesis Chapter].  https://doi.org/10.1111/1365-2745.13684 **[Departmental Nomination for UF/IFAS “High Impact Publication”]**
 
 1. Bruna, E.M., R Chazdon, TM Errington and BA Nosek. 2021. A proposal to advance theory and promote collaboration in tropical biology by supporting replications. _Biotropica_, 53:6-10.  
 
@@ -417,7 +416,6 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 2. Fournier, Auriel. Matthew E. Boone, Forrest R. Stevens, and Emilio M. Bruna. 2020. refsplitr: Author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of
 Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.21105/joss.02028
-
 
 2. Beckman, NG, CE Aslan, HS Rogers, O Kogan, JL Bronstein, JM Bullock, F Hartig, J HilleRisLambers, Y Zhou, D Zurell, JF Brodie, EM Bruna, RS Cantrell, RR Decker, E Efiom, EC Fricke, K Gurski, A Hastings, JS Johnson, BA Loiselle, MN Miriti, MG Neubert, L Pejchar, JR Poulsen, G Pufal, OH Razafindratsima, ME Sandor, K Shea, S Schreiber, EW Schupp, RS Snell, C Strickland, and J Zambrano. 2020. Advancing an interdisciplinary framework to study seed dispersal ecology. _AoB Plants_ 12:plz048.  
 
@@ -455,7 +453,7 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 
 18. Carvalho, KS, MAF Carneiro, IC Nascimento, AK Saha, and EM Bruna. 2016. Lower ant diversity on earth mounds in a semi-arid brazilian ecosystem: Natural or a sign of degradation? _Sociobiology_ 63(4):1022-1030.    
 
-19. Mundim, FM, and EM Bruna. 2016. Is there a temperate bias in our understanding of how climate change will alter plant- herbivore interactions? A meta- analysis of experimental studies. _American Naturalist_ 188:S74-S89. [Ph. D. Thesis Chapter] **[2016 UF-WEC “High Impact Publication”]**.  
+19. Mundim, FM, and EM Bruna. 2016. Is there a temperate bias in our understanding of how climate change will alter plant- herbivore interactions? A meta- analysis of experimental studies. _American Naturalist_ 188:S74-S89. [Ph. D. Thesis Chapter] **[Departmental Nomination for UF/IFAS “High Impact Publication”]**.  
 
 20. Sobrinho, MS, M Tabarelli, IC Machado, JC Sfair, EM Bruna, and AV Lopes. 2016. Land use, fallow period and the recovery of a caatinga forest. _Biotropica_ 48:586-597.    
 
@@ -1192,7 +1190,7 @@ __Other service as a reviewer (No. of reviews or year of service)__: *Red Line E
 \endgroup 
 ### INVITED PRESENTATIONS
 ```{r talks, echo=FALSE,message = FALSE,warning=FALSE}
-talks<-read_csv("./cv_files/talks.csv") %>% select(-year) %>% replace_na(list(year2=""))
+talks<-read_csv("./cv_files/talks.csv") %>% select(-year) %>% replace_na(list(year=""))
 kbl(talks, 
       format    = "latex", 
       align = "l",
