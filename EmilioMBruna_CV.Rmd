@@ -406,8 +406,8 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. 2022. Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. _Global Change Biology_. 28(2):463-479.  https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15900 
 
-2. Audrey C. Smith, Leandra Merz, Jesse B. Borden, Chris K. Gulick, Akhil R. Kshirsagar, Emilio M. Bruna; Assessing the effect of article processing charges on the geographic diversity of authors using Elsevier’s “Mirror Journal” system. 2022. Quantitative Science Studies 2(4):1123–1143. doi: https://doi.org/10.1162/qss_a_00157 **[featured in [Nature](https://www.nature.com/articles/d41586-022-00342-w)]**
-.
+2. Audrey C. Smith, Leandra Merz, Jesse B. Borden, Chris K. Gulick, Akhil R. Kshirsagar, Emilio M. Bruna; Assessing the effect of article processing charges on the geographic diversity of authors using Elsevier’s “Mirror Journal” system. 2022. Quantitative Science Studies 2(4):1123–1143. doi: https://doi.org/10.1162/qss_a_00157 **[featured in [Nature](https://www.nature.com/articles/d41586-022-00342-w)]**. 
+
 1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. _Journal of Ecology_ 109:2729– 2739. [PhD Thesis Chapter].  https://doi.org/10.1111/1365-2745.13684 **[Departmental Nomination for UF/IFAS “High Impact Publication”]**
 
 1. Bruna, E.M., R Chazdon, TM Errington and BA Nosek. 2021. A proposal to advance theory and promote collaboration in tropical biology by supporting replications. _Biotropica_, 53:6-10.  
@@ -1049,7 +1049,9 @@ kbl(lab_members3,digits = 1,
 \begingroup 
 \setlength{\leftskip}{.2cm}
 Samuel P. Harn Museum of Art Faculty Council (2012-2015)  
-Selection Committee, UF International Educator of the Year Award (2006)  
+Selection Committee, UF Undergraduate Faculty Mentor/Advisor of the Year (2022) 
+Selection Committee, UF Undergraduate Teacher of the Year  (2022) 
+Selection Committee, UF International Educator of the Year (2006)  
 Selection Committee, UF Teacher/Scholar of the Year (2015)  
 UF Research Foundation Professorship Selection Committee (2010)  
 Fulbright Fellows Campus Interview Committee  (2019)  
@@ -1126,12 +1128,12 @@ LAS Graduate Admissions and Fellowship Committee (2007)
 Chair, Search and Screen Committee, Lecturer in Latin American Studies (2015)  
 Chair, LAS Awards and Scholarship Committee (2019)  
 Search and Screen Committee, LAS Communications Coordinator (2015)  
-Bacardi Seminar Series Coordinator (Spring 2015)  
-Academic Advisor, Tropical Conservation and Development (TCD) Program (2008-2011) 
+Bacardi Seminar Series Coordinator (2015)  
+Academic Advisor, Tropical Conservation and Development Program (2008-11, 2021-2022) 
 Faculty Advisor, TCD Graduate Student Organization (2008-2016)  
-Steering Committee, TCD Program (2002-2008, 2010-2016, 2018-present)  
-Chair, TCD Fellowship Committee (2012)  
-Chair, TCD Field Research Grants Committee (2004, 2008, 2009, 2010, 2015, 2020)  
+Steering Committee, Tropical Conservation and Development Program (2002-08, 2010-16, 2018-present)  
+Chair, TCD Fellowship Committee (2012, 2022)  
+Chair, TCD Field Research Grants Committee (2004, 2008, 2009, 2010, 2015, 2020, 2021)  
 Chair, Marianne Schmink Award Selection Committee (2010, 2011, 2013)  
 TCD Field Research Grants Committee (2003, 2004)  
 TCD Fellowship Committee (2003-2005)  
@@ -1183,7 +1185,7 @@ Co-organizer, Symposium on Amazonian Conservation, Annual Meeting (2004)
 
 __*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1), *Information, Communication,& Society* (1), *Ecology* (4), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (12), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
 
-__US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population and Evolutionary Processes (2007), DEB Population and Community Ecology (2011, 2013). Ad-hoc proposal review: UMEB Program (2), RUI Program (1), Ecological Biology Program (3), AMERICAS Dissertation Improvement Grant (1), NSF Global Scientists and Engineers Program (1), Population and Evolutionary Processes Program (1), International Research Fellowship Program (1), Population and Community Ecology Program (2), Dimensions of Biodiversity Program (1)
+__US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population and Evolutionary Processes (2007), DEB Population and Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (7), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists and Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
 
 __Other service as a reviewer (No. of reviews or year of service)__: *Red Line Editorial (2019, technical review of a K-12 book), Mindlin Foundation (2018), Cornell University Press (2017), Instituto Serrapliheira (2017), HHMI Professors Program (2017), UF FAES/CRIS Project Proposals (2), U. of Chicago Press (1), Alfred P. Sloan Foundation Minority Ph.D. Program (3). National Geographic Society (1), U. of California Press (1)  
 
@@ -1213,6 +1215,7 @@ kbl(talks,
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
+2022\hspace{4mm} Nature News, NRC (Netherlands), WIRED Magazine  
 2021\hspace{4mm} Chronicle for Higher Education, The Florida Independent Alligator, Associated Press, Nightline (ABC)  
 2020\hspace{4mm} Washington Post   
 2019\hspace{4mm} USA Today, CBC News Network (Canada), The Atlantic, The Verge, MSNBC’s Velshi & Ruhle  
