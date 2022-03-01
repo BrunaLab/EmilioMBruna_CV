@@ -371,7 +371,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- ... -->
 ### PEER-REVIEWED ARTICLES, SOFTWARE, ESSAYS, AND OTHER PRODUCTS  
 
-*Note: I do not co-author papers from my students’ theses unless I have made contributions substantially beyond the mentoring, fundraising, and editing I consider my fundamental responsibility as their advisor. Moreover, I encourage lab members to engage in side projects, which often result in publications on which I am not a co-author. A list of my lab members’ publications on which I am not a coauthor is below.* 
+*Note: I do not co-author papers from my students’ theses unless I have made contributions substantially beyond the mentoring, fundraising, and editing I consider my fundamental responsibility as their advisor. Moreover, I encourage lab members to engage in side-projects, which often result in publications on which I am not a co-author. A list of my lab members’ publications on which I am not a coauthor is below.* 
 
 
 ### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=2)
@@ -800,8 +800,8 @@ Social Media Workshop (Graduate, 2016)
 __Other Teaching Experience__  
 
 *__Guest Lectures in UF Courses__*  
-The Professional Scientist (WIS 6934: 2021)
-Diverse Perspectives in Conservation (WIS4934: 2021)
+The Professional Scientist (WIS 6934: 2021)  
+Diverse Perspectives in Conservation (WIS4934: 2021)  
 Human Footprint on the Landscape (GEO3352: 2019)  
 Facets of Sustainability (IDS2154: 2011, 2013)  
 Environmental Planning & Design (EES 6051: 2016, 2018)  
@@ -1049,8 +1049,8 @@ kbl(lab_members3,digits = 1,
 \begingroup 
 \setlength{\leftskip}{.2cm}
 Samuel P. Harn Museum of Art Faculty Council (2012-2015)  
-Selection Committee, UF Undergraduate Faculty Mentor/Advisor of the Year (2022) 
-Selection Committee, UF Undergraduate Teacher of the Year  (2022) 
+Selection Committee, UF Undergraduate Faculty Mentor/Advisor of the Year (2022)  
+Selection Committee, UF Undergraduate Teacher of the Year  (2022)  
 Selection Committee, UF International Educator of the Year (2006)  
 Selection Committee, UF Teacher/Scholar of the Year (2015)  
 UF Research Foundation Professorship Selection Committee (2010)  
@@ -1112,6 +1112,7 @@ Chair, Peer Teaching Evaluation Committee for Dr. Lyn Branch (2011)
 Chair, Peer Teaching Evaluation Committee for Dr. Bill Pine (2010)  
 Chair, Peer Teaching Evaluation Committee for Dr. Robert Fletcher (2009)  
 Tenure Mentorship Committee for Dr. Nia Morales (2021-2022)  
+Peer Teaching Evaluation Committee for Dr. Raelene Crandall (2021-2022)  
 Peer Teaching Evaluation Committee for Dr. Madan Oli (2003)  
 Peer Teaching Evaluation Committee for Dr. Bill Pine (2015)  
 
@@ -1163,7 +1164,7 @@ UC San Diego EAP Selection Committee, Tropical Biology Program (1994)
 \setlength{\leftskip}{.2cm}
 
 Past-President (2022), President (2021), President-Elect (2020)  
-Program Committee, Annual Meeting of the ATBC (2021)    
+Program & Organizing Committees, Annual Meeting of the ATBC (2021)    
 Student Field Grants Selection Committee (2020)  
 Student Field Grants Selection Committee (2020)  
 Crowdfunding Workshop, Annual Meeting of the ATBC (2018)  
@@ -1192,7 +1193,9 @@ __Other service as a reviewer (No. of reviews or year of service)__: *Red Line E
 \endgroup 
 ### INVITED PRESENTATIONS
 ```{r talks, echo=FALSE,message = FALSE,warning=FALSE}
-talks<-read_csv("./cv_files/talks.csv") %>% select(-year) %>% replace_na(list(year=""))
+talks<-read_csv("./cv_files/talks.csv", col_types = cols(.default = "c")) %>% 
+  select(-year)  %>% 
+  replace_na(list(year2=""))
 kbl(talks, 
       format    = "latex", 
       align = "l",
