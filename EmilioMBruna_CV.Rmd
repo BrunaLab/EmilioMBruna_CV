@@ -406,9 +406,9 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. 2022. Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. _Global Change Biology_. 28(2):463-479.  https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15900 
 
-2. Audrey C. Smith, Leandra Merz, Jesse B. Borden, Chris K. Gulick, Akhil R. Kshirsagar, Emilio M. Bruna; Assessing the effect of article processing charges on the geographic diversity of authors using Elsevier’s “Mirror Journal” system. 2022. Quantitative Science Studies 2(4):1123–1143. doi: https://doi.org/10.1162/qss_a_00157 **[featured in [Nature](https://www.nature.com/articles/d41586-022-00342-w)]**. 
+2. Audrey C. Smith, Leandra Merz, Jesse B. Borden, Chris K. Gulick, Akhil R. Kshirsagar, Emilio M. Bruna; Assessing the effect of article processing charges on the geographic diversity of authors using Elsevier’s “Mirror Journal” system. 2022. Quantitative Science Studies 2(4):1123–1143. doi: https://doi.org/10.1162/qss_a_00157 **_Featured in [Nature](https://www.nature.com/articles/d41586-022-00342-w)], [NRC News](https://www.nrc.nl/nieuws/2022/02/22/systeem-van-open-access-helpt-wetenschappers-uit-arme-landen-niet-a4092976)_**. 
 
-1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. _Journal of Ecology_ 109:2729– 2739. [PhD Thesis Chapter].  https://doi.org/10.1111/1365-2745.13684 **[Departmental Nomination for UF/IFAS “High Impact Publication”]**
+1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. _Journal of Ecology_ 109:2729– 2739. [PhD Thesis Chapter].  https://doi.org/10.1111/1365-2745.13684 _**Selected as a 2021 UF-IFAS “High Impact Publication”**_.  
 
 1. Bruna, E.M., R Chazdon, TM Errington and BA Nosek. 2021. A proposal to advance theory and promote collaboration in tropical biology by supporting replications. _Biotropica_, 53:6-10.  
 
@@ -453,7 +453,7 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 
 18. Carvalho, KS, MAF Carneiro, IC Nascimento, AK Saha, and EM Bruna. 2016. Lower ant diversity on earth mounds in a semi-arid brazilian ecosystem: Natural or a sign of degradation? _Sociobiology_ 63(4):1022-1030.    
 
-19. Mundim, FM, and EM Bruna. 2016. Is there a temperate bias in our understanding of how climate change will alter plant- herbivore interactions? A meta- analysis of experimental studies. _American Naturalist_ 188:S74-S89. [Ph. D. Thesis Chapter] **[Departmental Nomination for UF/IFAS “High Impact Publication”]**.  
+19. Mundim, FM, and EM Bruna. 2016. Is there a temperate bias in our understanding of how climate change will alter plant- herbivore interactions? A meta- analysis of experimental studies. _American Naturalist_ 188:S74-S89. [Ph. D. Thesis Chapter] _**Selected as WEC Department's 2016 “High Impact Publication”**_.    
 
 20. Sobrinho, MS, M Tabarelli, IC Machado, JC Sfair, EM Bruna, and AV Lopes. 2016. Land use, fallow period and the recovery of a caatinga forest. _Biotropica_ 48:586-597.    
 
@@ -469,7 +469,7 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 
 22. Bruna, EM, TJ Izzo, BD Inouye, and HL Vasconcelos. 2014. Effect of mutualist partner identity on plant demography. _Ecology_ 95:3237-3243. [Cover Article].  
 
-23. Cho, AH, SA Johnson, CE Schuman, JM Adler, O Gonzalez, SJ Graves, JR Huebner, DB Marchant, SW Rifai, I Skinner, and EM Bruna. 2014. Women are underrepresented on the editorial boards of journals in environmental biology and natural resource management. _PeerJ_ 2:e542. **[Named to the 2015 _PeerJ_ Picks Collection (Highlighting 20 articles of the 471 published in 2014)]**.   
+23. Cho, AH, SA Johnson, CE Schuman, JM Adler, O Gonzalez, SJ Graves, JR Huebner, DB Marchant, SW Rifai, I Skinner, and EM Bruna. 2014. Women are underrepresented on the editorial boards of journals in environmental biology and natural resource management. _PeerJ_ 2:e542. **_Named to the 2015 _PeerJ_ Picks Collection (Highlighting 20 articles of the 471 published in 2014)_**.   
 
 24. Smith, MJ, C Weinberger, EM Bruna, and S Allesina. 2014. The scientific impact of nations: Journal placement and citation performance. _PLoS ONE_ 9:e109195.  
 
@@ -497,7 +497,7 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 
 33. Passmore, HA, EM Bruna, SM Heredia, and HL Vasconcelos. 2012. Resilient networks of ant-plant mutualists in Amazonian forest fragments. _PLoS ONE_ 7(8):e40803.  
 
-34. Vasconcelos, HL, and EM Bruna. 2012. Arthropod responses to the experimental isolation of Amazonian forest fragments. _Zoologia_ 29:515-530. **[Invited review]**.  
+34. Vasconcelos, HL, and EM Bruna. 2012. Arthropod responses to the experimental isolation of Amazonian forest fragments. _Zoologia_ 29:515-530. **_Invited review_**.  
 
 36.	Palumbo, MJ, SA Johnson, FM Mundim, AC Wolf, S Arunachalam, O Gonzalez, A Lau, JL Ulrich, A Washuta, EM Bruna. 2012. Harnessing smartphones for ecological education, research, and outreach.  _Bulletin of the Ecological Society of America_ 93(4): 390-393.  
 
@@ -507,11 +507,11 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 
 37. Ferreira, AV, EM Bruna, and HL Vasconcelos. 2011. Seed predators limit plant recruitment in Neotropical savannas. _Oikos_ 120:1013-1022.  
 
-39.	Uriarte, M. Anciães, M. T.B. da Silva, P. Rubim, E. Johnson, and E. M. Bruna.  2011. Disentangling the drivers of reduced long-distance seed dispersal by birds in an experimentally fragmented  landscape.  Ecology 92(4): 924-93. **[2012 Outstanding Paper in Landscape Ecology, Int. Assoc. for Landscape Ecology - US Chapter]**.  
+39.	Uriarte, M. Anciães, M. T.B. da Silva, P. Rubim, E. Johnson, and E. M. Bruna.  2011. Disentangling the drivers of reduced long-distance seed dispersal by birds in an experimentally fragmented  landscape.  Ecology 92(4): 924-93. **_2012 Outstanding Paper in Landscape Ecology, Int. Assoc. for Landscape Ecology - US Chapter_**.  
 
 38. Gagnon, PR, EM Bruna, P Rubim, MR Darrigo, RC Littell, M Uriarte, and WJ Kress. 2011. Growth of an understory herb is chronically reduced in Amazonian forest fragments. _Biological Conservation_ 144:830-835.  
 
-39. Laurance, WF, JLC Camargo, RCC Luizao, SG Laurance, SL Pimm, EM Bruna, PC Stouffer, GB Williamson, J Benitez-Malvido, HL Vasconcelos, KS Van Houtan, CE Zartman, SA Boyle, RK Didham, A Andrade, and TE Lovejoy. 2011. The fate of Amazonian forest fragments: A 32-year investigation. _Biological Conservation_ 144:56-67. **[Highlighted as “Exceptional” by the Faculty of 1000]**.  
+39. Laurance, WF, JLC Camargo, RCC Luizao, SG Laurance, SL Pimm, EM Bruna, PC Stouffer, GB Williamson, J Benitez-Malvido, HL Vasconcelos, KS Van Houtan, CE Zartman, SA Boyle, RK Didham, A Andrade, and TE Lovejoy. 2011. The fate of Amazonian forest fragments: A 32-year investigation. _Biological Conservation_ 144:56-67. **_Highlighted as “Exceptional” by the Faculty of 1000_**.  
 
 40. Pitman, NCA, J Widmer, CN Jenkins, G Stocks, L Seales, F Paniagua, and EM Bruna. 2011. Volume and geographical distribution of ecological research in the Andes and the Amazon, 1995-2008. _Tropical Conservation Science _ 4:64-81.    
 
@@ -563,13 +563,13 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 
 62. Girao, LC, AV Lopes, M Tabarelli, and EM Bruna. 2007. Changes in tree reproductive traits reduce functional diversity in a fragmented Atlantic forest landscape. _PLoS ONE_ 2:e908.   
 
-63. De Athayde, SF, GM Da Silva, J Kaiabi, M Kaiabi, HR De Souza, K Ono, and EM Bruna. 2006. Participatory research and management of Arumã (_Ischnosiphon gracilis_ Rudge Koern., Marantaceae) by the Kaiabi people in the Brazilian Amazon. _Journal of Ethnobiology_ 26:36-59. **[Cover article]**.  
+63. De Athayde, SF, GM Da Silva, J Kaiabi, M Kaiabi, HR De Souza, K Ono, and EM Bruna. 2006. Participatory research and management of Arumã (_Ischnosiphon gracilis_ Rudge Koern., Marantaceae) by the Kaiabi people in the Brazilian Amazon. _Journal of Ethnobiology_ 26:36-59. **_Cover article_**.  
 
 64. Kainer, KA, M Schmink, H Covert, JR Stepp, EM Bruna, JL Dain, S Espinosa, and S Humphries. 2006. A graduate education framework for tropical conservation and development. _Conservation Biology_ 20:3-13.   
 
 65. Trager, MD, and EM Bruna. 2006. Effects of plant age, experimental nutrient addition and ant occupancy on herbivory in a Neotropical myrmecophyte. _Journal of Ecology_ 94:1156-1163.  
 
-66. Vasconcelos, HL, EHM Vieira-Neto, FM Mundim, and EM Bruna. 2006. Roads alter the colonization dynamics of a keystone herbivore in Neotropical savannas. _Biotropica_ 38:661-665. **[Recipient of the Julie S. Denslow Prize from the Association for Tropical Biology and Conservation]**.    
+66. Vasconcelos, HL, EHM Vieira-Neto, FM Mundim, and EM Bruna. 2006. Roads alter the colonization dynamics of a keystone herbivore in Neotropical savannas. _Biotropica_ 38:661-665. **_Recipient of the Julie S. Denslow Prize from the Association for Tropical Biology and Conservation_**.    
 
 67. Bruna, EM, and MB Nogueira Ribeiro. 2005. Regeneration and population structure of _Heliconia acuminata_ in Amazonian secondary forests with contrasting land-use histories. _Journal of Tropical Ecology_ 21:127-131.  
 
@@ -579,7 +579,7 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 
 71. Bruna, EM, HL Vasconcelos, and S Heredia. 2005. The effect of habitat fragmentation on communities of mutualists: Amazonian ants and their host plants. _Biological Conservation_ 124:209-216.  
 
-72. Doak, DF, WF Morris, C Pfister, BE Kendall, and EM Bruna. 2005. Correctly estimating how environmental stochasticity influences fitness and population growth. _American Naturalist_ 166:E14-E21.  **[Highlighted as a “Must Read” by the Faculty of 1000]**.  
+72. Doak, DF, WF Morris, C Pfister, BE Kendall, and EM Bruna. 2005. Correctly estimating how environmental stochasticity influences fitness and population growth. _American Naturalist_ 166:E14-E21.  **_Highlighted as a “Must Read” by the Faculty of 1000_**.  
 
 73. Lapola, DM, EM Bruna, CG de Willink, and HL Vasconcelos. 2005. Ant-tended hemiptera in Amazonian myrmecophytes:  Patterns of abundance and implications for mutualism function. _Sociobiology_ 46:433-442.   
 
@@ -603,7 +603,7 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 
 80. Bruna, EM, and WJ Kress. 2002. Habitat fragmentation and the demographic structure of an Amazonian understory herb ( _Heliconia acuminata_). _Conservation Biology_ 16:1256-1266.  
 
-81. Bruna, EM, O Nardy, SY Strauss, and SP Harrison. 2002. Experimental assessment of _Heliconia acuminata_ growth in a fragmented Amazonian landscape. _Journal of Ecology_ 90:639-649.  **_[Recipient of the John L. Harper Prize from the British Ecological Society]_**.  
+81. Bruna, EM, O Nardy, SY Strauss, and SP Harrison. 2002. Experimental assessment of _Heliconia acuminata_ growth in a fragmented Amazonian landscape. _Journal of Ecology_ 90:639-649.  **_Recipient of the _John L. Harper Prize_ from the British Ecological Society_**.  
 
 82. Laurance, WF, TE Lovejoy, HL Vasconcelos, EM Bruna, RK Didham, PC Stouffer, C Gascon, RO Bierregaard Jr., SG Laurance, and E Sampaio. 2002. Ecosystem decay of Amazonian forest fragments, a 22 year investigation. _Conservation Biology_ 16:605-618.    
 
@@ -615,7 +615,7 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 
 86. Bruna, EM, RN Fisher, and TJ Case. 1996. New evidence of habitat segregation between two cryptic species of Pacific skinks (_Emoia cyanura_ and _E. impar_). _Copeia_ 1996:998-1004.  
 
-87. Bruna, EM, RN Fisher, and TJ Case. 1996. Morphological and genetic evolution appear decoupled in Pacific skinks (Squamata: Scincidae: _Emoia_). _Proceedings of the Royal Society of London Series B Biological Sciences_ 263:681-688. **[Cover article]**.  
+87. Bruna, EM, RN Fisher, and TJ Case. 1996. Morphological and genetic evolution appear decoupled in Pacific skinks (Squamata: Scincidae: _Emoia_). _Proceedings of the Royal Society of London Series B Biological Sciences_ 263:681-688. **_Cover article_**.  
 
 88. Bruna, EM, RN Fisher, and TJ Case. 1995. Cryptic species of Pacific skinks (_Emoia_): Further support from mitochondrial DNA sequences. _Copeia_ 1995:981-983.  
 
@@ -878,7 +878,8 @@ Students under my supervision have been awarded over $35,000 in grants to suppor
 
 Research by my students has also been recognized for its excellence: 
 
-*	Fabiane Mundim: 2016 UF-WEC High-Impact Publication
+*	Fabiane Mundim: 2021 UF-IFAS High-Impact Publication
+*	Fabiane Mundim: 2016 WEC High-Impact Publication
 *	Ana Cecilia Silva: Honorable Mention, 2015 Charles Wood Thesis Award, UF Latin American Studies
 *	Fabiane Mundim: Honorable Mention, 2012 OTS Outstanding Paper Competition 
 *	Christine Lucas: 2012 Marianne Schmink Award for the University of Florida’s outstanding Dissertation in Tropical Conservation and Development.
