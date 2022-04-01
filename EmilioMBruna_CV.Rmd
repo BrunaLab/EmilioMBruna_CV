@@ -337,7 +337,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 5. National Science Foundation Grant OISE-0437369.  “U.S.-Brazil Collaborative Research: Seed predation and herbivory in Neotropical savannas: are there demographic consequences for plants?” ($25,012; 2005-2008).
 
-5.  Nacional de Desenvolvimento Científico e Tecnológico, Brazil. “Top-down effects on the structure of Cerrado plant communities” (R$ 22,875.74, Co-PI, 2005-2007)
+5.  Conselho Nacional de Desenvolvimento Científico e Tecnológico, Brazil. “Top-down effects on the structure of Cerrado plant communities” (R$ 22,875.74, Co-PI, 2005-2007)
 
 5. Fundação de Amparo a Pesquisa do Estado de Minas Gerais, Brazil. “Diversity and conservation of invertebrates in the ‘Triângulo Mineiro’: a case study using ants as bioindicators” (R$12,924.13; Senior Collaborator, 2005-2007)
 
@@ -374,13 +374,13 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 *Note: I do not co-author papers from my students’ theses unless I have made contributions substantially beyond the mentoring, fundraising, and editing I consider my fundamental responsibility as their advisor. Moreover, I encourage lab members to engage in side-projects, which often result in publications on which I am not a co-author. A list of my lab members’ publications on which I am not a coauthor is below.* 
 
 
-### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=2)
+### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=3)
 
 1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. _In review._ Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. *Plant Ecology.*
 
 2. Halpern, Benjamin S. *et al.* _In review._ Priorities for synthesis in ecology and environmental science. *Frontiers in Ecology and the Environment *
 
-3. Russell, A.E., T.M. Aide, E. Braker, E. M. Bruna, C. N. Ganong, R. D. Hardin, K. D. Holl, S. C. Hotchkiss, J. Klemens, E. K. Kuprewicz, L. G. Lohmann, S. K. Macey, G. Middendorf, C. R. Nufio, R. Ostertag, J. S. Powers, S. Russo, J. L. Stynoski, C. G. Wills, U. Valdez. _In revision._ Novel approaches to bringing tropical biology into the undergraduate classroom: the OCELOTS Network. *Biotropica*.
+3. Russell, A.E., T.M. Aide, E. Braker, E. M. Bruna, C. N. Ganong, R. D. Hardin, K. D. Holl, S. C. Hotchkiss, J. Klemens, E. K. Kuprewicz, L. G. Lohmann, S. K. Macey, G. Middendorf, C. R. Nufio, R. Ostertag, J. S. Powers, S. Russo, J. L. Stynoski, C. G. Wills, U. Valdez. _In revision._ Novel approaches to bringing tropical biology into the undergraduate classroom: the OCELOTS Network. *PLoS Biology*.
 <!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
 <!-- maybe to print out by reference groups? -->
 <!-- https://forums.zotero.org/discussion/23604/a-mini-guide-to-sort-bibliography-by-reference-type -->
@@ -828,7 +828,6 @@ Antioch College Semester Abroad in Brazil (1999, 2001)
 Univ. Federal do Amazonas, Fragmented Landscapes Field Course (2000, 2002)  
 
 \endgroup 
-
 ### GRADUATE STUDENTS ADVISED
 ```{r GradStudentsA, echo=FALSE,message = FALSE,warning=FALSE}
 # library(flextable)
@@ -840,7 +839,6 @@ Univ. Federal do Amazonas, Fragmented Landscapes Field Course (2000, 2002)
 # table1 <- border_remove(x = table1)
 # table1
 ```
-
 
 ```{r GradStudents, echo=FALSE,message = FALSE,warning=FALSE}
 
@@ -862,7 +860,6 @@ kbl(grad_advised,digits = 1,
   sub("\\\\bottomrule", "", .)
 
 ```
-
 Students under my supervision have been awarded over $35,000 in grants to support their research and been the recipients of prestigious fellowships and awards to support their studies: 
 
 *	FLAS Fellowship (S. Parsons)
@@ -880,12 +877,12 @@ Research by my students has also been recognized for its excellence:
 
 *	Fabiane Mundim: 2021 UF-IFAS High-Impact Publication
 *	Fabiane Mundim: 2016 WEC High-Impact Publication
-*	Ana Cecilia Silva: Honorable Mention, 2015 Charles Wood Thesis Award, UF Latin American Studies
-*	Fabiane Mundim: Honorable Mention, 2012 OTS Outstanding Paper Competition 
-*	Christine Lucas: 2012 Marianne Schmink Award for the University of Florida’s outstanding Dissertation in Tropical Conservation and Development.
-*	Ernane Vieira Neto: 2011 E. Lucy Braun Award (Outstanding poster presented at the Annual Meeting of the Ecological Society of America).
-*	Shannon Moore, a high school student in my lab as part of UF’s Student Science Training Program (SSTP), was awarded the prize for the best oral presentation at the 2010 SSTP Symposium.
-*	Matthew Trager: 2005 Wildlife Grad Student Assoc. Outstanding Research Award (MS Category).
+*	Ana Cecilia Silva: Honorable Mention, 2015 Charles Wood Thesis Award, UF Center for Latin American Studies
+*	Fabiane Mundim: Honorable Mention, 2012 Outstanding Paper Competition, OTS 
+*	Christine Lucas: 2012 Marianne Schmink Outstanding Dissertation Award, UF TCD Program
+*	Ernane Vieira Neto: E. Lucy Braun Outstanding Poster Award, 2011 Meeting of the ESA)
+*	Shannon Moore: Best Presentation, 2010 Symposium, UF High School Student Science Training Program
+*	Matthew Trager: 2005 Outstanding Research Award - MS Category, Wildlife Grad Student Association
 
 
 ### DOCTORAL STUDENT COMMITTEE SERVICE, UNIVERSITY OF FLORIDA
@@ -959,9 +956,6 @@ kbl(other,digits = 1,
 
 ```
 
-
-
-
 ### POSTDOCTORAL, SABBATICAL, & POSTGRADUATE SCHOLARS 
 ```{r lab_members, echo=FALSE,message = FALSE,warning=FALSE}
 lab_members<-read_csv("./cv_files/lab_members.csv") 
@@ -971,7 +965,8 @@ lab_members2<-lab_members %>%
   filter(cat=="postdoc"|cat=="sab"|cat=="postgrad") %>% 
   arrange(order(cat)) %>% 
   select(-cat) %>% 
-  replace_na(list(Name=" ", Institution=" ", Position=" ", Year=" "))
+  drop_na()
+  # replace_na(list(Name=" ", Institution=" ", Position=" ", Year=" "))
 
 kbl(lab_members2,digits = 1,
     format = "latex",
@@ -988,7 +983,6 @@ kbl(lab_members2,digits = 1,
                 position = "left") %>%
   sub("\\\\toprule", "", .) %>%
   sub("\\\\bottomrule", "", .)
-      
 ```
 
 <!-- **Doctoral Defense Committee:** Helen Belan (U. Federal de Uberlândia, Brazil, 2020), Alan Nilo da Costa (U. Federal de Uberlândia, Brazil, 2013). **Doctoral Dissertation Examiner:** Talita Reis (UNICAMP, Brazil, 2015), Mauricio Bonesso Sampaio (UNICAMP, Brazil, 2012), Maria Rosa Darrigo (UNICAMP, Brazil, 2011), Sjirk Geerts (Stellenbosch University, South Africa, 2011), Rafael Soares de Arruda (INPA, Brazil, 2008), Thiago Junqueira Izzo (INPA, Brazil, 2005). **Doctoral Proposal Defense**: Laura Vivian Barbosa (U. Federal de Uberlândia, Brazil, 2014) **Master's Thesis Defense Committee**: Jonas B. Marvalhas (U. Federal de Uberlândia, Brazil 2013), Ernane Vieira Neto (U. Federal de Uberlândia, Brazil, 2008), Alan Nilo da Costa (U. Federal de Uberlândia, Brazil, 2007), Daniel Mascia Vieira (Universidade de Brasília, Brazil, 2002) -->
@@ -1008,7 +1002,6 @@ kbl(lab_members2,digits = 1,
 
 <!-- Pedro B. Vasconcelos		U. Federal de Uberlândia, Brazil		B.S. Thesis Defense, 2009 -->
 <!-- Fabiane M. Mundim 		U. Federal de Uberlândia, Brazil		B.S. Thesis Defense, 2007 -->
-
 ### UNDERGRADUATE THESIS STUDENTS, HIGH SCHOOL RESEARCHERS, & VISITING GRADUATE STUDENTS  
 ```{r lab_members2, echo=FALSE,message = FALSE,warning=FALSE}
 lab_members<-read_csv("./cv_files/lab_members.csv") 
@@ -1018,7 +1011,8 @@ lab_members3<-lab_members %>%
   filter(cat=="ug"|cat=="hs"|cat=="vis_grad") %>% 
   arrange(order(cat)) %>% 
   select(-cat) %>% 
-  replace_na(list(Name=" ", Institution=" ", Position=" ", Year=" "))
+  drop_na()
+  # replace_na(list(Name=" ", Institution=" ", Position=" ", Year=" "))
 
 kbl(lab_members3,digits = 1,
                   format = "latex",
@@ -1035,7 +1029,6 @@ kbl(lab_members3,digits = 1,
                 position = "left") %>%
   sub("\\\\toprule", "", .) %>%
   sub("\\\\bottomrule", "", .)
-
 ```
 
 \begingroup 
