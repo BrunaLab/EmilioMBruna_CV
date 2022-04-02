@@ -371,7 +371,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- ... -->
 ### PEER-REVIEWED ARTICLES, SOFTWARE, ESSAYS, AND OTHER PRODUCTS  
 
-*Note: I do not co-author papers from my students’ theses unless I have made contributions substantially beyond the mentoring, fundraising, and editing I consider my fundamental responsibility as their advisor. Moreover, I encourage lab members to engage in side-projects, which often result in publications on which I am not a co-author. A list of my lab members’ publications on which I am not a coauthor is below.* 
+*I do not co-author papers from my students’ theses unless I have made contributions substantially beyond the mentoring, fundraising, and editing I consider my fundamental responsibility as their advisor. Moreover, I encourage lab members to engage in side-projects, which often result in publications on which I am not a co-author. A list of my lab members’ publications on which I am not a coauthor is below.* 
 
 
 ### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=3)
@@ -402,7 +402,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- --- -->
 
 
-### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & ESSAYS (N = 107)
+### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & ESSAYS (N = 108)
 
 1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. 2022. Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. _Global Change Biology_. 28(2):463-479.  https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15900 
 
@@ -565,17 +565,19 @@ Science data. _Journal of Open Source Software_, 5(45):2028. https://doi.org/10.
 
 63. De Athayde, SF, GM Da Silva, J Kaiabi, M Kaiabi, HR De Souza, K Ono, and EM Bruna. 2006. Participatory research and management of Arumã (_Ischnosiphon gracilis_ Rudge Koern., Marantaceae) by the Kaiabi people in the Brazilian Amazon. _Journal of Ethnobiology_ 26:36-59. **_Cover article_**.  
 
+64. Boyce MS, Haridas CV, Lee CT, & The Nceas Stochastic Demography Working Group. 2006. Demography in an increasingly variable world. _Trends in Ecology & Evolution_.  21(3):141-8. doi: 10.1016/j.tree.2005.11.018.
+
 64. Kainer, KA, M Schmink, H Covert, JR Stepp, EM Bruna, JL Dain, S Espinosa, and S Humphries. 2006. A graduate education framework for tropical conservation and development. _Conservation Biology_ 20:3-13.   
 
 65. Trager, MD, and EM Bruna. 2006. Effects of plant age, experimental nutrient addition and ant occupancy on herbivory in a Neotropical myrmecophyte. _Journal of Ecology_ 94:1156-1163.  
 
 66. Vasconcelos, HL, EHM Vieira-Neto, FM Mundim, and EM Bruna. 2006. Roads alter the colonization dynamics of a keystone herbivore in Neotropical savannas. _Biotropica_ 38:661-665. **_Recipient of the Julie S. Denslow Prize from the Association for Tropical Biology and Conservation_**.    
 
-67. Bruna, EM, and MB Nogueira Ribeiro. 2005. Regeneration and population structure of _Heliconia acuminata_ in Amazonian secondary forests with contrasting land-use histories. _Journal of Tropical Ecology_ 21:127-131.  
+67. Bruna, EM, and MBN Ribeiro. 2005. Regeneration and population structure of _Heliconia acuminata_ in Amazonian secondary forests with contrasting land-use histories. _Journal of Tropical Ecology_ 21:127-131.  
 
 68. Bruna, EM, and MK Oli. 2005. Demographic effects of habitat fragmentation on a tropical herb: Life-table response experiments. _Ecology_ 86:1816-1824.  
 
-69. Bruna, EM, and MBN Ribeiro. 2005a. The compensatory responses of an understory herb to experimental damage are habitat-dependent. _American Journal of Botany_ 92:2101-2210.    
+69. Bruna, EM, and MBN Ribeiro. 2005. The compensatory responses of an understory herb to experimental damage are habitat-dependent. _American Journal of Botany_ 92:2101-2210.    
 
 71. Bruna, EM, HL Vasconcelos, and S Heredia. 2005. The effect of habitat fragmentation on communities of mutualists: Amazonian ants and their host plants. _Biological Conservation_ 124:209-216.  
 
