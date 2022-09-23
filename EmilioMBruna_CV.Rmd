@@ -371,15 +371,13 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- --- -->
 <!-- nocite: '@*' -->
 <!-- ... -->
-### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=3)
+### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=4)
+
+1. Hyde, J. L., Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. _In review_ A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. In review **_Perspectives in Ecology & Conservation_**. 
 
 1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. _In review._ Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. **_Plant Ecology_**
 
-2. Halpern, Benjamin S. *et al.* _In review._ Priorities for synthesis in ecology and environmental science. **_Frontiers in Ecology and the Environment_**
-
-3. Russell, A.E., T.M. Aide, E. Braker, E. M. Bruna, C. N. Ganong, R. D. Hardin, K. D. Holl, S. C. Hotchkiss, J. Klemens, E. K. Kuprewicz, L. G. Lohmann, S. K. Macey, G. Middendorf, C. R. Nufio, R. Ostertag, J. S. Powers, S. Russo, J. L. Stynoski, C. G. Wills, U. Valdez. _In revision._ Novel approaches to bringing tropical biology into the undergraduate classroom: the OCELOTS Network. **_PLoS Biology_**.
-
-4. Ferreira, A. M., A. P. Faria, H. L. Vasconcelos, E. M. Bruna, Vladimir Eliodoro Costa, A. S. Franco Pinheiro Moreira. _In review._ Does chronic nitrogen deposition have effects on grass physiology of natural areas?  **_Theoretical and Experimental Plant Physiology_**.
+1. Ferreira, A. M., A. P. Faria, H. L. Vasconcelos, E. M. Bruna, Vladimir Eliodoro Costa, A. S. Franco Pinheiro Moreira. _In review._ Does chronic nitrogen deposition have effects on grass physiology of natural areas?  **_Theoretical and Experimental Plant Physiology_**.
 
 <!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
 <!-- maybe to print out by reference groups? -->
@@ -406,9 +404,13 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 **_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
 
-1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. 2022. Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. **_Global Change Biology_** 28(2):463-479.  https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15900 
+1. Halpern, Benjamin S. *et al.* _In press._ Priorities for synthesis in ecology and environmental science. **_Ecosphere_**
 
-2. Audrey C. Smith, Leandra Merz, Jesse B. Borden, Chris K. Gulick, Akhil R. Kshirsagar, Emilio M. Bruna; Assessing the effect of article processing charges on the geographic diversity of authors using Elsevier’s “Mirror Journal” system. 2022. **_Quantitative Science Studies_** 2(4):1123–1143. doi: https://doi.org/10.1162/qss_a_00157 **_Featured in [Nature](https://www.nature.com/articles/d41586-022-00342-w), [NRC News](https://www.nrc.nl/nieuws/2022/02/22/systeem-van-open-access-helpt-wetenschappers-uit-arme-landen-niet-a4092976)_**. 
+1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. 2022. Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. **_Global Change Biology_** 28(2):463-479.  https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15900 __**Recipient of the Postdoctoral Excellence Award from the Ecological Society of America's Plant Population Ecology Section_**
+
+1. Audrey C. Smith, Leandra Merz, Jesse B. Borden, Chris K. Gulick, Akhil R. Kshirsagar, Emilio M. Bruna. 2022. Assessing the effect of article processing charges on the geographic diversity of authors using Elsevier’s “Mirror Journal” system. **_Quantitative Science Studies_** 2(4):1123–1143. doi: https://doi.org/10.1162/qss_a_00157 **_Featured in [Nature](https://www.nature.com/articles/d41586-022-00342-w), [NRC News](https://www.nrc.nl/nieuws/2022/02/22/systeem-van-open-access-helpt-wetenschappers-uit-arme-landen-niet-a4092976)_**. 
+
+1. Russell, A.E., T.M. Aide, E. Braker, E. M. Bruna, C. N. Ganong, R. D. Hardin, K. D. Holl, S. C. Hotchkiss, J. Klemens, E. K. Kuprewicz, S. K. Macey, D. McClearn, G. Middendorf, R. Ostertag, J. S. Powers, S. E. Russo, J. L. Stynoski, U. Valdez, C. G. Wills. 2022. Integrating tropical research into biology education is urgently needed. **_PLoS Biology_** 20(6): e3001674. doi: https://doi.org/10.1371/journal.pbio.3001674 
 
 1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. **_Journal of Ecology_** 109:2729– 2739. [PhD Thesis Chapter].  https://doi.org/10.1111/1365-2745.13684 _**Selected as a 2021 UF-IFAS “High Impact Publication”**_.  
 
@@ -743,29 +745,33 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 20.	Heliconia acuminata Demographic Data. Seed set: http://dx.doi.org/10.6084/m9.figshare.1273926 Leaf Length vs. Area: http://dx.doi.org/10.6084/m9.figshare.92691
 
 
-### MANUSCRIPTS IN PREPARATION (N=12, drafts available upon request). 
+### MANUSCRIPTS IN PREPARATION (N=11, drafts available upon request). 
 	
 1.	E. S. Parsons and E. M. Bruna. Assessing the magnitude of abiotic edge effects in fragmented landscapes: revisiting the paradigm with data. In preparation for **_Biological Conservation_**[MA Thesis chapter].
 
-2.	E. M. Bruna, M. Uriarte, and W. J. Kress. Abundance and demography of the understory herb _Heliconia acuminata* (Heliconiaceae) in an experimentally fragmented landscape in the Central Amazon (1997-2009). In preparation for **_Ecology_**.
+1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. Using experimental landscapes to unlock the multi-scale relationships between habitat loss, fragmentation, and patch-size effects. In preparation for **_Ecology_**
 
-3.	E. H. M. Vieira-Neto, F. M. Mundim, and E. M. Bruna. Closed and open demographic models give contrasting patterns of inter-ppopulation dynamics in a long-lived superorganism. In preparation for **_Ecology_**.
+1. Kortessis, N., R. J. Fletcher, E. M. Bruna, T. A. H. Smith, and R. D. Holt. Habitat degradation, dispersal, and matrix effects: Interactions between processes at different spatial scales determine species persistence. In preparation for **_The American Naturalist_**.
 
-4.	Goring, S., K.S. Whitney, E. M. Bruna, A. L. Jacob, and T. Poisot. Ten Simple Rules to Make Scientific Content More Accessible. Preprint at: DOI: [10.22541/au.150844289.92609826](https://doi.org/10.22541/au.150844289.92609826)
+1. Smith, T. A. H.,  E. M. Bruna, R. D. Holt, and R. J. Fletcher. The matrix matters: A hierarchical experiment reveals the multi-scale role of matrix habitat.  In preparation for **_Ecology_**
 
-5.	Tolentino,M., M. Anciães, E. M. Bruna, and M. Uriarte. **_In revision*. Local and landscape factors mediate reproductive success of _Heliconia acuminata_ in a fragmented landscape. **_Landscape Ecology_**. 
+1.	E. M. Bruna, M. Uriarte, and W. J. Kress. Abundance and demography of the understory herb _Heliconia acuminata* (Heliconiaceae) in an experimentally fragmented landscape in the Central Amazon (1997-2009). In preparation for **_Ecology_**.
 
-6.	Corrêa Côrtes, M., M. Uriarte, W. J. Kress, J. B. Illian, and E. M. Bruna. *In revision*. Why are the spatial distribution of individual plants and genotypes decoupled? A framework to assess the contribution of ecological interactions and environmental filtering. **_Ecology Letters_** [Ph.D. Thesis Chapter].
+1.	E. H. M. Vieira-Neto, F. M. Mundim, and E. M. Bruna. Closed and open demographic models give contrasting patterns of inter-ppopulation dynamics in a long-lived superorganism. In preparation for **_Ecology_**.
 
-4.	Bruna, E. M. and W. Hahn.  In preparation. Is Latin American ecology really on the rise? Cross-national patterns of productivity and collaboration by Latin American scientists. In preparation for **_PLoS Biology_**.
+1.	Goring, S., K.S. Whitney, E. M. Bruna, A. L. Jacob, and T. Poisot. Ten Simple Rules to Make Scientific Content More Accessible. Preprint at: DOI: [10.22541/au.150844289.92609826](https://doi.org/10.22541/au.150844289.92609826)
 
-5.	Rubim, P., D. M. S. Matos, M. Uriarte, and E. M. Bruna. Local density influences the growth of seedlings of an Amazonian understory herb. In preparation for **_Biotropica_** [Ph.D. Thesis Chapter].
+1.	Tolentino,M., M. Anciães, E. M. Bruna, and M. Uriarte. **_In revision*. Local and landscape factors mediate reproductive success of _Heliconia acuminata_ in a fragmented landscape. **_Landscape Ecology_**. 
 
-6.	Loiselle, B. A., E. M. Bruna, R. Buschbacher, and S. Athayde. In prep. How can Brazilian Studies and partnerships with Brazilian institutions shape the perception of tropical conservation and development issues at US universities? Lessons from the University of Florida. Brazilian Studies in the United States: The road ahead. Yale University, FGV, and The Ministry of Education in Brazil.
+1.	Corrêa Côrtes, M., M. Uriarte, W. J. Kress, J. B. Illian, and E. M. Bruna. *In revision*. Why are the spatial distribution of individual plants and genotypes decoupled? A framework to assess the contribution of ecological interactions and environmental filtering. **_Ecology Letters_** [Ph.D. Thesis Chapter].
 
-7.	Rubim, P. R., M. Uriarte, O. Ferreira, and E. M. Bruna. Neighborhood effects and the reproductive effort of a tropical perennial herb. In preparation for **_Ecology_** [Ph.D. Thesis Chapter].
+1.	Bruna, E. M. and W. Hahn.  In preparation. Is Latin American ecology really on the rise? Cross-national patterns of productivity and collaboration by Latin American scientists. In preparation for **_PLoS Biology_**.
 
-8.	Hyde, J. L., Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. In prep. A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. In preparation for **_Environmental Science and Policy_**. 
+1.	Rubim, P., D. M. S. Matos, M. Uriarte, and E. M. Bruna. Local density influences the growth of seedlings of an Amazonian understory herb. In preparation for **_Biotropica_** [Ph.D. Thesis Chapter].
+
+1.	Loiselle, B. A., E. M. Bruna, R. Buschbacher, and S. Athayde. In prep. How can Brazilian Studies and partnerships with Brazilian institutions shape the perception of tropical conservation and development issues at US universities? Lessons from the University of Florida. Brazilian Studies in the United States: The road ahead. Yale University, FGV, and The Ministry of Education in Brazil.
+
+1.	Rubim, P. R., M. Uriarte, O. Ferreira, and E. M. Bruna. Neighborhood effects and the reproductive effort of a tropical perennial herb. In preparation for **_Ecology_** [Ph.D. Thesis Chapter].
 
 <!-- ### WEB PAGES AND OTHER FORMS OF DIGITAL COMMUNICATION -->
 
@@ -1144,7 +1150,8 @@ Advisory Committee, Pan-Amazon Community of Practice Project (2018-2020)
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-External Tenure & Promotion Evaluations: 2022 (1), 2021 (2), 2020 (3), 2018 (2), 2017 (1), 2016 (3), 2015 (1), 2011 (1)  
+External Tenure & Promotion Evaluations: 17 (2011-2022)  
+<!-- 2022 (4), 2021 (2), 2020 (3), 2018 (2), 2017 (1), 2016 (3), 2015 (1), 2011 (1)   -->
 ASN/SSE/SSB Committee on Development a Professional Code of Ethics (2018-2019)  
 External Advisor, 2nd Planning Workshop, Brazilian Biodiversity and Ecosystem Services Synthesis Center (2018)  
 Discussant, Research & Writing Conference, Florida Education Fund/McKnight Doctoral Fellowship Program (2016)  
@@ -1213,7 +1220,8 @@ kbl(talks,
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-2022\hspace{4mm} Nature News, NRC (Netherlands), WIRED Magazine, [Fox News Business](https://www.foxbusiness.com/politics/university-professors-unhappy-desantis-accountability), [The Scientist](https://www.the-scientist.com/news-opinion/florida-faculty-await-details-on-new-tenure-law-69971), [Miami Herald](https://www.miamiherald.com/news/local/education/article263966316.html)
+2022\hspace{4mm} Nature News, NRC (Netherlands), WIRED Magazine, [Fox News Business](https://www.foxbusiness.com/politics/university-professors-unhappy-desantis-accountability), [The Scientist](https://www.the-scientist.com/news-opinion/florida-faculty-await-details-on-new-tenure-law-69971), [Miami Herald](https://www.miamiherald.com/news/local/education/article263966316.html),  
+&nbsp;\hspace{10mm} The Florida Independent Alligator  
 2021\hspace{4mm} Chronicle for Higher Education, The Florida Independent Alligator, Associated Press, Nightline (ABC)  
 2020\hspace{4mm} Washington Post   
 2019\hspace{4mm} USA Today, CBC News Network (Canada), The Atlantic, The Verge, MSNBC’s Velshi & Ruhle  
