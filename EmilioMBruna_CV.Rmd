@@ -749,11 +749,13 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 	
 1.	E. S. Parsons and E. M. Bruna. Assessing the magnitude of abiotic edge effects in fragmented landscapes: revisiting the paradigm with data. In preparation for **_Biological Conservation_**[MA Thesis chapter].
 
-1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. Using experimental landscapes to unlock the multi-scale relationships between habitat loss, fragmentation, and patch-size effects. In preparation for **_Ecology_**
+1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. Landscape experiments unlock the multi-scale relationships of habitat loss, fragmentation, and patch-size effects. In preparation for **_Ecology_**
 
 1. Kortessis, N., R. J. Fletcher, E. M. Bruna, T. A. H. Smith, and R. D. Holt. Habitat degradation, dispersal, and matrix effects: Interactions between processes at different spatial scales determine species persistence. In preparation for **_The American Naturalist_**.
 
 1. Smith, T. A. H.,  E. M. Bruna, R. D. Holt, and R. J. Fletcher. The matrix matters: A hierarchical experiment reveals the multi-scale role of matrix habitat.  In preparation for **_Ecology_**
+
+1. Smith, T. A. H.,  E. M. Bruna, and R. J. Fletcher. Autotomy in a changing world: How landscape structure alters the prevalence and consequences of limb loss. In preparation for **_Functional Ecology_**
 
 1.	E. M. Bruna, M. Uriarte, and W. J. Kress. Abundance and demography of the understory herb _Heliconia acuminata* (Heliconiaceae) in an experimentally fragmented landscape in the Central Amazon (1997-2009). In preparation for **_Ecology_**.
 
@@ -1186,7 +1188,7 @@ Co-organizer, Symposium on Amazonian Conservation, Annual Meeting (2004)
 
 *__Ecology__*, *__Ecological Monographs__*, and *__Ecological Applications__*: Editorial Board (2008-2012)  
 
-__*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1), *Information, Communication,& Society* (1), *Ecology* (4), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (13), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
+__*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (1), *Information, Communication,& Society* (1), *Ecology* (4), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (13), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
 
 __US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population and Evolutionary Processes (2007), DEB Population and Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (7), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists and Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
 
