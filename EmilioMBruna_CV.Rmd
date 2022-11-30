@@ -295,6 +295,10 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 \begingroup 
 \setlength{\leftskip}{.2cm}  
 
+1. Maxwell-Hanrahan Foundaiton. "Support for the ATBC Field Grant Program" ($10,000; PIs Emilio M. Bruna, Patricia Sampaio, Lucia Lohmann, 2022-2023)
+
+1. Maxwell-Hanrahan Foundaiton. "Support for the UF TCD Seed Grant Program" ($10,000; PIs Emilio M. Bruna, Bette Losiselle, 2022-2023) 
+
 1. Sloan Foundation. “Reinventing Field Courses” ($74,060; PI: E. M. Bruna, Co-PIs: R. McCleery, P. Antonenko, N. Attias, D. Barton, 2020-2021)
 
 2. National Science Foundation. SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics ($199,904; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2020-2022).
@@ -373,7 +377,9 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- ... -->
 ### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=4)
 
-1. Hyde, J. L., Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. _In review_ A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. In review **_Perspectives in Ecology & Conservation_**. 
+1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. _In review_ Landscape experiments unlock the multi-scale relationships among habitat loss, fragmentation, and patch-size effects. **_Ecology_**
+
+1. Hyde, J. L., Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. _In review_ A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. **_Perspectives in Ecology & Conservation_**. 
 
 1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. _In review._ Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. **_Plant Ecology_**
 
@@ -634,35 +640,37 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 1. Fournier, A., F. Stevens, M. Boone, and E. M. Bruna. 2020. refsplitr. author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data. R package version 1.0.0. https://github.com/ropensci/refsplitr
 
 
-### OTHER WRITING & SCHOLARLY COMMUNICATION (N=14)
+### OTHER WRITING & SCHOLARLY COMMUNICATION (N=15)
+
+1. Bruna, E., Powers, J.S. and Lohmann, L.G. 2022. 2022 ATBC Honorary Fellows. _Biotropica_ 54:1521-1522. https://doi.org/10.1111/btp.13170
 
 1.	Johnson-Ulrich, L. and E. Bruna. 2019. Emilio Bruna: Seed germination is lower in fragmented rainforest. **_Project Biodiversify_** [projectbiodiversify.org/emilio-bruna/](projectbiodiversify.org/emilio-bruna/)
 
-2. _Jean Theodore Descourtilz (1796-1855) and the Ornithologie Bresilienne_: Website created with Graduate Students enrolled in my Tropical Ecology course following request from the UF Harn Museum of Art to analyze recently-acquired chromolithographs https://descourtilz.wordpress.com/
+1. _Jean Theodore Descourtilz (1796-1855) and the Ornithologie Bresilienne_: Website created with Graduate Students enrolled in my Tropical Ecology course following request from the UF Harn Museum of Art to analyze recently-acquired chromolithographs https://descourtilz.wordpress.com/
 
-2.	Bruna, E. M. 2019. _Biotropica_: the next 50 years. **_Biotropica_**.
+1.	Bruna, E. M. 2019. _Biotropica_: the next 50 years. **_Biotropica_**.
 
-4.	Bruna, Emilio M. 2017. Invasive new US visa rules hurt Americans too. **_Americas Quarterly_**. http://www.americasquarterly.org/content/academic-collaboration [Invited Essay].
+1.	Bruna, Emilio M. 2017. Invasive new US visa rules hurt Americans too. **_Americas Quarterly_**. http://www.americasquarterly.org/content/academic-collaboration [Invited Essay].
 
-5.	Harms, Kyle, J. Benitez-Malvido, & E. M. Bruna. 2017. 2016 Alwyn Gentry Awards and Luis F. Bacardi Award Recipients. **_Biotropica_** [Editorial].
+1.	Harms, Kyle, J. Benitez-Malvido, & E. M. Bruna. 2017. 2016 Alwyn Gentry Awards and Luis F. Bacardi Award Recipients. **_Biotropica_** [Editorial].
 
-6.	Bruna, E. M. 2016. Biotropica renames its "Outstanding Paper" awards for two pioneering scientists. **_Biotropica_** 48(6): 929 [Editorial].
+1.	Bruna, E. M. 2016. Biotropica renames its "Outstanding Paper" awards for two pioneering scientists. **_Biotropica_** 48(6): 929 [Editorial].
 
-10.	E. M. Bruna, M. Peña-Claros, Bryan Finega, and B. A. Kaplin. 2016. A New Data Archiving Policy for _Biotropica._ **_Biotropica_**, 48(2): 139-140. [Editorial].
+1.	E. M. Bruna, M. Peña-Claros, Bryan Finega, and B. A. Kaplin. 2016. A New Data Archiving Policy for _Biotropica._ **_Biotropica_**, 48(2): 139-140. [Editorial].
 
-11.	E. M. Bruna. 2014. Biotropica to become an ‘online-only’ journal in 2015. **_Biotropica_** 46(6): 782. [Editorial].
+1.	E. M. Bruna. 2014. Biotropica to become an ‘online-only’ journal in 2015. **_Biotropica_** 46(6): 782. [Editorial].
 
-12.	E. M. Bruna. 2014. 2014 Alwyn Gentry Awards, Luis F. Bacardi Award, and ATBC Honorary Fellows. **_Biotropica_** 46(6): 779-781. [Editorial].
+1.	E. M. Bruna. 2014. 2014 Alwyn Gentry Awards, Luis F. Bacardi Award, and ATBC Honorary Fellows. **_Biotropica_** 46(6): 779-781. [Editorial].
 
-13.	E. M. Bruna. 2014. A word from the Editor-in-Chief. **_Biotropica_** 46(4): 377 [Editorial].
+1.	E. M. Bruna. 2014. A word from the Editor-in-Chief. **_Biotropica_** 46(4): 377 [Editorial].
 
-17.	Bruna, E. M. 2010.  Announcement: _Biotropica_ Award for Excellence in Tropical Biology and Conservation. **_Biotropica_** 42(4): 518–519 [Editorial].
+1.	Bruna, E. M. 2010.  Announcement: _Biotropica_ Award for Excellence in Tropical Biology and Conservation. **_Biotropica_** 42(4): 518–519 [Editorial].
 
-19.	Bruna, E. M.  2003.  "For the Love of Nature".  **_Science: Next Wave Online Magazine_**. [Invited essay].
+1.	Bruna, E. M.  2003.  "For the Love of Nature".  **_Science: Next Wave Online Magazine_**. [Invited essay].
 
-20.	Bruna, E. M. 2002. A biologist’s guide to fragmenting the Amazon (including why it’s a bad idea).  **_Conservation Biology_**, 16(5): 1446-1448. [Book review].  
+1.	Bruna, E. M. 2002. A biologist’s guide to fragmenting the Amazon (including why it’s a bad idea).  **_Conservation Biology_**, 16(5): 1446-1448. [Book review].  
 
-21. Over 30 Wikipedia pages edited with students as part of graduate and undergraduate courses in Plant Animal Interactions and Tropical Ecology. Complete at: http://en.wikipedia.org/wiki/User:Embruna   
+1. Over 30 Wikipedia pages edited with students as part of graduate and undergraduate courses in Plant Animal Interactions and Tropical Ecology. Complete at: http://en.wikipedia.org/wiki/User:Embruna   
 
 
 ### PUBLICATIONS BY LAB MEMBERS (N = 16; see co-authorship philosophy above; * indicates lab member).
@@ -748,8 +756,6 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 ### MANUSCRIPTS IN PREPARATION (N=11, drafts available upon request). 
 	
 1.	E. S. Parsons and E. M. Bruna. Assessing the magnitude of abiotic edge effects in fragmented landscapes: revisiting the paradigm with data. In preparation for **_Biological Conservation_**[MA Thesis chapter].
-
-1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. Landscape experiments unlock the multi-scale relationships of habitat loss, fragmentation, and patch-size effects. In preparation for **_Ecology_**
 
 1. Kortessis, N., R. J. Fletcher, E. M. Bruna, T. A. H. Smith, and R. D. Holt. Habitat degradation, dispersal, and matrix effects: Interactions between processes at different spatial scales determine species persistence. In preparation for **_The American Naturalist_**.
 
@@ -847,7 +853,6 @@ Univ. Federal do Amazonas, Fragmented Landscapes Field Course (2000, 2002)
 ```
 
 ```{r GradStudents, echo=FALSE,message = FALSE,warning=FALSE}
-
 grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="advisor") %>% select(-role)
 kbl(grad_advised,digits = 1,
                   format = "latex",
@@ -1177,6 +1182,16 @@ Councillor (2009-2011)
 Conservation Committee (2004-2006)  
 Co-organizer, Symposium on Amazonian Conservation, Annual Meeting (2004)  
 
+\endgroup 
+
+### SERVICE - ECOLOGICVLA SOCIETY OF AMERICA
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+Secretary (2022-2025)
+Teller's Committee (2022-2025)
+Governance & Leadership Committee (2022-2025)
+Historical Records Committee (2022-2025)
 \endgroup 
 
 ### SERVICE AS A REVIEWER AND EDITOR  
