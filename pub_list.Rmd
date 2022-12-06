@@ -1,0 +1,18 @@
+---
+title: "pub_list"
+author: "Emilio M. Bruna"
+date: "12/1/2021"
+output: pdf_document
+# output: html_document
+bibliography: EMB_publications.bib
+# csl: ecology.csl
+csl: journal-of-applied-ecology.csl
+# csl: biotropica.csl
+---
+library(bookdown)  
+
+---
+nocite: '@*'
+---
+
+# References

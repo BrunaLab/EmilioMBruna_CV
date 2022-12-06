@@ -1143,7 +1143,7 @@ Faculty Advisor, TCD Graduate Student Organization (2008-2016)
 Steering Committee, Tropical Conservation and Development Program (2002-08, 2010-16, 2018-present)  
 Chair, TCD Fellowship Committee (2012, 2022)  
 Chair, TCD Field Research Grants Committee (2004, 2008, 2009, 2010, 2015, 2020, 2021)  
-Chair, Marianne Schmink Award Selection Committee (2010, 2011, 2013)  
+Chair, Marianne Schmink Outstanding Dissertation Award Selection Committee (2010, 2011, 2013, 2022)  
 TCD Field Research Grants Committee (2003, 2004)  
 TCD Fellowship Committee (2003-2005)  
 Organizing Committee, TCD Strategic Planning (2007-2008)  
@@ -1237,17 +1237,18 @@ kbl(talks,
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-2022\hspace{4mm} Nature News, NRC (Netherlands), WIRED Magazine, [Fox News Business](https://www.foxbusiness.com/politics/university-professors-unhappy-desantis-accountability), [The Scientist](https://www.the-scientist.com/news-opinion/florida-faculty-await-details-on-new-tenure-law-69971), [Miami Herald](https://www.miamiherald.com/news/local/education/article263966316.html),  
-&nbsp;\hspace{10mm} The Florida Independent Alligator  
-2021\hspace{4mm} Chronicle for Higher Education, The Florida Independent Alligator, Associated Press, Nightline (ABC)  
-2020\hspace{4mm} Washington Post   
-2019\hspace{4mm} USA Today, CBC News Network (Canada), The Atlantic, The Verge, MSNBC’s Velshi & Ruhle  
-&nbsp;\hspace{10mm} WIRED Magazine (2), Mashable, BBC World Service (UK), The Miradas Podcast    
-2018\hspace{4mm} Popular Science, Associated Press, National Geographic, Scholastic Classroom Magazines   
-&nbsp;\hspace{10mm} Gainesville Sun, Mongabay.com  
-2017\hspace{4mm} The Wire (India), Chemistry World, Nature, Gainesville Sun  
-2016\hspace{4mm} Chronicle of Higher Education, DailyDot, Nature, Mongabay.com  
-2014\hspace{4mm} NPR’s Morning Edition/Joe’s Big Idea, TV Acre (Rede Globo Rio Branco) Bom Dia Amazônia   
+2022\hspace{4mm} [Nature News](https://www.nature.com/articles/d41586-022-00342-w), NRC - The Netherlands, WIRED Magazine, [Fox News Business](https://www.foxbusiness.com/politics/university-professors-unhappy-desantis-accountability), [The Scientist](https://www.the-scientist.com/news-opinion/florida-faculty-await-details-on-new-tenure-law-69971), [Miami Herald](https://www.miamiherald.com/news/local/education/article263966316.html),  
+&nbsp;\hspace{10mm} [The Independent Florida Alligator](https://www.alligator.org/article/2022/09/blue-and-gold-macaw-uf-campus), [Chronicle for Higher Education](https://www.chronicle.com/article/it-could-have-been-worse-higher-ed-reacts-to-ben-sasse-at-u-of-florida), [The Hill](https://thehill.com/changing-america/enrichment/education/3274661-texas-and-florida-take-steps-to-limit-professor-tenure-at-state-schools/), Voice of America 
+2021\hspace{4mm} Chronicle for Higher Education, [The Florida Independent Alligator](https://www.alligator.org/article/2021/01/what-happens-if-my-classmate-has-covid-19), [Associated Press](https://apnews.com/article/brazil-rio-de-janeiro-trees-abf6a15a804ea1485fbcec0eeed3d8d7), ABC's Nightline  
+2020\hspace{4mm} [Washington Post](https://www.washingtonpost.com/nation/2020/11/11/kyle-lamb-data-florida-coronavirus-desantis/), [South Florida Sun Sentinel](https://www.sun-sentinel.com/opinion/commentary/fl-op-com-grimm-ohio-sports-blogger-florida-covid-20201113-wikb2iv3gbd2vcby4hcevwyd6i-story.html)   
+2019\hspace{4mm} [USA Today](https://www.usatoday.com/story/news/nation/2019/10/18/amazon-rainforest-still-burning-more-fires-future/4011238002/), CBC News Network, [The Atlantic](https://www.theatlantic.com/science/archive/2019/04/amnh-under-fire-hosting-brazils-jair-bolsonaro/587068/), [The Verge](https://www.theverge.com/2019/9/10/20858834/amazon-fire-brazil-forest-harm-recovery-century), MSNBC’s Velshi & Ruhle  
+&nbsp;\hspace{10mm} [WIRED Magazine](https://www.wired.com/story/the-horrifying-science-of-the-deforestation-fueling-amazon-fires/), [Mashable](https://mashable.com/article/amazon-rainforest-fires-tipping-point-deforestation), BBC World Service, [BBC News](https://www.bbc.com/mundo/noticias-america-latina-49504502), The Miradas Podcast, [Phys.org](https://phys.org/news/2019-10-amazon-hasnt-outbreaks-month-future.html), [Infobae](https://www.infobae.com/america/america-latina/2019/09/10/las-areas-quemadas-del-amazonas-podrian-tardar-siglos-en-recuperarse-por-completo/)    
+2018\hspace{4mm} Popular Science, Associated Press, [National Geographic](https://www.nationalgeographic.com/science/article/news-museu-nacional-fire-rio-de-janeiro-natural-history), Scholastic Classroom Magazines,  
+&nbsp;\hspace{10mm} [Minnesota Public Radio's Climate Cast](https://www.mprnews.org/story/2018/11/15/why-brazils-new-president-may-bring-more-climate-disaster-death), Gainesville Sun, Mongabay.com, [NBC News](https://www.nbcnews.com/news/latino/brazil-s-president-elect-jair-bolsonaro-may-smother-rainforest-scientists-n940326), [La Repubblica](https://www.repubblica.it/ambiente/2018/11/27/news/amazzonia_un_milione_di_campi_di_calcio_perduti_in_un_anno-212784490/)  
+2017\hspace{4mm} The Wire (India), Chemistry World, Nature, Gainesville Sun, [Indianapolis  Star](https://www.indystar.com/story/opinion/columnists/suzette-hackney/2017/03/24/hackney-robotics-kids-kindness-triumphs-hate/99578116/)  
+2016\hspace{4mm} Chronicle of Higher Education, DailyDot, Nature, [Mongabay.com](https://news.mongabay.com/2016/01/special-issue-of-biotropica-makes-the-case-for-protecting-south-americas-white-sand-forests/) [Mongabay.com](https://news.mongabay.com/2016/04/building-roads-agricultural-expansion-brazil-aiding-spread-insects-harm-crops/)  
+2015\hspace{4mm} [WAMC Public Radio](https://www.wamc.org/2015-01-30/is-there-a-pubradiovoice-that-sounds-like-america)  
+2014\hspace{4mm} NPR’s Morning Edition - "Joe’s Big Idea", TV Acre - Rede Globo Rio Branco, Bom Dia Amazônia, [SciDevNet](https://www.scidev.net/global/news/armadillo-mascot-world-cup/)  
 &nbsp;\hspace{10mm} TV Gazetta ‘Entrevista com Rogério Wenceslau’ (Rede Record Rio Branco), Estado de São Paulo  
 &nbsp;\hspace{10mm} Nature.com, WUFT, Science/Science Insider, Howler Soccer Magazine’s Dummy Podcast  
 2013\hspace{4mm} SciDevNet, WSLR Florida-Caribe Radio Show  
