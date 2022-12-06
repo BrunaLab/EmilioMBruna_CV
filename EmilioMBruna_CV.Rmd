@@ -813,7 +813,7 @@ Social Media Workshop (Graduate, 2016)
 \setlength{\leftskip}{.2cm}  
 <!-- __Other Teaching Experience__   -->
 *__Guest Lectures in University of Florida Courses__*  
-The Professional Scientist (WIS 6934: 2021)  
+The Professional Scientist (WIS 6934: 2021, 2022)  
 Diverse Perspectives in Conservation (WIS4934: 2021, 2022)  
 Human Footprint on the Landscape (GEO3352: 2019)  
 Facets of Sustainability (IDS2154: 2011, 2013)  
