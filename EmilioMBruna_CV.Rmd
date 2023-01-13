@@ -375,15 +375,13 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- --- -->
 <!-- nocite: '@*' -->
 <!-- ... -->
-### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=4)
+### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=3)
+
+1. Bruna, E. M., M. Uriarte, M. Rosa Darrigo, P. Rubim, C. F. Jurinitz, E. R. Scott1, O. Ferreira da Silva3, & W. John Kress. _In review_ Demography of the understory herb Heliconia acuminata (Heliconiaceae) in an experimentally fragmented tropical landscape. **_Ecology_**
 
 1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. _In review_ Landscape experiments unlock the multi-scale relationships among habitat loss, fragmentation, and patch-size effects. **_Ecology_**
 
 1. Hyde, J. L., Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. _In review_ A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. **_Perspectives in Ecology & Conservation_**. 
-
-1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. _In review._ Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. **_Plant Ecology_**
-
-1. Ferreira, A. M., A. P. Faria, H. L. Vasconcelos, E. M. Bruna, Vladimir Eliodoro Costa, A. S. Franco Pinheiro Moreira. _In review._ Does chronic nitrogen deposition have effects on grass physiology of natural areas?  **_Theoretical and Experimental Plant Physiology_**.
 
 <!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
 <!-- maybe to print out by reference groups? -->
@@ -410,7 +408,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 **_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
 
-1. Halpern, Benjamin S. *et al.* _In press._ Priorities for synthesis in ecology and environmental science. **_Ecosphere_**
+1. Halpern, B. S., C. Boettiger, M. C. Dietze, *et al.* 2023. Priorities for synthesis research in ecology and environmental Science.” *Ecosphere* 14(1): e4342. https://doi.org/10.1002/ecs2.4342
 
 1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. 2022. Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. **_Global Change Biology_** 28(2):463-479.  https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15900 __**Recipient of the Postdoctoral Excellence Award from the Ecological Society of America's Plant Population Ecology Section_**
 
@@ -754,7 +752,11 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 
 ### MANUSCRIPTS IN PREPARATION (N=11, drafts available upon request). 
-	
+
+1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. _In preparation_ Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. **_Plant Ecology_**
+
+1. Ferreira, A. M., A. P. Faria, H. L. Vasconcelos, E. M. Bruna, Vladimir Eliodoro Costa, A. S. Franco Pinheiro Moreira. _In preparation._ Does chronic nitrogen deposition have effects on grass physiology of natural areas?  **_Theoretical and Experimental Plant Physiology_**.
+
 1.	E. S. Parsons and E. M. Bruna. Assessing the magnitude of abiotic edge effects in fragmented landscapes: revisiting the paradigm with data. In preparation for **_Biological Conservation_**[MA Thesis chapter].
 
 1. Kortessis, N., R. J. Fletcher, E. M. Bruna, T. A. H. Smith, and R. D. Holt. Habitat degradation, dispersal, and matrix effects: Interactions between processes at different spatial scales determine species persistence. In preparation for **_The American Naturalist_**.
@@ -1173,6 +1175,7 @@ UC San Diego EAP Selection Committee, Tropical Biology Program (1994)
 \setlength{\leftskip}{.2cm}
 
 Past-President (2022), President (2021), President-Elect (2020)  
+Chair, Nominations Committee (2022)
 Program & Organizing Committees, Annual Meeting of the ATBC (2021)    
 Student Field Grants Selection Committee (2020)  
 Student Field Grants Selection Committee (2020)  
@@ -1184,7 +1187,7 @@ Co-organizer, Symposium on Amazonian Conservation, Annual Meeting (2004)
 
 \endgroup 
 
-### SERVICE - ECOLOGICVLA SOCIETY OF AMERICA
+### SERVICE - ECOLOGICAL SOCIETY OF AMERICA
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
@@ -1203,7 +1206,7 @@ Historical Records Committee (2022-2025)
 
 *__Ecology__*, *__Ecological Monographs__*, and *__Ecological Applications__*: Editorial Board (2008-2012)  
 
-__*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (1), *Information, Communication,& Society* (1), *Ecology* (4), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (13), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
+__*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (2), *Information, Communication,& Society* (1), *Ecology* (4), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (13), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
 
 __US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population and Evolutionary Processes (2007), DEB Population and Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (7), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists and Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
 
