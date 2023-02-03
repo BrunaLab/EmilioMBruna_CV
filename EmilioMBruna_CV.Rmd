@@ -113,6 +113,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- Here is some text\xhrulefill{darkmidnightblue}{2pt}\par -->
 <!-- Here is some text\xhrulefill{darkmidnightblue}{1ex}\par -->
 <!-- HOW TO MAKE LINE COLOR SAME???? -->
+<!-- https://tex.stackexchange.com/questions/32597/vertically-centered-horizontal-rule-filling-the-rest-of-a-line -->
 <!-- \textbf{\textcolor{darkmidnightblue}{EDUCATION }}\xrfill[0.5ex]{0.5pt} -->
 
 <!-- ### EDUCATION \hrulefill -->
@@ -858,4 +859,435 @@ Antioch College Semester Abroad in Brazil (1999, 2001)
 Univ. Federal do Amazonas, Fragmented Landscapes Field Course (2000, 2002)  
 
 \endgroup 
-<!-- \endgroup -->
+### GRADUATE STUDENTS ADVISED
+```{r GradStudentsA, echo=FALSE,message = FALSE,warning=FALSE}
+# library(flextable)
+# https://cran.r-project.org/web/packages/flextable/vignettes/format.html#borders
+# df <- grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="advisor") %>% select(-role)
+# table1<-df %>% regulartable() %>% autofit() %>% 
+# width(j=~Degree,width=.3) %>% width(j=~Year,width=.9) %>% width(j=~Instititution,width=.1)
+# table1 <- fontsize(table1, part = "header", size = 11) 
+# table1 <- border_remove(x = table1)
+# table1
+```
+
+```{r GradStudents, echo=FALSE,message = FALSE,warning=FALSE}
+grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="advisor") %>% select(-role)
+kbl(grad_advised,digits = 1,
+                  format = "latex",
+                  align="l",
+    col.names = NULL,
+    longtable = T,
+                  row.names = FALSE,
+                  booktabs=T,
+                  linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+```
+Students under my supervision have been awarded over $35,000 in grants to support their research and been the recipients of prestigious fellowships and awards to support their studies: 
+
+* Priyanka Hari Haran: Research Grants from the ATBC, UF-SNRE, & UF-TCD 
+*	FLAS Fellowship (S. Parsons)
+*	NSF Predoctoral Fellowships (M. Trager, S. Copeland)
+*	UF IGERT Fellowship (C. Lucas)
+*	Inter-American Foundation Grassroots Development Fellowship (C. Lucas)
+*	UF Alumni Fellowship (M. Trager)
+*	Fulbright Fellowship (A. Neto)
+*	Science Without Borders Doctoral Fellowship (E. V. Neto, F. Mundim).
+*	NSF Doctoral Dissertation Enhancement Grant (C. Lucas)
+*	UF-WEC Jennings Scholarship (A. Neto, M. Trager, F. Mundim, G. Iacona) 
+*	UF-CALS Doris Lowe & Earl & Verna Lowe Scholarship (C. Lucas, E. V. Neto). 
+
+Research by my students has also been recognized for its excellence: 
+
+* Thomas Smith: Best Student Presentation, IALE-NA Annual Meeting (2022)
+*	Fabiane Mundim: UF-IFAS High-Impact Publication (2021)
+*	Fabiane Mundim: WEC High-Impact Publication (2016)
+*	Ana Cecilia Silva: Honorable Mention, Charles Wood Thesis Award, UF-LATAM (2015)
+*	Fabiane Mundim: Honorable Mention, OTS Outstanding Paper Competition (2012)
+*	Christine Lucas: Marianne Schmink Outstanding Dissertation Award, UF-TCD (2012)
+*	Ernane Vieira Neto: E. Lucy Braun Outstanding Poster Award, ESA Annual Meeting (2011)
+*	Shannon Moore: Best Presentation, UF High School Student Science Training Program Symposium (2010)
+*	Matthew Trager: Outstanding Research Award - MS Category, Wildlife Graduate Student Association (2005)
+
+
+### DOCTORAL STUDENT COMMITTEE SERVICE, UNIVERSITY OF FLORIDA
+
+```{r DocCmte, echo=FALSE,message = FALSE,warning=FALSE}
+grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="doc_cmte") %>% select(-role)
+kbl(grad_advised,digits = 1,
+                  format = "latex",
+                  align="l",
+                  col.names = NULL,
+                  row.names = FALSE,
+                  booktabs=T,
+                  longtable = T, 
+                  linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+```
+<!-- **Wildlife Ecology & Conservation**: David Mason (in progress), Flavia Montaño Centellas (2018), Margo Stoddard (2017), Rajeev Pillay (2016), Rosalyn Johnson (2016), Gonzalo Rivas (2015), Oscar Gonzalez (2015), Dan Thornton (2010), Ivan Diaz (2008), Christa Zweig (2008), Traci Darnell (2006)  **Forest Resources & Conservation**: Andrea Irons (in progress), Demian Gomez Damiano (2020), Jacy Hyde (2019), Christie Klimas (2010)  **Biology (*formerly Depts. of Botany & Zoology*)**: Maria Beatriz Cortez (in progress), Johanna R. Jantzen (2020), Trevor Caughlin (2013), Kristine Callis (2013), Mollie Brooks (2012), Silvia Alvarez-Clare (2012), C. Seabird McKeon (2010), Joseph Veldman (2010), Jennifer Schafer (2010), Alex Jahn (2009), Silvia Lomáscolo (2008), Bonifacio Mostacedo (2007)  **Interdisciplinary Ecology**: Joanna Tucker (2010), Matt Trager	(2009)  **Entomology**: Jade Badon (2018), Pablo Allen (2017), David Serrano (2006)  **Anthropology**: Scott Macrae (2017)  **Columbia University**: Marina Cortes (Ecology, Evolution, Behavior (2012) -->
+
+
+
+### MASTER’S STUDENT COMMITTEE SERVICE
+```{r MastersCmte, echo=FALSE,message = FALSE,warning=FALSE}
+grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="masters_cmte") %>% select(-role)
+kbl(grad_advised,digits = 1,
+                  format = "latex",
+                  align="l",
+        longtable = T, 
+    col.names = NULL,
+                  row.names = FALSE,
+                  booktabs=T,
+                  linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+```
+<!-- **Wildlife Ecology & Conservation**: Lauren Trotta (2016), Brittany Bankovich (2014), Nathan Marcy (2010), Kristen Aaltonen (2009), Mariano Rodriguez Cabal (2007)  **Forest Resources & Conservation**: Jennifer Holm (2007), Christie Klimas (2006)  **Biology (*formerly Depts. of Botany & Zoology*)**: Tania Kim (2006), Silvia Alvarez Clare (2004)  **Interdisciplinary Ecology**: Jamie Cotta (2006)  **Entomology**: Teresa Cooper (2006)  **Latin American Studies**: Crisne Lebron (2015), Carly Voight (2010), Laura Fonseca (2009), Jennifer Davies (2003), **Anthropology**: Autumn Rose (in progress). -->
+
+### MEMBER OF PROPOSAL REVIEW, THESIS REVIEW, OR THESIS DEFENSE COMMITTEE
+```{r external, echo=FALSE,message = FALSE,warning=FALSE}
+other<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="other") %>% select(-role,-Program)
+kbl(other,digits = 1,
+                  format = "latex",
+                  align="l",
+        longtable = T, 
+    col.names = NULL,
+                  row.names = FALSE,
+                  booktabs=T,
+                  linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+```
+
+### POSTDOCTORAL, SABBATICAL, & POSTGRADUATE SCHOLARS 
+```{r lab_members, echo=FALSE,message = FALSE,warning=FALSE}
+lab_members<-read_csv("./cv_files/lab_members.csv") 
+lab_members$cat<-as.factor(lab_members$cat)
+lab_members$cat <- ordered(lab_members$cat, levels = c("postdoc","sab" ,"postgrad", "vis_grad","ug","hs"))
+lab_members2<-lab_members %>% 
+  filter(cat=="postdoc"|cat=="sab"|cat=="postgrad") %>% 
+  arrange(order(cat)) %>% 
+  select(-cat) %>% 
+  drop_na()
+  # replace_na(list(Name=" ", Institution=" ", Position=" ", Year=" "))
+kbl(lab_members2,digits = 1,
+    format = "latex",
+    align="l",
+    longtable = T, 
+    col.names = NULL,
+    row.names = FALSE,
+    booktabs=T,
+    linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+```
+
+<!-- **Doctoral Defense Committee:** Helen Belan (U. Federal de Uberlândia, Brazil, 2020), Alan Nilo da Costa (U. Federal de Uberlândia, Brazil, 2013). **Doctoral Dissertation Examiner:** Talita Reis (UNICAMP, Brazil, 2015), Mauricio Bonesso Sampaio (UNICAMP, Brazil, 2012), Maria Rosa Darrigo (UNICAMP, Brazil, 2011), Sjirk Geerts (Stellenbosch University, South Africa, 2011), Rafael Soares de Arruda (INPA, Brazil, 2008), Thiago Junqueira Izzo (INPA, Brazil, 2005). **Doctoral Proposal Defense**: Laura Vivian Barbosa (U. Federal de Uberlândia, Brazil, 2014) **Master's Thesis Defense Committee**: Jonas B. Marvalhas (U. Federal de Uberlândia, Brazil 2013), Ernane Vieira Neto (U. Federal de Uberlândia, Brazil, 2008), Alan Nilo da Costa (U. Federal de Uberlândia, Brazil, 2007), Daniel Mascia Vieira (Universidade de Brasília, Brazil, 2002) -->
+
+<!-- Carine Emer			INPA, Brazil				M.S. Thesis Examiner, 2011 -->
+<!-- Flávio de Oliveira Rodrigues	INPA, Brazil				M.S. Thesis Examiner, 2011 -->
+<!-- Waldete Castro Lourenço		INPA, Brazil				M.S. Thesis Examiner, 2009 -->
+<!-- Simone B. Fontoura		INPA, Brazil				M.S. Thesis Examiner, 2007 -->
+<!-- Paula M. Pedrosa			INPA, Brazil				M.S. Thesis Examiner, 2004 -->
+
+<!-- Carine Emer 			INPA, Brazil				M.S. Proposal Examiner, 2009 -->
+<!-- Simone Benedet Founatura	INPA, Brazil				M.S. Proposal Examiner, 2006 -->
+<!-- Thiago Junqueira Izzo		INPA, Brazil				M.S. Proposal Examiner, 2002 -->
+
+<!-- Melina Alcalá			UFSCar, Brazil				M.S. Qualifying Exam, 2009 -->
+<!-- Raquel Negrão Baldoni		UFSCar, Brazil				M.S. Qualifying Exam, 2009 -->
+
+<!-- Pedro B. Vasconcelos		U. Federal de Uberlândia, Brazil		B.S. Thesis Defense, 2009 -->
+<!-- Fabiane M. Mundim 		U. Federal de Uberlândia, Brazil		B.S. Thesis Defense, 2007 -->
+### UNDERGRADUATE THESIS STUDENTS, HIGH SCHOOL RESEARCHERS, & VISITING GRADUATE STUDENTS  
+```{r lab_members2, echo=FALSE,message = FALSE,warning=FALSE}
+lab_members<-read_csv("./cv_files/lab_members.csv") 
+lab_members$cat<-as.factor(lab_members$cat)
+lab_members$cat <- ordered(lab_members$cat, levels = c("postdoc","sab" ,"postgrad", "vis_grad","ug","hs"))
+lab_members3<-lab_members %>% 
+  filter(cat=="ug"|cat=="hs"|cat=="vis_grad") %>% 
+  arrange(order(cat)) %>% 
+  select(-cat) %>% 
+  drop_na()
+  # replace_na(list(Name=" ", Institution=" ", Position=" ", Year=" "))
+kbl(lab_members3,digits = 1,
+                  format = "latex",
+                  align="l",
+        longtable = T, 
+    col.names = NULL,
+                  row.names = FALSE,
+                  booktabs=T,
+                  linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+```
+
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+*__Research Interns:__* _2007_: Wesley Dáttilo da Cruz, Univ. Estadual do Norte Fluminense (Brazil), Jefferson José Valsko da Silva, Universidade do Norte Fluminense (Brazil). _2005-2007_: Renata Pacheco do Nacimento and Cauê Thomé Lopes, Univ. Federal de Uberlândia (Brazil). _2005-2006_: Polyanna Custodio Duarte, Univ. Federal de Uberlândia (Brazil). _2006_: Waldete Castro Lourenço, Univ. Federal do Amazonas (Brazil), Elisabete Marques da Costa, Univ. Federal de Pernambuco (Brazil). _2005_: Bruno Turbiani, Universidade Estadual Paulista (Brazil). _2004_: Cristina Escate, Universidade Federal do Amazonas (Brazil), Simone Benedet, Universidade do Vale do Rio do Sinos (Brazil). _2003_: Cris Follman Jurinitz, Univ. Federal do Rio Grande do Sul (Brazil), Denise Cruz, Univ. Federal do Rio de Janeiro (Brazil). _2003-2004_: David M. Lapola, Universidade Estadual Paulista (Brazil). _2002_: Maria Beatriz Nogueira, Universidade de São Paulo (Brazil). _2001-2002_: Sylvia Heredia, Universidad de los Andes (Colombia). _2001_: Obed Garcia, INPA (Brazil), Olavo Nardy, UNESP (Brazil).
+
+\endgroup
+
+### SERVICE - UNIVERSITY OF FLORIDA  
+
+\begingroup 
+\setlength{\leftskip}{.2cm}
+Samuel P. Harn Museum of Art Faculty Council (2012-2015)  
+Selection Committee, UF Undergraduate Faculty Mentor/Advisor of the Year (2022)  
+Selection Committee, UF Undergraduate Teacher of the Year  (2022)  
+Selection Committee, UF International Educator of the Year (2006)  
+Selection Committee, UF Teacher/Scholar of the Year (2015)  
+UF Research Foundation Professorship Selection Committee (2010)  
+Fulbright Fellows Campus Interview Committee  (2019)  
+Catalyst Fellow, UF Innovation Academy Catalyst Challenge (2018)  
+External Advisory Committee, Institute of Museum & Library Services Grant (2015-2018)  
+International Outreach Advisory Council, Graduate School (2014-Present)  
+Internal Advisory Board, Innovation through Institutional Integration (I3) program (2010-2014)  
+Administrative Council, QSE3 IGERT (2008-2014)  
+
+\endgroup 
+
+### SERVICE - UF COLLEGE OF AGRICULTURAL AND LIFE SCIENCES  
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+IFAS International Programs Advisory Team (2020-Present)  
+UF-CALS Outstanding Thesis Selection Committee (2020)  
+York Distinguished Lecture Selection Committee (2015)  
+Search and Screen Committee, CALS Quantitative Sciences Faculty Positions (2013)  
+Coordinating Committee, School for Natural Resources & the Environment (2012)  
+Invited Speaker, College of Agricultural & Life Sciences Teaching Grantsmanship Workshop (2012)  
+Mentorship Committee for Dr. Luke Flory, Dept. of Agronomy (2012)  
+IFAS Faculty Professional Development Advisory Committee (2012-2013)  
+Selection Committee, College of Agricultural & Life Sciences Teaching and Advising Awards (2012)  
+Invited Speaker, College of Agriculture and Life Sciences Teaching Enhancement Symposium (2010)  
+College of Agricultural & Life Sciences Undergraduate Scholarships & Awards Committee (2007-2009)  
+Unifas Focus Group (Teaching Section), College of Agriculture and Life Sciences (2007)  
+Unifas Advisory Committee, College of Agriculture and Life Sciences (2006-2007)  
+Invited Speaker, College of Agriculture and Life Sciences Teaching Enhancement Symposium (2005)  
+Commencement Marshal, College of Agricultural and Life Sciences (2004, 2014,2015, 2018)   
+SNRE Seed Grant and New Faculty Support Grant Programs (2005)  
+
+\endgroup 
+
+### SERVICE - UF DEPARTMENT OF WILDLIFE ECOLOGY & CONSERVATION  
+
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+Research Committee (2005-2007, 2020-present)  
+Space Committee (2019)  
+Communications Committee (2014-Present)  
+Graduate Program Committee (2005-2012)  
+International Programs Committee (2006-2010)  
+Steering Committee, PSTC Compton Fellowship Program (2002-2010)  
+Seminar Series Coordinator (2003-2004)  
+Seminar Series Coordinator (2015)  
+Chair, Tenure Mentorship Committee for Dr. Robert Fletcher (2009-2012)  
+Tenure Mentorship Committee for Dr. Nia Morales (2021-2023)  
+Tenure Mentorship Committee for Dr. Matt Hallet (2022-2025)  
+Search and Screen Committee, Research Asst. Professor, Zoo Wildlife Conservation Biology (2020)   
+Search and Screen Committee, Asst. Professor of Population Ecology (2017)  
+Search and Screen Committee, Department Head (2006)  
+Search and Screen Committee, Asst. Professor of Landscape Ecology (2004)  
+Search and Screen Committee, Asst. Professor of Conservation Genetics, WEC (2004)  
+Chair, Peer Teaching Evaluation Committee for Dr. Ethan White (2019-2020)  
+Chair, Peer Teaching Evaluation Committee for Dr. Morgan Ernest (2017-2018)  
+Chair, Peer Teaching Evaluation Committee for Dr. Lyn Branch (2011)  
+Chair, Peer Teaching Evaluation Committee for Dr. Bill Pine (2010)  
+Chair, Peer Teaching Evaluation Committee for Dr. Robert Fletcher (2009)  
+Peer Teaching Evaluation Committee for Dr. Raelene Crandall (UF-FFGS, 2021-2022)  
+Peer Teaching Evaluation Committee for Dr. Madan Oli (2003)  
+Peer Teaching Evaluation Committee for Dr. Bill Pine (2015)  
+Peer Teaching Evaluation for Dr. Michelle Mack (UF-Botany, 2006)    
+
+\endgroup 
+
+### SERVICE - UF CENTER FOR LATIN AMERICAN STUDIES  
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+LAS Faculty Advisory Council (2020-2023)  
+LAS Bylaws Revision Committee (2020-2021)  
+LAS Merit Evaluation Committee (2015-2017)  
+LAS Graduate Admissions and Fellowship Committee (2007)  
+Chair, Search and Screen Committee, Lecturer in Latin American Studies (2015)  
+Chair, LAS Awards and Scholarship Committee (2019)  
+Search and Screen Committee, LAS Communications Coordinator (2015)  
+Bacardi Seminar Series Coordinator (2015)  
+Academic Advisor, Tropical Conservation and Development Program (2008-11, 2021-2022) 
+Faculty Advisor, TCD Graduate Student Organization (2008-2016)  
+Steering Committee, Tropical Conservation and Development Program (2002-08, 2010-16, 2018-present)  
+Chair, TCD Fellowship Committee (2012, 2022)  
+Chair, TCD Field Research Grants Committee (2004, 2008, 2009, 2010, 2015, 2020, 2021)  
+Chair, Marianne Schmink Outstanding Dissertation Award Selection Committee (2010, 2011, 2013, 2022)  
+TCD Field Research Grants Committee (2003, 2004)  
+TCD Fellowship Committee (2003-2005)  
+Organizing Committee, TCD Strategic Planning (2007-2008)  
+Curriculum Committee, Master’s Program in Sustainable Development Practice (2010-2012)  
+Advisory Council, Amazon Conservation Leadership Initiative (2004-2005)  
+Advisory Committee, Pan-Amazon Community of Practice Project (2018-2020) 
+
+\endgroup  
+
+### SERVICE - OTHER INSTITUTIONS  
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+External Tenure & Promotion Evaluations: 17 (2011-2022)  
+<!-- 2022 (4), 2021 (2), 2020 (3), 2018 (2), 2017 (1), 2016 (3), 2015 (1), 2011 (1)   -->
+ASN/SSE/SSB Committee on Development a Professional Code of Ethics (2018-2019)  
+External Advisor, 2nd Planning Workshop, Brazilian Biodiversity and Ecosystem Services Synthesis Center (2018)  
+Discussant, Research & Writing Conference, Florida Education Fund/McKnight Doctoral Fellowship Program (2016)  
+Co-host & Co-organizer, UC Davis Population Biology Workshop in Ecology (2000)  
+Student Representative, UC Davis Population Biology GRT Executive Committee (1996-1997)  
+UC San Diego EAP Selection Committee, Tropical Biology Program (1994)  
+
+\endgroup 
+
+### SERVICE - ASSOCIATION FOR TROPICAL BIOLOGY AND CONSERVATION  
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+Past-President (2022), President (2021), President-Elect (2020)  
+Chair, Nominations Committee (2022)
+Program & Organizing Committees, Annual Meeting of the ATBC (2021)    
+Student Field Grants Selection Committee (2020)  
+Student Field Grants Selection Committee (2020)  
+Crowdfunding Workshop, Annual Meeting of the ATBC (2018)  
+Annual Meeting Scientific Committee (2017, 2012)  
+Councillor (2009-2011)  
+Conservation Committee (2004-2006)  
+Co-organizer, Symposium on Amazonian Conservation, Annual Meeting (2004)  
+
+\endgroup 
+
+### SERVICE - ECOLOGICAL SOCIETY OF AMERICA   
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+Secretary (2022-2025)  
+Teller's Committee (2022-2025)   
+Governance & Leadership Committee (2022-2025)   
+Historical Records Committee (2022-2025)   
+\endgroup 
+
+### SERVICE AS A REVIEWER AND EDITOR  
+
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+*__Biotropica:__* Editor-in-Chief (2013-2019; _>2400 decisions_), Assoc. Editor (2010-2013), Subject Editor (2007-2019).
+
+*__Ecology__*, *__Ecological Monographs__*, and *__Ecological Applications__*: Editorial Board (2008-2012)  
+
+__*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (2), *Information, Communication,& Society* (1), *Ecology* (4), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (13), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
+
+__US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population and Evolutionary Processes (2007), DEB Population and Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (7), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists and Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
+
+__Other service as a reviewer (No. of reviews or year of service)__: *Red Line Editorial (2019, technical review of a K-12 book), Mindlin Foundation (2018), Cornell University Press (2017), Instituto Serrapliheira (2017), HHMI Professors Program (2017), UF FAES/CRIS Project Proposals (2), U. of Chicago Press (1), Alfred P. Sloan Foundation Minority Ph.D. Program (3). National Geographic Society (1), U. of California Press (1)  
+
+\endgroup 
+### INVITED PRESENTATIONS
+```{r talks, echo=FALSE,message = FALSE,warning=FALSE}
+talks<-read_csv("./cv_files/talks.csv", col_types = cols(.default = "c")) %>% 
+  select(-year)  %>% 
+  replace_na(list(year2=""))
+kbl(talks, 
+      format    = "latex", 
+      align = "l",
+      longtable = T, 
+      row.names = FALSE,
+      col.names = NULL,
+      booktabs=T,
+      linesep = "") %>%
+  kable_styling(bootstrap_options = c("hover"),
+                latex_options = c("scale_down"),
+                full_width = F,
+                font_size = 10,
+                position = "left") %>%
+  sub("\\\\toprule", "", .) %>%
+  sub("\\\\bottomrule", "", .)
+```
+
+### INTERVIEWS & MEDIA APPEARANCES  
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+2022\hspace{4mm} [Nature News](https://www.nature.com/articles/d41586-022-00342-w), NRC - The Netherlands, WIRED Magazine, [Fox News Business](https://www.foxbusiness.com/politics/university-professors-unhappy-desantis-accountability), [The Scientist](https://www.the-scientist.com/news-opinion/florida-faculty-await-details-on-new-tenure-law-69971), [Miami Herald](https://www.miamiherald.com/news/local/education/article263966316.html),  
+&nbsp;\hspace{10mm} [The Independent Florida Alligator](https://www.alligator.org/article/2022/09/blue-and-gold-macaw-uf-campus), [Chronicle for Higher Education](https://www.chronicle.com/article/it-could-have-been-worse-higher-ed-reacts-to-ben-sasse-at-u-of-florida), [The Hill](https://thehill.com/changing-america/enrichment/education/3274661-texas-and-florida-take-steps-to-limit-professor-tenure-at-state-schools/), Voice of America 
+2021\hspace{4mm} Chronicle for Higher Education, [The Florida Independent Alligator](https://www.alligator.org/article/2021/01/what-happens-if-my-classmate-has-covid-19), [Associated Press](https://apnews.com/article/brazil-rio-de-janeiro-trees-abf6a15a804ea1485fbcec0eeed3d8d7), ABC's Nightline  
+2020\hspace{4mm} [Washington Post](https://www.washingtonpost.com/nation/2020/11/11/kyle-lamb-data-florida-coronavirus-desantis/), [South Florida Sun Sentinel](https://www.sun-sentinel.com/opinion/commentary/fl-op-com-grimm-ohio-sports-blogger-florida-covid-20201113-wikb2iv3gbd2vcby4hcevwyd6i-story.html)   
+2019\hspace{4mm} [USA Today](https://www.usatoday.com/story/news/nation/2019/10/18/amazon-rainforest-still-burning-more-fires-future/4011238002/), CBC News Network, [The Atlantic](https://www.theatlantic.com/science/archive/2019/04/amnh-under-fire-hosting-brazils-jair-bolsonaro/587068/), [The Verge](https://www.theverge.com/2019/9/10/20858834/amazon-fire-brazil-forest-harm-recovery-century), MSNBC’s Velshi & Ruhle  
+&nbsp;\hspace{10mm} [WIRED Magazine](https://www.wired.com/story/the-horrifying-science-of-the-deforestation-fueling-amazon-fires/), [Mashable](https://mashable.com/article/amazon-rainforest-fires-tipping-point-deforestation), BBC World Service, [BBC News](https://www.bbc.com/mundo/noticias-america-latina-49504502), The Miradas Podcast, [Phys.org](https://phys.org/news/2019-10-amazon-hasnt-outbreaks-month-future.html), [Infobae](https://www.infobae.com/america/america-latina/2019/09/10/las-areas-quemadas-del-amazonas-podrian-tardar-siglos-en-recuperarse-por-completo/)    
+2018\hspace{4mm} Popular Science, Associated Press, [National Geographic](https://www.nationalgeographic.com/science/article/news-museu-nacional-fire-rio-de-janeiro-natural-history), Scholastic Classroom Magazines,  
+&nbsp;\hspace{10mm} [Minnesota Public Radio's Climate Cast](https://www.mprnews.org/story/2018/11/15/why-brazils-new-president-may-bring-more-climate-disaster-death), Gainesville Sun, Mongabay.com, [NBC News](https://www.nbcnews.com/news/latino/brazil-s-president-elect-jair-bolsonaro-may-smother-rainforest-scientists-n940326), [La Repubblica](https://www.repubblica.it/ambiente/2018/11/27/news/amazzonia_un_milione_di_campi_di_calcio_perduti_in_un_anno-212784490/)  
+2017\hspace{4mm} The Wire (India), Chemistry World, Nature, Gainesville Sun, [Indianapolis  Star](https://www.indystar.com/story/opinion/columnists/suzette-hackney/2017/03/24/hackney-robotics-kids-kindness-triumphs-hate/99578116/)  
+2016\hspace{4mm} Chronicle of Higher Education, DailyDot, Nature, [Mongabay.com](https://news.mongabay.com/2016/01/special-issue-of-biotropica-makes-the-case-for-protecting-south-americas-white-sand-forests/) [Mongabay.com](https://news.mongabay.com/2016/04/building-roads-agricultural-expansion-brazil-aiding-spread-insects-harm-crops/)  
+2015\hspace{4mm} [WAMC Public Radio](https://www.wamc.org/2015-01-30/is-there-a-pubradiovoice-that-sounds-like-america)  
+2014\hspace{4mm} NPR’s Morning Edition - "Joe’s Big Idea", TV Acre - Rede Globo Rio Branco, Bom Dia Amazônia, [SciDevNet](https://www.scidev.net/global/news/armadillo-mascot-world-cup/)  
+&nbsp;\hspace{10mm} TV Gazetta ‘Entrevista com Rogério Wenceslau’ (Rede Record Rio Branco), Estado de São Paulo  
+&nbsp;\hspace{10mm} Nature.com, WUFT, Science/Science Insider, Howler Soccer Magazine’s Dummy Podcast  
+2013\hspace{4mm} SciDevNet, WSLR Florida-Caribe Radio Show  
+2006\hspace{4mm} The Scientist Magazine, Science Minority Scientists Network  
+2005\hspace{4mm} Science’s Next Wave, Televisão Universitária, Uberlândia, Folha de São Paulo  
+2004\hspace{4mm} Science Magazine’s Minority Scientists Network  
+2002\hspace{4mm} NPR’s Weekend Edition Saturday, BBC World Service Radio 4, Austrian Public Television’s Modern Times. 
+
+\endgroup
+
+### PROFESSIONAL DEVELOPMENT  
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+2013\hspace{4mm} University of Florida Science Communication Academy  
+2004\hspace{4mm} California Academy of Sciences: The Ant Course: Taxonomy & Systematics (Costa Rica)  
+1996\hspace{4mm} Organization for Tropical Studies: Tropical Plant Systematics 96-9 (Costa Rica)  
+1993\hspace{4mm} University of California Education Abroad Program: Tropical Biology Quarter (Costa Rica) 
+
+\endgroup
+
+### MEMBERSHIPS IN PROFESSIONAL SOCIETIES  
+
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+Ecological Society of America  
+Association for Tropical Biology and Conservation
+British Ecological Society  
+American Association for the Advancement of Science  
+International Society for Scientometrics and Infometrics  
+
+\endgroup
