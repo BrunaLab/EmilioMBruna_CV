@@ -1,70 +1,42 @@
 ---
 title: "Curriculum Vitae"
-# title: "&nbsp;"
 author: "Emilio M. Bruna"
-email: embruna@ufl.edu
-web: www.BrunaLab.org
+date: "`r format(Sys.time(), '%B %Y')`"
+output:
+  pdf_document: default
+  html_document: null
+  df_print: paged
+  toc: no
+  word_document: default
 github: embruna
 twitter: BrunaLab
 phone: "(352) 514-3935"
-date: "`r format(Sys.time(), '%B %Y')`"
+email: embruna@ufl.edu
 geometry: margin=1in
 linkcolor: darkmidnightblue
 urlcolor: darkmidnightblue
-# tables: true
-# jobtitle: "Professor & Distinguished Teaching Scholar, University of Florida"
-# address: "PO Box 110430 · 110 Newins-Ziegler Hall · Gainesville, FL 32611-040"
 fontawesome: yes
-bibliography: ./emb_cv_modular/EMB_publications.bib  
+bibliography: ./emb_cv_modular/EMB_publications.bib
 csl: brunacv.csl
-# bibliography: BrunaPublications.bib
-# bibliography: ./cv_files/BrunaPublications.bib
-# bibliography_software: chapters.bib
-# csl: biotropica.csl
-# csl: ./cv_files/brunacv2.csl
 updated: yes
-# site: bookdown::bookdown_site
 header-includes:
-- \usepackage{etaremune} # for reverse-numbered list of publications etc
+- \usepackage{etaremune}
 - \usepackage[default]{sourcesanspro}
-- \usepackage{fancyhdr} # modify header into left, center, right
-- \pagestyle{fancy} # cues the use of fancy headers
-- \fancyfoot{} # cues the use of fancy footer
-- \fancyfoot[R]{`r format(Sys.time(), '%B %Y')`} # month & year on footer right
-- \fancyhead[R]{Emilio M. Bruna, p. \thepage} # name and page on header right
-- \usepackage{setspace} # manipulate line spacing 
-- \usepackage{parskip} # manipulate indents and spacing before/after paragraphs 
-- \usepackage{xcolor} # changes colors of text
-- \AtBeginDocument{\let\maketitle\relax} # this removes default title section
-  # to center to top level (#) headings (my name) and change color of font
-  # more info # https://www.ctan.org/pkg/sectsty
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyfoot[R]{`r format(Sys.time(), '%B %Y')`}
+- \fancyhead[R]{Emilio M. Bruna, p. \thepage}
+- \usepackage{setspace}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
 - \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
-# to center to sub-sub-headings (###) and change color of font
 - \usepackage{sectsty} \subsubsectionfont{\color{darkmidnightblue}}
-# http://latexcolor.com/ to choose colors
-# define the colors used above with rgb codes
 - \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
 - \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
 - \usepackage{xhfill}
-# - \usepackage{ragged2e}
-# # - \setlength\RaggedRightParindent{15pt}
-# - \RaggedRight - # make the right margin ragged
-# https://tex.stackexchange.com/questions/258714/prevent-hyphenation-across-lines-enforce-right-margin
-# - \hyphenpenalty=10000 #to suppress ordinary hyphenation
-# - \exhyphenpenalty=10000 #to prohibit line breaks at explicit hyphens.
-# - \setstretch{1.0}
-
-# https://babichmorrowc.github.io/post/changing-fonts-in-rmarkdown-pdfs/
-
-output:
-   pdf_document: default
-   html_document:
-   df_print: paged
-   toc: false
-# 
-# 
-# 
-#    # \printbibliography[type=book,title={Books only}]
+web: www.BrunaLab.org
 ---
 
 
@@ -166,8 +138,8 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 2020-2021\hspace{10mm}**President**, Association for Tropical Biology and Conservation  
 
-2012-2021\hspace{10mm}**Director**, Florida-Brazil Linkage Institute, University of Florida   
-&nbsp;\hspace{24mm}Center for Latin American Studies, University of Florida  
+2012-2021\hspace{10mm}**Director**, Florida-Brazil Linkage Institute, University of Florida
+<!-- &nbsp;\hspace{24mm}Center for Latin American Studies, University of Florida   -->
 
 2013-2019\hspace{10mm}**Editor-in-Chief**, _Biotropica_  
 
@@ -176,11 +148,11 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 2005-Present\hspace{6mm}**Adjunct Professor**, Universidade Federal de Uberlândia, Brazil  
 &nbsp;\hspace{24mm}Graduate Program in Ecology and Natural Resource Conservation  
 
-2007-2013\hspace{10mm}**Associate Professor**, University of Florida  
-&nbsp;\hspace{24mm}Department of Wildlife Ecology & Conservation & Center for Latin American Studies  
+2007-2013\hspace{10mm}**Associate Professor**, University of Florida
+<!-- &nbsp;\hspace{24mm}Department of Wildlife Ecology & Conservation & Center for Latin American Studies   -->
 
-2002-2007\hspace{10mm}**Assistant Professor**, University of Florida    
-&nbsp;\hspace{24mm}Department of Wildlife Ecology & Conservation & Center for Latin American Studies  
+2002-2007\hspace{10mm}**Assistant Professor**, University of Florida
+<!-- &nbsp;\hspace{24mm}Department of Wildlife Ecology & Conservation & Center for Latin American Studies   -->
 
 2001-2002\hspace{10mm}**NSF Minority Postdoctoral Fellow**, Biological Dynamics of Forest Fragments Project  
 &nbsp;\hspace{24mm}Instituto Nacional de Pesquisas da Amazônia-Smithsonian Institution  
@@ -247,7 +219,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 \begingroup 
 \setlength{\leftskip}{.2cm} 
-
+2022\hspace{4mm}Fellow, American Association for the Advancement of Science   
 2020\hspace{4mm}Selected for Induction into Alpha Zeta (Faculty Affiliate, UF Chapter)    
 2020\hspace{4mm}Roche Teaching Scholar, UF College of Agricultural and Life Sciences    
 2016\hspace{4mm}Sigma Xi (Full Member, University of Florida Chapter)    
@@ -260,7 +232,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 2003\hspace{4mm}Diversity Scholar, American Institute for Biological Sciences  
 2002\hspace{4mm}John L. Harper Early Career Researcher Award, British Ecological Society  
 1994\hspace{4mm}Ernest C. Mort Leadership Excellence Award, Revelle College, UC San Diego  
-<!-- &nbsp;\quad\quad\quad\quad _for the year’s outstanding contribution to the field, published in any journal_   -->
+<!-- &nbsp;\quad\quad\quad\quad _for the year???s outstanding contribution to the field, published in any journal_   -->
 <!-- &nbsp;\quad\quad\quad\quad _for the outstanding paper published in the journal Biotropica_   -->
 <!-- &nbsp;\quad\quad\quad\quad _for the outstanding paper by a young investigator in the Journal of Ecology_ -->
 
@@ -314,73 +286,73 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 1. Maxwell-Hanrahan Foundaiton. "Support for the UF TCD Seed Grant Program" ($10,000; PIs Emilio M. Bruna, Bette Losiselle, 2022-2023) 
 
-1. Sloan Foundation. “Reinventing Field Courses” ($74,060; PI: E. M. Bruna, Co-PIs: R. McCleery, P. Antonenko, N. Attias, D. Barton, 2020-2021)
+1. Sloan Foundation. ???Reinventing Field Courses??? ($74,060; PI: E. M. Bruna, Co-PIs: R. McCleery, P. Antonenko, N. Attias, D. Barton, 2020-2021)
 
 2. National Science Foundation. SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics ($199,904; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2020-2022).
 
 2. National Science Foundation. REU Supplement for "SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics ($14,400; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2021).
 
-3. National Science Foundation. “The role of the matrix in fragmented landscapes: experimental tests and novel theory ($548,058; PI: R. Fletcher, Co-PIs: E. M. Bruna, R. D. Holt, and B. Reichert, 2018-2023)  
+3. National Science Foundation. ???The role of the matrix in fragmented landscapes: experimental tests and novel theory ($548,058; PI: R. Fletcher, Co-PIs: E. M. Bruna, R. D. Holt, and B. Reichert, 2018-2023)  
 
-4. UF Informatics Institute SEED Funds: “Cross-National Patterns of Productivity & Collaboration by Latin American Scientists” ($20,000, PI: E. M. Bruna, Co-PIs: Stephen Perz, Chris McCarty).
+4. UF Informatics Institute SEED Funds: ???Cross-National Patterns of Productivity & Collaboration by Latin American Scientists??? ($20,000, PI: E. M. Bruna, Co-PIs: Stephen Perz, Chris McCarty).
 
-5. Mindlin Foundation. “Who are the Gatekeepers of Discovery? A crowdsourced project to ID & map the editors of academic journals” ($3633, 2017-2018).
+5. Mindlin Foundation. ???Who are the Gatekeepers of Discovery? A crowdsourced project to ID & map the editors of academic journals??? ($3633, 2017-2018).
 
-5. National Geographic Global Exploration Fund. “Experimental climate change in the Amazon: How will rising CO2 influence plants, insects, and their interactions?” ($19,970, PI: E. M. Bruna, Co-PIs H. Vasconcelos, F. Mundim, D. Lapola).
+5. National Geographic Global Exploration Fund. ???Experimental climate change in the Amazon: How will rising CO2 influence plants, insects, and their interactions???? ($19,970, PI: E. M. Bruna, Co-PIs H. Vasconcelos, F. Mundim, D. Lapola).
 
-5. John Wiley and Sons. “Funds to support the Biotropica Editorial Office” ($199,945; 2014-2019).
+5. John Wiley and Sons. ???Funds to support the Biotropica Editorial Office??? ($199,945; 2014-2019).
 
 5. UF Center for Latin American Studies Faculty Travel Award ($1500, 2014)
 
-5. UF Center for Latin American Studies Speakers Program. “Herton Escobar: Science Correspondent, Estado de São Paulo Newspaper ($2000, including matching funds provided by the College of Journalism and Communications, the Tropical Conservation and Development Program, and Office of the VP for Research, 2014).
+5. UF Center for Latin American Studies Speakers Program. ???Herton Escobar: Science Correspondent, Estado de São Paulo Newspaper ($2000, including matching funds provided by the College of Journalism and Communications, the Tropical Conservation and Development Program, and Office of the VP for Research, 2014).
 
 5. UF IFAS Dean For Research, UF VP for Research, and FAPESP-Brazil. "Support for 4 UF-FAPESP Collaborative Research Grants" ($160,000, 2013-2015).
 
-5. UF Center for Latin American Studies Faculty Research Award: “Cross-national patterns of productivity and collaboration by Latin American ecologists” ($5450, 2012-2013).
+5. UF Center for Latin American Studies Faculty Research Award: ???Cross-national patterns of productivity and collaboration by Latin American ecologists??? ($5450, 2012-2013).
 
-5. National Science Foundation: “Doctoral Dissertation Enhancement Proposal: International: Carbon sequestration and tree biodiversity in Amazonian floodplain forests”.  ($11,000; OISE-0929183 to E. Bruna prepared by and for doctoral student Christine Lucas, 2010-2012).
+5. National Science Foundation: ???Doctoral Dissertation Enhancement Proposal: International: Carbon sequestration and tree biodiversity in Amazonian floodplain forests???.  ($11,000; OISE-0929183 to E. Bruna prepared by and for doctoral student Christine Lucas, 2010-2012).
 
-5. David and Lucile Packard Foundation. “Nitrogen dynamics in Brazil’s Cerrado” ($142,198, Grant 2008-32691 to E. Bruna and co-PIs M. Mack and H. Vasconcelos, 2009-2011).
+5. David and Lucile Packard Foundation. ???Nitrogen dynamics in Brazil???s Cerrado??? ($142,198, Grant 2008-32691 to E. Bruna and co-PIs M. Mack and H. Vasconcelos, 2009-2011).
 
-5. National Science Foundation. “IGERT in Spatial Ecology & Evolution: Quantitative Training in Biology, Statistics, & Mathematics”. ($2,958,113; PI: B. Bolker; Co-PI’s: E. Bruna, C. Osenberg, M. Martcheva, & M. Christman, 2008-2013).
+5. National Science Foundation. ???IGERT in Spatial Ecology & Evolution: Quantitative Training in Biology, Statistics, & Mathematics???. ($2,958,113; PI: B. Bolker; Co-PI???s: E. Bruna, C. Osenberg, M. Martcheva, & M. Christman, 2008-2013).
 
-5. UF International Center. “International Speakers Program: Dr. Claudio Padua, 2008 UF Distinguished Alumnus” ($1500, with $3500 in matching funds from Wildlife Ecology and Conservation, Latin American Studies, the Tropical Conservation and Development Program, and Institute for Agricultural and Life Sciences).
+5. UF International Center. ???International Speakers Program: Dr. Claudio Padua, 2008 UF Distinguished Alumnus??? ($1500, with $3500 in matching funds from Wildlife Ecology and Conservation, Latin American Studies, the Tropical Conservation and Development Program, and Institute for Agricultural and Life Sciences).
 
-5. US Department of Education Fund for the Improvement of Postsecondary Education (FIPSE). “Energy, environment, and sustainable development: the central role of the United States and Brazil” ($202,329; PI: J. Kahn, Washington & Lee University; E. Bruna is UF Project Director; 2006-2010)
+5. US Department of Education Fund for the Improvement of Postsecondary Education (FIPSE). ???Energy, environment, and sustainable development: the central role of the United States and Brazil??? ($202,329; PI: J. Kahn, Washington & Lee University; E. Bruna is UF Project Director; 2006-2010)
 
-5. National Science Foundation Collaborative Grant.  “Mechanisms influencing seedling recruitment and establishment in a fragmented Amazonian landscape” DEB-0614149 to E. Bruna ($230,888) and DEB-0614339 to M. Uriarte, Columbia Univ. ($251,831; 2006-10).
+5. National Science Foundation Collaborative Grant.  ???Mechanisms influencing seedling recruitment and establishment in a fragmented Amazonian landscape??? DEB-0614149 to E. Bruna ($230,888) and DEB-0614339 to M. Uriarte, Columbia Univ. ($251,831; 2006-10).
 
-5. National Science Foundation Minority Career Advancement Award. “Linking population and ecosystem ecology: how does nitrogen deposition influence plant demography in tropical savannas?”  DEB-0542287 ($174,499; 2006-08).
+5. National Science Foundation Minority Career Advancement Award. ???Linking population and ecosystem ecology: how does nitrogen deposition influence plant demography in tropical savannas????  DEB-0542287 ($174,499; 2006-08).
 
-5. Joseph Jones Ecological Research Center. “Productivity and Biodiversity Patterns: Control in a SE Coastal Plain Landscape (Support for the graduate studies of Gwen Iacona)”. ($19,860; 2005-2007).
+5. Joseph Jones Ecological Research Center. ???Productivity and Biodiversity Patterns: Control in a SE Coastal Plain Landscape (Support for the graduate studies of Gwen Iacona)???. ($19,860; 2005-2007).
 
-5. National Science Foundation Collaborative Grant. “Elucidating mechanisms of coexistence in a community of ant-plant mutualists”.  DEB-0453631 to E. Bruna ($245,096) & DEB-0452720 to B. Inouye, FSU ($260,000; 2005-09).
+5. National Science Foundation Collaborative Grant. ???Elucidating mechanisms of coexistence in a community of ant-plant mutualists???.  DEB-0453631 to E. Bruna ($245,096) & DEB-0452720 to B. Inouye, FSU ($260,000; 2005-09).
 
-5. National Science Foundation Grant OISE-0437369.  “U.S.-Brazil Collaborative Research: Seed predation and herbivory in Neotropical savannas: are there demographic consequences for plants?” ($25,012; 2005-2008).
+5. National Science Foundation Grant OISE-0437369.  ???U.S.-Brazil Collaborative Research: Seed predation and herbivory in Neotropical savannas: are there demographic consequences for plants???? ($25,012; 2005-2008).
 
-5.  Conselho Nacional de Desenvolvimento Científico e Tecnológico, Brazil. “Top-down effects on the structure of Cerrado plant communities” (R$ 22,875.74, Co-PI, 2005-2007)
+5.  Conselho Nacional de Desenvolvimento Científico e Tecnológico, Brazil. ???Top-down effects on the structure of Cerrado plant communities??? (R$ 22,875.74, Co-PI, 2005-2007)
 
-5. Fundação de Amparo a Pesquisa do Estado de Minas Gerais, Brazil. “Diversity and conservation of invertebrates in the ‘Triângulo Mineiro’: a case study using ants as bioindicators” (R$12,924.13; Senior Collaborator, 2005-2007)
+5. Fundação de Amparo a Pesquisa do Estado de Minas Gerais, Brazil. ???Diversity and conservation of invertebrates in the ???Triângulo Mineiro???: a case study using ants as bioindicators??? (R$12,924.13; Senior Collaborator, 2005-2007)
 
-5. Fundação de Amparo a Pesquisa do Estado de Minas Gerais, Brazil (Fapemig). “Effect of herbivory by leaf-cutter ants on Cerrado vegetation” (R$25,229.74, Co-PI, 2004-2006)
+5. Fundação de Amparo a Pesquisa do Estado de Minas Gerais, Brazil (Fapemig). ???Effect of herbivory by leaf-cutter ants on Cerrado vegetation??? (R$25,229.74, Co-PI, 2004-2006)
 
-5. School for Natural Resources and the Environment New Faculty Support Program. “Seed predation and herbivory in Neotropical savannas: are there demographic consequences for plants?” ($5,000; 2004)
+5. School for Natural Resources and the Environment New Faculty Support Program. ???Seed predation and herbivory in Neotropical savannas: are there demographic consequences for plants???? ($5,000; 2004)
 
-5. Alfred P. Sloan Foundation.  “Increasing the number of minority Ph.D.’s studying Ecology at UF.” ($32,440 and four-year Teaching Assistantships from the College of Agricultural and Life Sciences; 2004).
+5. Alfred P. Sloan Foundation.  ???Increasing the number of minority Ph.D.???s studying Ecology at UF.??? ($32,440 and four-year Teaching Assistantships from the College of Agricultural and Life Sciences; 2004).
 
-5. National Science Foundation Research Starter Grant DEB-0309819.  “The effect of forest fragmentation on ant-plant mutualisms.” $50,585; 2003-2005).
+5. National Science Foundation Research Starter Grant DEB-0309819.  ???The effect of forest fragmentation on ant-plant mutualisms.??? $50,585; 2003-2005).
 
-5. USAID Subcontract from IIEB.  “Sustainable Communities and Landscapes: A proposed 	program to sustain natural ecosystems and enhance local livelihoods in Brazil’s Amazon and Atlantic Forest regions” ($199,145; 10/01/03-9/30/07; PI: Marianne Schmink; EB and 5 other Co-PIs).
+5. USAID Subcontract from IIEB.  ???Sustainable Communities and Landscapes: A proposed 	program to sustain natural ecosystems and enhance local livelihoods in Brazil???s Amazon and Atlantic Forest regions??? ($199,145; 10/01/03-9/30/07; PI: Marianne Schmink; EB and 5 other Co-PIs).
 
-5. Instituto Internacional de Educação do Brasil-SUNY International Development Group.  “Training of young scientists in Amazonia: A new internship program at the Biological Dynamics of Forest Fragments Project.” (R$21,000; co-PI Patricia Delamônica, 2001).
+5. Instituto Internacional de Educação do Brasil-SUNY International Development Group.  ???Training of young scientists in Amazonia: A new internship program at the Biological Dynamics of Forest Fragments Project.??? (R$21,000; co-PI Patricia Delamônica, 2001).
 
-5. National Science Foundation Minority Postdoctoral Research Fellowship DBI-0109226. “The effect of forest fragmentation on ant-plant mutualisms” ($190,200; 2001).
+5. National Science Foundation Minority Postdoctoral Research Fellowship DBI-0109226. ???The effect of forest fragmentation on ant-plant mutualisms??? ($190,200; 2001).
 
-5. NSF Dissertation Improvement Grant INT 98-06351. “Effect of habitat fragmentation on the growth, reproduction, and population dynamics of an Amazonian understory herb” ($17,600; 1998-2000).
+5. NSF Dissertation Improvement Grant INT 98-06351. ???Effect of habitat fragmentation on the growth, reproduction, and population dynamics of an Amazonian understory herb??? ($17,600; 1998-2000).
 
 5. Grants for Graduate Research: Smithsonian Institution, Manomet Observatory Kathleen S. Anderson Award, Wilson Ornithological Society Paul A. Stewart Award, and UC Davis (M.E. Mathias Award, Graduate Studies Research Grant, Jastro-Shields Research Award, and Center for Population Biology Summer Research Grant (Total: $11860; 1996-1997).
 
-5. Grants for Undergraduate Research: Explorer’s Club Grant, UCSD Undergraduate Scholastic Research Grant (Total: $1955; 1994-1995).
+5. Grants for Undergraduate Research: Explorer???s Club Grant, UCSD Undergraduate Scholastic Research Grant (Total: $1955; 1994-1995).
 
 \endgroup
 
@@ -394,11 +366,9 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 1. Bruna, E. M., M. Uriarte, M. Rosa Darrigo, P. Rubim, C. F. Jurinitz, E. R. Scott, O. Ferreira da Silva, & W. John Kress. _In review_ Demography of the understory herb Heliconia acuminata (Heliconiaceae) in an experimentally fragmented tropical landscape. **_Ecology_**
 
-1. Bruna, E. M. _In review_ Fundamental errors of data collection & validation undermine claims of ‘Ideological Intensification’ made by the National Association of Scholars. **_Science_** (preprint: https://osf.io/preprints/metaarxiv/4jsca/)
+1. Bruna, E. M. _In review_ Fundamental errors of data collection & validation undermine claims of 'Ideological Intensification'. **_Nature Computational Science_** (preprint: https://osf.io/preprints/metaarxiv/4jsca/)
 
 1. Robinsion, M. L., and the members of the HerbVar Network. _In review_ Latitude, traits, and phylogeny determine herbivore attack variability. **_Nature_**
-
-1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. _In review_ Landscape experiments unlock the multi-scale relationships among habitat loss, fragmentation, and patch-size effects. **_Ecology_**
 
 1. Hyde, J. L., Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. _In review_ A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. **_Perspectives in Ecology & Conservation_**. 
 
@@ -427,15 +397,17 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 **_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
 
-1. Halpern, B. S., C. Boettiger, M. C. Dietze, *et al.* 2023. Priorities for synthesis research in ecology and environmental Science.” *Ecosphere* 14(1): e4342. https://doi.org/10.1002/ecs2.4342
+1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. _In press_ Landscape experiments unlock the multi-scale relationships among habitat loss, fragmentation, and patch-size effects. **_Ecology_**  
 
-1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. 2022. Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. **_Global Change Biology_** 28(2):463-479.  https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15900 __**Recipient of the Postdoctoral Excellence Award from the Ecological Society of America's Plant Population Ecology Section_**
+1. Halpern, B. S., C. Boettiger, M. C. Dietze, *et al.* 2023. Priorities for synthesis research in ecology and environmental Science. *Ecosphere* 14(1): e4342. https://doi.org/10.1002/ecs2.4342
 
-1. Audrey C. Smith, Leandra Merz, Jesse B. Borden, Chris K. Gulick, Akhil R. Kshirsagar, Emilio M. Bruna. 2022. Assessing the effect of article processing charges on the geographic diversity of authors using Elsevier’s “Mirror Journal” system. **_Quantitative Science Studies_** 2(4):1123–1143. doi: https://doi.org/10.1162/qss_a_00157 **_Featured in [Nature](https://www.nature.com/articles/d41586-022-00342-w), [NRC News](https://www.nrc.nl/nieuws/2022/02/22/systeem-van-open-access-helpt-wetenschappers-uit-arme-landen-niet-a4092976)_**. 
+1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. 2022. Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. **_Global Change Biology_** 28(2):463-479.  https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15900 **_Recipient of the Postdoctoral Excellence Award from the Ecological Society of America's Plant Population Ecology Section_**
+
+1. Audrey C. Smith, Leandra Merz, Jesse B. Borden, Chris K. Gulick, Akhil R. Kshirsagar, Emilio M. Bruna. 2022. Assessing the effect of article processing charges on the geographic diversity of authors using Elsevier???s ???Mirror Journal??? system. **_Quantitative Science Studies_** 2(4):1123???1143. doi: https://doi.org/10.1162/qss_a_00157 **_Featured in [Nature](https://www.nature.com/articles/d41586-022-00342-w), [NRC News](https://www.nrc.nl/nieuws/2022/02/22/systeem-van-open-access-helpt-wetenschappers-uit-arme-landen-niet-a4092976)_**. 
 
 1. Russell, A.E., T.M. Aide, E. Braker, E. M. Bruna, C. N. Ganong, R. D. Hardin, K. D. Holl, S. C. Hotchkiss, J. Klemens, E. K. Kuprewicz, S. K. Macey, D. McClearn, G. Middendorf, R. Ostertag, J. S. Powers, S. E. Russo, J. L. Stynoski, U. Valdez, C. G. Wills. 2022. Integrating tropical research into biology education is urgently needed. **_PLoS Biology_** 20(6): e3001674. doi: https://doi.org/10.1371/journal.pbio.3001674 
 
-1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. **_Journal of Ecology_** 109:2729– 2739. [PhD Thesis Chapter].  https://doi.org/10.1111/1365-2745.13684 _**Selected as a 2021 UF-IFAS “High Impact Publication”**_.  
+1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. **_Journal of Ecology_** 109:2729??? 2739. [PhD Thesis Chapter].  https://doi.org/10.1111/1365-2745.13684 _**Selected as a 2021 UF-IFAS ???High Impact Publication???**_.  
 
 1. Bruna, E.M., R Chazdon, TM Errington and BA Nosek. 2021. A proposal to advance theory and promote collaboration in tropical biology by supporting replications. **_Biotropica_**, 53:6-10.  
 
@@ -461,7 +433,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 10. Costa, AN, EM Bruna, and HL Vasconcelos. 2018. Do an ecosystem engineer and environmental gradient act independently or in concert to shape juvenile plant communities? Tests with the leaf-cutter ant _Atta laevigata_ in a Neotropical savanna. **_PeerJ_** 6:e5612.  [Ph. D. Thesis Chapter].  
 
-11.	K. R. Zamudio, A. Kellner, C. Serejo, M. R. de Britto, C. B. Castro, P. A. Buckup, D. O. Pires, M. Couri, A. Brilhante Kury, I. Azevedo Cardoso, M. L. Monné, J. Pombal Jr., C. Mello Patiu, V. Padula, A. Dias Pimenta, R. Ventura, E.  Hajdu, J. Zanol, E. M. Bruna, J. Fitzpatrick, L. A. Rocha. 2018. Lack of support for Science and Education Fails Brazilian Society – Again. **_Science_** 361(6409): 1322-1323.
+11.	K. R. Zamudio, A. Kellner, C. Serejo, M. R. de Britto, C. B. Castro, P. A. Buckup, D. O. Pires, M. Couri, A. Brilhante Kury, I. Azevedo Cardoso, M. L. Monné, J. Pombal Jr., C. Mello Patiu, V. Padula, A. Dias Pimenta, R. Ventura, E.  Hajdu, J. Zanol, E. M. Bruna, J. Fitzpatrick, L. A. Rocha. 2018. Lack of support for Science and Education Fails Brazilian Society ??? Again. **_Science_** 361(6409): 1322-1323.
 
 11. Brito Darosci, AA, EM Bruna, JC Motta-Junior, CdS Ferreira, JG Blake, and CB Rodrigues Munhoz. 2017. Seasonality, diaspore traits and the structure of plant-frugivore networks in Neotropical savanna forest. **_Acta Oecologica_** 84:15-22.  [Ph. D. Thesis Chapter].  
 
@@ -481,13 +453,13 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 18. Carvalho, KS, MAF Carneiro, IC Nascimento, AK Saha, and EM Bruna. 2016. Lower ant diversity on earth mounds in a semi-arid brazilian ecosystem: Natural or a sign of degradation? **_Sociobiology_** 63(4):1022-1030.    
 
-19. Mundim, FM, and EM Bruna. 2016. Is there a temperate bias in our understanding of how climate change will alter plant- herbivore interactions? A meta- analysis of experimental studies. **_American Naturalist_** 188:S74-S89. [Ph. D. Thesis Chapter] _**Selected as WEC Department's 2016 “High Impact Publication”**_.    
+19. Mundim, FM, and EM Bruna. 2016. Is there a temperate bias in our understanding of how climate change will alter plant- herbivore interactions? A meta- analysis of experimental studies. **_American Naturalist_** 188:S74-S89. [Ph. D. Thesis Chapter] _**Selected as WEC Department's 2016 ???High Impact Publication???**_.    
 
 20. Sobrinho, MS, M Tabarelli, IC Machado, JC Sfair, EM Bruna, and AV Lopes. 2016. Land use, fallow period and the recovery of a caatinga forest. **_Biotropica_** 48:586-597.    
 
 21. Vieira-Neto, EHM, HL Vasconcelos, and EM Bruna. 2016. Roads increase population growth rates of a native leaf-cutter ant in Neotropical savannahs. **_Journal of Applied Ecology_** 53:983-992. [Ph. D. Thesis Chapter].  
 
-7.	Parker, TH, Nakagawa, S, Gurevitch, J and IIEE (Improving Inference in Evolutionary Biology and Ecology) workshop participants. 2016. Promoting transparency in evolutionary biology and ecology. **_Ecology Letters_**, 19: 726–728.   
+7.	Parker, TH, Nakagawa, S, Gurevitch, J and IIEE (Improving Inference in Evolutionary Biology and Ecology) workshop participants. 2016. Promoting transparency in evolutionary biology and ecology. **_Ecology Letters_**, 19: 726???728.   
 
 9.	Whitlock, MC, JL Bronstein, EM Bruna, AM Ellison, CW Fox, MA McPeek, AJ Moore, MAF Noor, MD Rausher, LH Rieseberg, M G Ritchie, and RG Shaw. 2016. A balanced data archiving policy for long-term studies. **_Trends in Ecology and Evolution_** 31(2) 84-85 [Response to article].  
 
@@ -539,7 +511,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 38. Gagnon, PR, EM Bruna, P Rubim, MR Darrigo, RC Littell, M Uriarte, and WJ Kress. 2011. Growth of an understory herb is chronically reduced in Amazonian forest fragments. **_Biological Conservation_** 144:830-835.  
 
-39. Laurance, WF, JLC Camargo, RCC Luizao, SG Laurance, SL Pimm, EM Bruna, PC Stouffer, GB Williamson, J Benitez-Malvido, HL Vasconcelos, KS Van Houtan, CE Zartman, SA Boyle, RK Didham, A Andrade, and TE Lovejoy. 2011. The fate of Amazonian forest fragments: A 32-year investigation. **_Biological Conservation_** 144:56-67. **_Highlighted as “Exceptional” by the Faculty of 1000_**.  
+39. Laurance, WF, JLC Camargo, RCC Luizao, SG Laurance, SL Pimm, EM Bruna, PC Stouffer, GB Williamson, J Benitez-Malvido, HL Vasconcelos, KS Van Houtan, CE Zartman, SA Boyle, RK Didham, A Andrade, and TE Lovejoy. 2011. The fate of Amazonian forest fragments: A 32-year investigation. **_Biological Conservation_** 144:56-67. **_Highlighted as ???Exceptional??? by the Faculty of 1000_**.  
 
 40. Pitman, NCA, J Widmer, CN Jenkins, G Stocks, L Seales, F Paniagua, and EM Bruna. 2011. Volume and geographical distribution of ecological research in the Andes and the Amazon, 1995-2008. **_Tropical Conservation Science_** 4:64-81.    
 
@@ -559,7 +531,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 48. Uriarte, M, EM Bruna, P Rubim, M Anciaes, and I Jonckheere. 2010. Effects of forest fragmentation on the seedling recruitment of a tropical herb: assessing seed vs. safe-site limitation. **_Ecology_** 91:1317-1328.
 
-16.	Bruna, E. M. 2010. Journals can advance tropical biology and conservation by requiring data archiving.  **_Biotropica_** 42(4): 399–401.
+16.	Bruna, E. M. 2010. Journals can advance tropical biology and conservation by requiring data archiving.  **_Biotropica_** 42(4): 399???401.
 
 49. Bruna, EM, IJ Fiske, and MD Trager. 2009. Habitat fragmentation and plant populations: Is what we know demographically irrelevant? **_Journal of Vegetation Science_** 20:569-576.   
 
@@ -609,7 +581,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 71. Bruna, EM, HL Vasconcelos, and S Heredia. 2005. The effect of habitat fragmentation on communities of mutualists: Amazonian ants and their host plants. **_Biological Conservation_** 124:209-216.  
 
-72. Doak, DF, WF Morris, C Pfister, BE Kendall, and EM Bruna. 2005. Correctly estimating how environmental stochasticity influences fitness and population growth. **_American Naturalist_** 166:E14-E21.  **_Highlighted as a “Must Read” by the Faculty of 1000_**.  
+72. Doak, DF, WF Morris, C Pfister, BE Kendall, and EM Bruna. 2005. Correctly estimating how environmental stochasticity influences fitness and population growth. **_American Naturalist_** 166:E14-E21.  **_Highlighted as a ???Must Read??? by the Faculty of 1000_**.  
 
 73. Lapola, DM, EM Bruna, CG de Willink, and HL Vasconcelos. 2005. Ant-tended hemiptera in Amazonian myrmecophytes:  Patterns of abundance and implications for mutualism function. **_Sociobiology_** 46:433-442.   
 
@@ -675,17 +647,17 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 1.	E. M. Bruna, M. Peña-Claros, Bryan Finega, and B. A. Kaplin. 2016. A New Data Archiving Policy for _Biotropica._ **_Biotropica_**, 48(2): 139-140. [Editorial].
 
-1.	E. M. Bruna. 2014. Biotropica to become an ‘online-only’ journal in 2015. **_Biotropica_** 46(6): 782. [Editorial].
+1.	E. M. Bruna. 2014. Biotropica to become an ???online-only??? journal in 2015. **_Biotropica_** 46(6): 782. [Editorial].
 
 1.	E. M. Bruna. 2014. 2014 Alwyn Gentry Awards, Luis F. Bacardi Award, and ATBC Honorary Fellows. **_Biotropica_** 46(6): 779-781. [Editorial].
 
 1.	E. M. Bruna. 2014. A word from the Editor-in-Chief. **_Biotropica_** 46(4): 377 [Editorial].
 
-1.	Bruna, E. M. 2010.  Announcement: _Biotropica_ Award for Excellence in Tropical Biology and Conservation. **_Biotropica_** 42(4): 518–519 [Editorial].
+1.	Bruna, E. M. 2010.  Announcement: _Biotropica_ Award for Excellence in Tropical Biology and Conservation. **_Biotropica_** 42(4): 518???519 [Editorial].
 
 1.	Bruna, E. M.  2003.  "For the Love of Nature".  **_Science: Next Wave Online Magazine_**. [Invited essay].
 
-1.	Bruna, E. M. 2002. A biologist’s guide to fragmenting the Amazon (including why it’s a bad idea).  **_Conservation Biology_**, 16(5): 1446-1448. [Book review].  
+1.	Bruna, E. M. 2002. A biologist???s guide to fragmenting the Amazon (including why it???s a bad idea).  **_Conservation Biology_**, 16(5): 1446-1448. [Book review].  
 
 1. Over 30 Wikipedia pages edited with students as part of graduate and undergraduate courses in Plant Animal Interactions and Tropical Ecology. Complete at: http://en.wikipedia.org/wiki/User:Embruna   
 
@@ -720,7 +692,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 14.	Duchelle, A.E., K. Biedenweg, \*C. Lucas, J. Radachowsky, D. Wojcik, M. Londres, D. Alvira, W. Bartels, A. Virapongse, and K.A. Kainer. 2009. Graduate students and knowledge exchange with local stakeholders: Possibilities and preparation.  **_Biotropica_** 41(5): 578-585.
 
-15.	\*Lucas, C.M. 2008. Within flood season variation in fruit consumption and seed dispersal by two characin fishes of the Amazon. **_Biotropica_** 40(5): 581–589.
+15.	\*Lucas, C.M. 2008. Within flood season variation in fruit consumption and seed dispersal by two characin fishes of the Amazon. **_Biotropica_** 40(5): 581???589.
 
 16.	Hartter, J., \*C. Lucas, A. Gaughan, and L.L. Aranda. 2008. Detecting tropical dry forest succession in a shifting cultivation mosaic of the Yucatán Peninsula, Mexico.  **_Applied Geography_** 28: 134-149.
 
@@ -735,7 +707,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 3.	Espin, J., et al. (2017) Data from: A persistent lack of international representation on editorial boards in environmental biology. Dryad Digital Repository. https://doi.org/10.5061/dryad.mh189
 
-4.	Bruna, E. M. 2017. Code (v1.0) used in “A persistent lack of international representation on editorial boards in environmental biology, Espin et al.”  Zenodo http://doi.org/10.5281/zenodo.1067800
+4.	Bruna, E. M. 2017. Code (v1.0) used in ???A persistent lack of international representation on editorial boards in environmental biology, Espin et al.???  Zenodo http://doi.org/10.5281/zenodo.1067800
 
 5.	Vieira-Neto EHM, Vasconcelos HL, Bruna EM (2016) Data from: Roads increase population growth rates of a native leaf-cutter ant in Neotropical savannahs. Journal of Applied Ecology https://doi.org/10.5061/dryad.1s4f2
 
@@ -745,11 +717,11 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 8.	Bruna EM, Izzo TJ, Inouye BD, Vasconcelos HL (2014) Data from: Effect of mutualist partner identity on plant demography. Ecology https://doi.org/10.5061/dryad.5kc45
 
-9.	Bruna E.M. 2014. Code (v1.0) used in "Effect of mutualist partner identity on plant demography. Ecology”. Zenodo: doi:10.5281/zenodo.11650. Available for improvement at https://github.com/embruna/ant-plant-demography. 
+9.	Bruna E.M. 2014. Code (v1.0) used in "Effect of mutualist partner identity on plant demography. Ecology???. Zenodo: doi:10.5281/zenodo.11650. Available for improvement at https://github.com/embruna/ant-plant-demography. 
 
 10.	Cho AH, Johnson SA, Schuman CE, Adler JM, Gonzalez O, Graves SJ, Huebner JR, Marchant DB, Rifai SW, Skinner I, Bruna EM (2014) Data from: Women are underrepresented on the editorial boards of journals in environmental biology and natural resource management. PeerJ https://doi.org/10.5061/dryad.6jn86.2
 
-11.	Cho et al. 2014. Code used in “Women are underrepresented on the editorial boards of journals in environmental biology and natural resource management. PeerJ”:: https://github.com/embruna/Editorial-Board-Gender 
+11.	Cho et al. 2014. Code used in ???Women are underrepresented on the editorial boards of journals in environmental biology and natural resource management. PeerJ???:: https://github.com/embruna/Editorial-Board-Gender 
 
 12.	Corrêa Côrtes M. et al. 2013. Low plant density enhances gene dispersal in the Amazonian understory herb Heliconia acuminata. Molecular Ecology Dryad Digital Repository: doi:10.5061/dryad.b003f
 
@@ -806,11 +778,11 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 <!-- 1. Over 30 Wikipedia pages edited with students as part of graduate and undergraduate courses in Plant Animal Interactions and Tropical Ecology. Complete at: http://en.wikipedia.org/wiki/User:Embruna  -->
 
-<!-- 2. Biotropica.org: The Editor’s Blog. A forum for sharing information about the journal Biotropica, its ongoing initiatives, announcements debates on recent publications, and advice for authors. >80,000 views since launched in August 2013, http://biotropica.org/  -->
+<!-- 2. Biotropica.org: The Editor???s Blog. A forum for sharing information about the journal Biotropica, its ongoing initiatives, announcements debates on recent publications, and advice for authors. >80,000 views since launched in August 2013, http://biotropica.org/  -->
 
-<!-- 3. BrunaLab.org / “Between the 23s” (lab web page and blog): In addition to hosting publications, data, and other information on current lab activities, we provide resources for the broader community on topics (e.g., resources for beginners on making figures in R or version control with GitHub).  We also maintain a compendium on smartphone applications for fieldwork, which is responsible for most of the sites 113,000 page views since January 2013. http://brunalab.org/  -->
+<!-- 3. BrunaLab.org / ???Between the 23s??? (lab web page and blog): In addition to hosting publications, data, and other information on current lab activities, we provide resources for the broader community on topics (e.g., resources for beginners on making figures in R or version control with GitHub).  We also maintain a compendium on smartphone applications for fieldwork, which is responsible for most of the sites 113,000 page views since January 2013. http://brunalab.org/  -->
 
-<!-- 4. “Jean Theodore Descourtilz (1796-1855) and the Ornithologie Bresilienne.” A website created by TCD graduate students in my Tropical Ecology class to provide background information and an analysis of artwork acquired by the Harn Museum of Art on their behalf.  https://descourtilz.wordpress.com/  -->
+<!-- 4. ???Jean Theodore Descourtilz (1796-1855) and the Ornithologie Bresilienne.??? A website created by TCD graduate students in my Tropical Ecology class to provide background information and an analysis of artwork acquired by the Harn Museum of Art on their behalf.  https://descourtilz.wordpress.com/  -->
 
 
 ### COURSE DEVELOPMENT & TEACHING EXPERIENCE
@@ -942,7 +914,7 @@ kbl(grad_advised,digits = 1,
 
 
 
-### MASTER’S STUDENT COMMITTEE SERVICE
+### MASTER???S STUDENT COMMITTEE SERVICE
 ```{r MastersCmte, echo=FALSE,message = FALSE,warning=FALSE}
 grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="masters_cmte") %>% select(-role)
 kbl(grad_advised,digits = 1,
@@ -1159,7 +1131,7 @@ Chair, Marianne Schmink Outstanding Dissertation Award Selection Committee (2010
 TCD Field Research Grants Committee (2003, 2004)  
 TCD Fellowship Committee (2003-2005)  
 Organizing Committee, TCD Strategic Planning (2007-2008)  
-Curriculum Committee, Master’s Program in Sustainable Development Practice (2010-2012)  
+Curriculum Committee, Master???s Program in Sustainable Development Practice (2010-2012)  
 Advisory Council, Amazon Conservation Leadership Initiative (2004-2005)  
 Advisory Committee, Pan-Amazon Community of Practice Project (2018-2020) 
 
@@ -1220,7 +1192,7 @@ __*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolu
 
 __US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population and Evolutionary Processes (2007), DEB Population and Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (7), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists and Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
 
-__Other service as a reviewer (No. of reviews or year of service)__: *Red Line Editorial (2019, technical review of a K-12 book), Mindlin Foundation (2018), Cornell University Press (2017), Instituto Serrapliheira (2017), HHMI Professors Program (2017), UF FAES/CRIS Project Proposals (2), U. of Chicago Press (1), Alfred P. Sloan Foundation Minority Ph.D. Program (3). National Geographic Society (1), U. of California Press (1)  
+__Other service as a reviewer (No. of reviews or year of service)__: Red Line Editorial (2019, technical review of a K-12 book), Mindlin Foundation (2018), Cornell University Press (2017), Instituto Serrapliheira (2017), HHMI Professors Program (2017), UF FAES/CRIS Project Proposals (2), U. of Chicago Press (1), Alfred P. Sloan Foundation Minority Ph.D. Program (3). National Geographic Society (1), U. of California Press (1)  
 
 \endgroup 
 ### INVITED PRESENTATIONS
@@ -1254,7 +1226,7 @@ kbl(talks,
 &nbsp;\hspace{10mm} ['How Ecology Works' Podcast](https://www.chemistryworld.com/news/most-scientific-editors-still-come-from-us-or-uk/3008426.article)  
 2021\hspace{4mm} Chronicle for Higher Education, [The Florida Independent Alligator](https://www.alligator.org/article/2021/01/what-happens-if-my-classmate-has-covid-19), [Associated Press](https://apnews.com/article/brazil-rio-de-janeiro-trees-abf6a15a804ea1485fbcec0eeed3d8d7), ABC's Nightline  
 2020\hspace{4mm} [Washington Post](https://www.washingtonpost.com/nation/2020/11/11/kyle-lamb-data-florida-coronavirus-desantis/), [South Florida Sun Sentinel](https://www.sun-sentinel.com/opinion/commentary/fl-op-com-grimm-ohio-sports-blogger-florida-covid-20201113-wikb2iv3gbd2vcby4hcevwyd6i-story.html)   
-2019\hspace{4mm} [USA Today](https://www.usatoday.com/story/news/nation/2019/10/18/amazon-rainforest-still-burning-more-fires-future/4011238002/), CBC News Network, [The Atlantic](https://www.theatlantic.com/science/archive/2019/04/amnh-under-fire-hosting-brazils-jair-bolsonaro/587068/), [The Verge](https://www.theverge.com/2019/9/10/20858834/amazon-fire-brazil-forest-harm-recovery-century), MSNBC’s Velshi & Ruhle  
+2019\hspace{4mm} [USA Today](https://www.usatoday.com/story/news/nation/2019/10/18/amazon-rainforest-still-burning-more-fires-future/4011238002/), CBC News Network, [The Atlantic](https://www.theatlantic.com/science/archive/2019/04/amnh-under-fire-hosting-brazils-jair-bolsonaro/587068/), [The Verge](https://www.theverge.com/2019/9/10/20858834/amazon-fire-brazil-forest-harm-recovery-century), MSNBC???s Velshi & Ruhle  
 &nbsp;\hspace{10mm} [WIRED Magazine](https://www.wired.com/story/the-horrifying-science-of-the-deforestation-fueling-amazon-fires/), [Mashable](https://mashable.com/article/amazon-rainforest-fires-tipping-point-deforestation), BBC World Service, [BBC News](https://www.bbc.com/mundo/noticias-america-latina-49504502), The Miradas Podcast, [Phys.org](https://phys.org/news/2019-10-amazon-hasnt-outbreaks-month-future.html), [Infobae](https://www.infobae.com/america/america-latina/2019/09/10/las-areas-quemadas-del-amazonas-podrian-tardar-siglos-en-recuperarse-por-completo/)    
 2018\hspace{4mm} Popular Science, Associated Press, [National Geographic](https://www.nationalgeographic.com/science/article/news-museu-nacional-fire-rio-de-janeiro-natural-history), Scholastic Classroom Magazines,  
 &nbsp;\hspace{10mm} [Minnesota Public Radio's Climate Cast](https://www.mprnews.org/story/2018/11/15/why-brazils-new-president-may-bring-more-climate-disaster-death), Gainesville Sun, Mongabay.com, [NBC News](https://www.nbcnews.com/news/latino/brazil-s-president-elect-jair-bolsonaro-may-smother-rainforest-scientists-n940326), [La Repubblica](https://www.repubblica.it/ambiente/2018/11/27/news/amazzonia_un_milione_di_campi_di_calcio_perduti_in_un_anno-212784490/),  
@@ -1262,14 +1234,14 @@ kbl(talks,
 2017\hspace{4mm} [Nature](https://www.nature.com/articles/548271a), [The Wire (India)](https://thewire.in/science/science-journals-might-international-not-editorial-boards), [Chemistry World](https://www.chemistryworld.com/news/most-scientific-editors-still-come-from-us-or-uk/3008426.article), Gainesville Sun, [Indianapolis  Star](https://www.indystar.com/story/opinion/columnists/suzette-hackney/2017/03/24/hackney-robotics-kids-kindness-triumphs-hate/99578116/), [Phys.org](https://phys.org/news/2017-12-science-international-scientific-editorial-boards.html)   
 2016\hspace{4mm} [Nature](https://www.nature.com/articles/nature.2016.20830), [Chronicle of Higher Education](https://www.chronicle.com/article/in-donald-trump-phd-scientists-find-catharsis-amid-gags/), [DailyDot](https://www.dailydot.com/unclick/donald-trump-phd-twitter-makes-science-great-again/), [Mongabay.com](https://news.mongabay.com/2016/01/special-issue-of-biotropica-makes-the-case-for-protecting-south-americas-white-sand-forests/) [Mongabay.com](https://news.mongabay.com/2016/04/building-roads-agricultural-expansion-brazil-aiding-spread-insects-harm-crops/)  
 2015\hspace{4mm} [WAMC Public Radio](https://www.wamc.org/2015-01-30/is-there-a-pubradiovoice-that-sounds-like-america)  
-2014\hspace{4mm} NPR’s Morning Edition - "Joe’s Big Idea", TV Acre - Rede Globo Rio Branco, Bom Dia Amazônia, [SciDevNet](https://www.scidev.net/global/news/armadillo-mascot-world-cup/)  
-&nbsp;\hspace{10mm} TV Gazetta ‘Entrevista com Rogério Wenceslau’ (Rede Record Rio Branco), Estado de São Paulo  
-&nbsp;\hspace{10mm} Nature.com, WUFT, Science/Science Insider, Howler Soccer Magazine’s Dummy Podcast  
+2014\hspace{4mm} NPR???s Morning Edition - "Joe???s Big Idea", TV Acre - Rede Globo Rio Branco, Bom Dia Amazônia, [SciDevNet](https://www.scidev.net/global/news/armadillo-mascot-world-cup/)  
+&nbsp;\hspace{10mm} TV Gazetta ???Entrevista com Rogério Wenceslau??? (Rede Record Rio Branco), Estado de São Paulo  
+&nbsp;\hspace{10mm} Nature.com, WUFT, Science/Science Insider, Howler Soccer Magazine???s Dummy Podcast  
 2013\hspace{4mm} SciDevNet, WSLR Florida-Caribe Radio Show  
 2006\hspace{4mm} The Scientist Magazine, Science Minority Scientists Network  
-2005\hspace{4mm} Science’s Next Wave, Televisão Universitária, Uberlândia, Folha de São Paulo  
-2004\hspace{4mm} Science Magazine’s Minority Scientists Network  
-2002\hspace{4mm} NPR’s Weekend Edition Saturday, BBC World Service Radio 4, Austrian Public Television’s Modern Times. 
+2005\hspace{4mm} Science???s Next Wave, Televisão Universitária, Uberlândia, Folha de São Paulo  
+2004\hspace{4mm} Science Magazine???s Minority Scientists Network  
+2002\hspace{4mm} NPR???s Weekend Edition Saturday, BBC World Service Radio 4, Austrian Public Television???s Modern Times. 
 
 \endgroup
 
