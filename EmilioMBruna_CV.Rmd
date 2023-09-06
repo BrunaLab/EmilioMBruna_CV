@@ -399,7 +399,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 1. Bruna, E. M., M. Uriarte, M. Rosa Darrigo, P. Rubim, C. F. Jurinitz, E. R. Scott, O. Ferreira da Silva, & W. John Kress. _In press_. Demography of the understory herb _Heliconia acuminata_ (Heliconiaceae) in an experimentally fragmented tropical landscape. **_Ecology_**
 
-1. Bruna, E. M. _In press_. Fundamental errors of data collection & validation undermine claims of 'Ideological Intensification'. **_Bioscience_** (preprint: https://osf.io/preprints/metaarxiv/4jsca/)
+1. Bruna, E. M. 2023. Fundamental errors of data collection & validation undermine claims of 'Ideological Intensification'. **_Bioscience_** biad047. https://doi.org/10.1093/biosci/biad047  
 
 1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. _In press_. Landscape experiments unlock the multi-scale relationships among habitat loss, fragmentation, and patch-size effects. **_Ecology_**  104(5): e4037. https://doi.org/10.1002/ecy.4037
 
@@ -1145,8 +1145,8 @@ Advisory Committee, Pan-Amazon Community of Practice Project (2018-2020)
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-External Tenure & Promotion Evaluations: 18 (2011-2023)  
-<!-- 2023 (1), 2022 (4), 2021 (2), 2020 (3), 2018 (2), 2017 (1), 2016 (3), 2015 (1), 2011 (1)   -->
+External Tenure & Promotion Evaluations: 20 (2011-present)  
+<!-- 2023 (3), 2022 (4), 2021 (2), 2020 (3), 2018 (2), 2017 (1), 2016 (3), 2015 (1), 2011 (1)   -->
 Committee of Visitors, NSF Office of International Science and Engineering (2023)  
 ASN/SSE/SSB Committee on Development a Professional Code of Ethics (2018-2019)  
 External Advisor, 2nd Planning Workshop, Brazilian Biodiversity and Ecosystem Services Synthesis Center (2018)  
