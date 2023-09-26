@@ -32,6 +32,7 @@ header-includes:
 - \usepackage{xcolor}
 - \AtBeginDocument{\let\maketitle\relax}
 - \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
+- \usepackage{sectsty} \subsectionfont{\color{darkmidnightblue}}
 - \usepackage{sectsty} \subsubsectionfont{\color{darkmidnightblue}}
 - \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
 - \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
@@ -64,7 +65,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 \par\noindent\rule{\textwidth}{0.4pt}
 \textbf{\textcolor{darkmidnightblue}{RESEARCH \& TEACHING INTERESTS:}} Tropical ecology and conservation, plant population ecology, plant-animal interactions, scientometrics and bibliometrics, science & science policy in Latin America  
 
-\textbf{\textcolor{darkmidnightblue}{LANGUAGES:}} Fluent in Spanish, English, and Portuguese  
+\textbf{\textcolor{darkmidnightblue}{LANGUAGES:}} Fluent in Spanish, English, & Portuguese  
 \vspace{-0.6cm}  
 
 <!-- ```{r, child=c('one.Rmd', 'two.Rmd')} -->
@@ -138,7 +139,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 2022-2025\hspace{10mm}**Secretary**, Ecological Society of America  
 
-2020-2021\hspace{10mm}**President**, Association for Tropical Biology and Conservation  
+2020-2021\hspace{10mm}**President**, Association for Tropical Biology & Conservation  
 
 2012-2021\hspace{10mm}**Director**, Florida-Brazil Linkage Institute, University of Florida
 <!-- &nbsp;\hspace{24mm}Center for Latin American Studies, University of Florida   -->
@@ -148,7 +149,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 2014-2020\hspace{10mm}**Board of Directors**, Dryad Digital Data Repository  
 
 2005-Present\hspace{6mm}**Adjunct Professor**, Universidade Federal de Uberlândia, Brazil  
-&nbsp;\hspace{24mm}Graduate Program in Ecology and Natural Resource Conservation  
+&nbsp;\hspace{24mm}Graduate Program in Ecology & Natural Resource Conservation  
 
 2007-2013\hspace{10mm}**Associate Professor**, University of Florida
 <!-- &nbsp;\hspace{24mm}Department of Wildlife Ecology & Conservation & Center for Latin American Studies   -->
@@ -223,11 +224,11 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 \setlength{\leftskip}{.2cm} 
 2022\hspace{4mm}Fellow, American Association for the Advancement of Science   
 2020\hspace{4mm}Selected for Induction into Alpha Zeta (Faculty Affiliate, UF Chapter)    
-2020\hspace{4mm}Roche Teaching Scholar, UF College of Agricultural and Life Sciences    
+2020\hspace{4mm}Roche Teaching Scholar, UF College of Agricultural & Life Sciences    
 2016\hspace{4mm}Sigma Xi (Full Member, University of Florida Chapter)    
 2014\hspace{4mm}Academy of Distinguished Teaching Scholars, University of Florida  
 2012\hspace{4mm}Outstanding Paper Award, US Chapter of the International Association for Landscape Ecology  
-2011\hspace{4mm}Graduate Advisor & Teacher of the Year, UF College of Agricultural and Life Sciences  
+2011\hspace{4mm}Graduate Advisor & Teacher of the Year, UF College of Agricultural & Life Sciences  
 2009\hspace{4mm}University of Florida Research Foundation Professor  
 2007\hspace{4mm}Julie S. Denslow Outstanding Article in _Biotropica_ Prize, Association for Tropical Biology & Conservation  
 2005\hspace{4mm}UF International Educator of the Year (untenured faculty category)  
@@ -279,7 +280,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 \endgroup
 
-### GRANTS IN SUPPORT OF RESEARCH, TRAINING, & PROGRAM DEVELOPMENT (>$5.5 million)  
+## GRANTS IN SUPPORT OF RESEARCH, TRAINING, & PROGRAM DEVELOPMENT (>$5.5 million)  
 
 \begingroup 
 \setlength{\leftskip}{.2cm}  
@@ -306,7 +307,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 5. UF Center for Latin American Studies Faculty Travel Award ($1500, 2014)
 
-5. UF Center for Latin American Studies Speakers Program. "Herton Escobar: Science Correspondent, Estado de São Paulo Newspaper ($2000, including matching funds provided by the College of Journalism and Communications, the Tropical Conservation and Development Program, and Office of the VP for Research, 2014).
+5. UF Center for Latin American Studies Speakers Program. "Herton Escobar: Science Correspondent, Estado de São Paulo Newspaper ($2000, including matching funds provided by the College of Journalism and Communications, the Tropical Conservation & Development Program, and Office of the VP for Research, 2014).
 
 5. UF IFAS Dean For Research, UF VP for Research, and FAPESP-Brazil. "Support for 4 UF-FAPESP Collaborative Research Grants" ($160,000, 2013-2015).
 
@@ -318,7 +319,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 5. National Science Foundation. "IGERT in Spatial Ecology & Evolution: Quantitative Training in Biology, Statistics, & Mathematics". ($2,958,113; PI: B. Bolker; Co-PIs: E. Bruna, C. Osenberg, M. Martcheva, & M. Christman, 2008-2013).
 
-5. UF International Center. "International Speakers Program: Dr. Claudio Padua, 2008 UF Distinguished Alumnus" ($1500, with $3500 in matching funds from Wildlife Ecology and Conservation, Latin American Studies, the Tropical Conservation and Development Program, and Institute for Agricultural and Life Sciences).
+5. UF International Center. "International Speakers Program: Dr. Claudio Padua, 2008 UF Distinguished Alumnus" ($1500, with $3500 in matching funds from Wildlife Ecology and Conservation, Latin American Studies, the Tropical Conservation & Development Program, and Institute for Agricultural & Life Sciences).
 
 5. US Department of Education Fund for the Improvement of Postsecondary Education (FIPSE). "Energy, environment, and sustainable development: the central role of the United States and Brazil" ($202,329; PI: J. Kahn, Washington & Lee University; E. Bruna is UF Project Director; 2006-2010)
 
@@ -364,9 +365,14 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- --- -->
 <!-- nocite: '@*' -->
 <!-- ... -->
+
+-----  
+
+## PUBLICATIONS & SCHOLARLY COMMUNICATION
+
 ### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=3)
 
-1. Robinsion, M. L., and the members of the HerbVar Network. _In review_ Latitude, traits, and phylogeny determine herbivore attack variability. **_Science_**
+1. Robinsion, M. L., and the members of the HerbVar Network. _In review_ Plant size, latitude, and phylogeny explain within-population variability in herbivory. **_Science_**
 
 1. Hyde, J. L., Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. _In review_ A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. **_Perspectives in Ecology & Conservation_**. 
 
@@ -572,7 +578,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 64. Boyce MS, Haridas CV, Lee CT, & The Nceas Stochastic Demography Working Group. 2006. Demography in an increasingly variable world. **_Trends in Ecology & Evolution_** 21(3):141-8. doi: 10.1016/j.tree.2005.11.018.
 
-64. Kainer, KA, M Schmink, H Covert, JR Stepp, EM Bruna, JL Dain, S Espinosa, and S Humphries. 2006. A graduate education framework for tropical conservation and development. **_Conservation Biology_** 20:3-13.   
+64. Kainer, KA, M Schmink, H Covert, JR Stepp, EM Bruna, JL Dain, S Espinosa, and S Humphries. 2006. A graduate education framework for Tropical Conservation & Development. **_Conservation Biology_** 20:3-13.   
 
 65. Trager, MD, and EM Bruna. 2006. Effects of plant age, experimental nutrient addition and ant occupancy on herbivory in a Neotropical myrmecophyte. **_Journal of Ecology_** 94:1156-1163.  
 
@@ -771,7 +777,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 1.	Rubim, P., D. M. S. Matos, M. Uriarte, and E. M. Bruna. Local density influences the growth of seedlings of an Amazonian understory herb. In preparation for **_Biotropica_** [Ph.D. Thesis Chapter].
 
-1.	Loiselle, B. A., E. M. Bruna, R. Buschbacher, and S. Athayde. In prep. How can Brazilian Studies and partnerships with Brazilian institutions shape the perception of tropical conservation and development issues at US universities? Lessons from the University of Florida. Brazilian Studies in the United States: The road ahead. Yale University, FGV, and The Ministry of Education in Brazil.
+1.	Loiselle, B. A., E. M. Bruna, R. Buschbacher, and S. Athayde. In prep. How can Brazilian Studies and partnerships with Brazilian institutions shape the perception of Tropical Conservation & Development issues at US universities? Lessons from the University of Florida. Brazilian Studies in the United States: The road ahead. Yale University, FGV, and The Ministry of Education in Brazil.
 
 1.	Rubim, P. R., M. Uriarte, O. Ferreira, and E. M. Bruna. Neighborhood effects and the reproductive effort of a tropical perennial herb. In preparation for **_Ecology_** [Ph.D. Thesis Chapter].
 
@@ -785,11 +791,13 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 <!-- 4. -Jean Theodore Descourtilz (1796-1855) and the Ornithologie Bresilienne.- A website created by TCD graduate students in my Tropical Ecology class to provide background information and an analysis of artwork acquired by the Harn Museum of Art on their behalf.  https://descourtilz.wordpress.com/  -->
 
+--- 
 
-### COURSE DEVELOPMENT & TEACHING EXPERIENCE
+## COURSE DEVELOPMENT & TEACHING EXPERIENCE
 \begingroup 
 \setlength{\leftskip}{.2cm}  
-*__Courses Developed & Taught at the University of Florida__ *  
+### University of Florida  
+
 The Future of Rain Forests (Undergraduate, 2021, 2022)  
 Data Collection & Management for Latin American Studies (Graduate, 2019, 2021, 2022)  
 Ecology and Conservation of Tropical Wildlife (Undergraduate, 03,05,07,11,12,14,18)  
@@ -806,7 +814,7 @@ Social Media Workshop (Graduate, 2016)
 <!-- \begingroup  -->
 \setlength{\leftskip}{.2cm}  
 <!-- __Other Teaching Experience__   -->
-*__Guest Lectures in University of Florida Courses__*  
+*__Guest Lectures__*  
 CV Workshop, UF SACNAS Chapter (2023)  
 The Professional Scientist (WIS 6934: 2021, 2022)  
 The Professional Scientist (WIS 6934: 2021, 2022) 
@@ -823,7 +831,8 @@ Wildlife Population Modeling (WIS6466: 2003, 2006, 2008, 2010)
 Principles of Wildlife Ecology & Conservation (WIS6934: 2008)  
 Luso-Brazilian Civilization (POW3500: 2004)  
 
-*__Courses and Guest Lectures for Other Institutions__*  
+### Courses and Guest Lectures for Other Institutions 
+
 Univ. Federal de Uberlândia: Mechanisms of Species Coexistence (Graduate Course, 2006)  
 Univ. Federal de Uberlândia: Data Management & Archiving (Graduate Course, 2012, 2014)  
 Univ. Federal de Uberlândia: Scientific Publishing (Graduate Course, 2011)  
@@ -836,6 +845,11 @@ Antioch College Semester Abroad in Brazil (1999, 2001)
 Univ. Federal do Amazonas, Fragmented Landscapes Field Course (2000, 2002)  
 
 \endgroup 
+
+--- 
+
+## STUDENT & POSTDOCTORAL MENTORSHIP
+
 ### GRADUATE STUDENTS ADVISED
 ```{r GradStudentsA, echo=FALSE,message = FALSE,warning=FALSE}
 # library(flextable)
@@ -893,7 +907,7 @@ Research by my students has also been recognized for its excellence:
 *	Matthew Trager: Outstanding Research Award - MS Category, Wildlife Graduate Student Association (2005)
 
 
-### DOCTORAL STUDENT COMMITTEE SERVICE, UNIVERSITY OF FLORIDA
+### DOCTORAL COMMITTEE SERVICE
 
 ```{r DocCmte, echo=FALSE,message = FALSE,warning=FALSE}
 grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="doc_cmte") %>% select(-role)
@@ -917,7 +931,7 @@ kbl(grad_advised,digits = 1,
 
 
 
-### MASTERS STUDENT COMMITTEE SERVICE
+### MASTERS COMMITTEE SERVICE
 ```{r MastersCmte, echo=FALSE,message = FALSE,warning=FALSE}
 grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="masters_cmte") %>% select(-role)
 kbl(grad_advised,digits = 1,
@@ -938,7 +952,7 @@ kbl(grad_advised,digits = 1,
 ```
 <!-- **Wildlife Ecology & Conservation**: Lauren Trotta (2016), Brittany Bankovich (2014), Nathan Marcy (2010), Kristen Aaltonen (2009), Mariano Rodriguez Cabal (2007)  **Forest Resources & Conservation**: Jennifer Holm (2007), Christie Klimas (2006)  **Biology (*formerly Depts. of Botany & Zoology*)**: Tania Kim (2006), Silvia Alvarez Clare (2004)  **Interdisciplinary Ecology**: Jamie Cotta (2006)  **Entomology**: Teresa Cooper (2006)  **Latin American Studies**: Crisne Lebron (2015), Carly Voight (2010), Laura Fonseca (2009), Jennifer Davies (2003), **Anthropology**: Autumn Rose (in progress). -->
 
-### MEMBER OF PROPOSAL REVIEW, THESIS REVIEW, OR THESIS DEFENSE COMMITTEE
+### PROPOSAL REVIEW, THESIS REVIEW, OR THESIS DEFENSE COMMITTEE
 ```{r external, echo=FALSE,message = FALSE,warning=FALSE}
 other<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="other") %>% select(-role,-Program)
 kbl(other,digits = 1,
@@ -1038,7 +1052,11 @@ kbl(lab_members3,digits = 1,
 
 \endgroup
 
-### SERVICE - UNIVERSITY OF FLORIDA  
+----
+
+## INSTITUIONAL AND PROFESSIONAL SERVICE
+<!-- \vspace{0.2cm} -->
+### UNIVERSITY OF FLORIDA  
 
 \begingroup 
 \setlength{\leftskip}{.2cm}
@@ -1058,30 +1076,32 @@ Administrative Council, QSE3 IGERT (2008-2014)
 
 \endgroup 
 
-### SERVICE - UF COLLEGE OF AGRICULTURAL AND LIFE SCIENCES  
+### UF COLLEGE OF AGRICULTURAL & LIFE SCIENCES (CALS)
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
+Peer Teaching Evaluation Committee for Dr. Raelene Crandall (UF-FFGS, 2021-2022)  
 IFAS International Programs Advisory Team (2020-2022)  
 UF-CALS Outstanding Thesis Selection Committee (2020)  
 York Distinguished Lecture Selection Committee (2015)  
-Search and Screen Committee, CALS Quantitative Sciences Faculty Positions (2013)  
+Search & Screen Committee, CALS Quantitative Sciences Faculty Positions (2013)  
 Coordinating Committee, School for Natural Resources & the Environment (2012)  
-Invited Speaker, College of Agricultural & Life Sciences Teaching Grantsmanship Workshop (2012)  
+Invited Speaker, CALS Teaching Grantsmanship Workshop (2012)  
 Mentorship Committee for Dr. Luke Flory, Dept. of Agronomy (2012)  
 IFAS Faculty Professional Development Advisory Committee (2012-2013)  
-Selection Committee, College of Agricultural & Life Sciences Teaching and Advising Awards (2012)  
-Invited Speaker, College of Agriculture and Life Sciences Teaching Enhancement Symposium (2010)  
-College of Agricultural & Life Sciences Undergraduate Scholarships & Awards Committee (2007-2009)  
-Unifas Focus Group (Teaching Section), College of Agriculture and Life Sciences (2007)  
-Unifas Advisory Committee, College of Agriculture and Life Sciences (2006-2007)  
-Invited Speaker, College of Agriculture and Life Sciences Teaching Enhancement Symposium (2005)  
-Commencement Marshal, College of Agricultural and Life Sciences (2004, 2014,2015, 2018)   
+Selection Committee, CALS Teaching and Advising Awards (2012)  
+Invited Speaker, CALS Teaching Enhancement Symposium (2010)  
+CALS Undergraduate Scholarships & Awards Committee (2007-2009)  
+Unifas Focus Group - Teaching Section (2007)  
+Unifas Advisory Committee (2006-2007)  
+Invited Speaker, CALS Teaching Enhancement Symposium (2005)  
+Commencement Marshal (2004, 2014,2015, 2018)   
 SNRE Seed Grant and New Faculty Support Grant Programs (2005)  
+
 
 \endgroup 
 
-### SERVICE - UF DEPARTMENT OF WILDLIFE ECOLOGY & CONSERVATION  
+### UF DEPARTMENT OF WILDLIFE ECOLOGY & CONSERVATION (WEC)
 
 \begingroup 
 \setlength{\leftskip}{.2cm}
@@ -1097,38 +1117,38 @@ Seminar Series Coordinator (2015)
 Chair, Tenure Mentorship Committee for Dr. Robert Fletcher (2009-2012)  
 Tenure Mentorship Committee for Dr. Nia Morales (2021-2023)  
 Tenure Mentorship Committee for Dr. Matt Hallet (2022-2025)  
-Search and Screen Committee, Research Asst. Professor, Zoo Wildlife Conservation Biology (2020)   
-Search and Screen Committee, Asst. Professor of Population Ecology (2017)  
-Search and Screen Committee, Department Head (2006)  
-Search and Screen Committee, Asst. Professor of Landscape Ecology (2004)  
-Search and Screen Committee, Asst. Professor of Conservation Genetics, WEC (2004)  
+Search & Screen Committee, Research Asst. Professor, Zoo Wildlife Conservation Biology (2020)  
+Search & Screen Committee, Asst. Professor of Population Ecology (2017)  
+Search & Screen Committee, Department Head (2006)  
+Search & Screen Committee, Asst. Professor of Landscape Ecology (2004)  
+Search & Screen Committee, Asst. Professor of Conservation Genetics, WEC (2004)  
 Chair, Peer Teaching Evaluation Committee for Dr. Ethan White (2019-2020)  
 Chair, Peer Teaching Evaluation Committee for Dr. Morgan Ernest (2017-2018)  
 Chair, Peer Teaching Evaluation Committee for Dr. Lyn Branch (2011)  
 Chair, Peer Teaching Evaluation Committee for Dr. Bill Pine (2010)  
 Chair, Peer Teaching Evaluation Committee for Dr. Robert Fletcher (2009)  
-Peer Teaching Evaluation Committee for Dr. Raelene Crandall (UF-FFGS, 2021-2022)  
 Peer Teaching Evaluation Committee for Dr. Madan Oli (2003)  
 Peer Teaching Evaluation Committee for Dr. Bill Pine (2015)  
 Peer Teaching Evaluation for Dr. Michelle Mack (UF-Botany, 2006)    
 
 \endgroup 
 
-### SERVICE - UF CENTER FOR LATIN AMERICAN STUDIES  
+### UF CENTER FOR LATIN AMERICAN STUDIES (LAS)
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
+Search & Screen Committee (2020-2023)  
 LAS Faculty Advisory Council (2020-2023)  
 LAS Bylaws Revision Committee (2020-2021)  
 LAS Merit Evaluation Committee (2015-2017)  
-LAS Graduate Admissions and Fellowship Committee (2007)  
-Chair, Search and Screen Committee, Lecturer in Latin American Studies (2015)  
-Chair, LAS Awards and Scholarship Committee (2019)  
-Search and Screen Committee, LAS Communications Coordinator (2015)  
+LAS Graduate Admissions & Fellowship Committee (2007)  
+Chair, Search & Screen Committee, Lecturer in Latin American Studies (2015)  
+Chair, LAS Awards & Scholarship Committee (2019)  
+Search & Screen Committee, LAS Communications Coordinator (2015)  
 Bacardi Seminar Series Coordinator (2015)  
-Academic Advisor, Tropical Conservation and Development Program (2008-11, 2021-2022) 
+Academic Advisor, Tropical Conservation & Development Program (2008-11, 2021-2022) 
 Faculty Advisor, TCD Graduate Student Organization (2008-2016)  
-Steering Committee, Tropical Conservation and Development Program (2002-08, 2010-16, 2018-present)  
+Steering Committee, Tropical Conservation & Development Program (2002-08, 2010-16, 2018-present)  
 Chair, TCD Fellowship Committee (2012, 2022)  
 Chair, TCD Field Research Grants Committee (2004, 2008, 2009, 2010, 2015, 2020, 2021)  
 Chair, Marianne Schmink Outstanding Dissertation Award Selection Committee (2010, 2011, 2013, 2022)  
@@ -1141,15 +1161,15 @@ Advisory Committee, Pan-Amazon Community of Practice Project (2018-2020)
 
 \endgroup  
 
-### SERVICE - OTHER INSTITUTIONS  
+### OTHER INSTITUTIONS  
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
 External Tenure & Promotion Evaluations: 20 (2011-present)  
 <!-- 2023 (3), 2022 (4), 2021 (2), 2020 (3), 2018 (2), 2017 (1), 2016 (3), 2015 (1), 2011 (1)   -->
-Committee of Visitors, NSF Office of International Science and Engineering (2023)  
+Committee of Visitors, NSF Office of International Science & Engineering (2023)  
 ASN/SSE/SSB Committee on Development a Professional Code of Ethics (2018-2019)  
-External Advisor, 2nd Planning Workshop, Brazilian Biodiversity and Ecosystem Services Synthesis Center (2018)  
+External Advisor, 2nd Planning Workshop, Brazilian Biodiversity & Ecosystem Services Synthesis Center (2018)  
 Discussant, Research & Writing Conference, Florida Education Fund/McKnight Fellowship Program (2016)  
 Co-host & Co-organizer, UC Davis Population Biology Workshop in Ecology (2000)  
 Student Representative, UC Davis Population Biology GRT Executive Committee (1996-1997)  
@@ -1157,7 +1177,7 @@ UC San Diego EAP Selection Committee, Tropical Biology Program (1994)
 
 \endgroup 
 
-### SERVICE - ASSOCIATION FOR TROPICAL BIOLOGY AND CONSERVATION  
+### ASSOCIATION FOR TROPICAL BIOLOGY & CONSERVATION  
 \begingroup 
 \setlength{\leftskip}{.2cm}  
 
@@ -1174,7 +1194,7 @@ Co-organizer, Symposium on Amazonian Conservation, Annual Meeting (2004)
 
 \endgroup 
 
-### SERVICE - ECOLOGICAL SOCIETY OF AMERICA   
+### ECOLOGICAL SOCIETY OF AMERICA   
 \begingroup 
 \setlength{\leftskip}{.2cm}  
 
@@ -1185,7 +1205,7 @@ Historical Records Committee (2022-2025)
 
 \endgroup 
 
-### SERVICE AS A REVIEWER AND EDITOR  
+### SERVICE AS A REVIEWER & EDITOR  
 
 \begingroup 
 \setlength{\leftskip}{.2cm}
@@ -1196,12 +1216,16 @@ Historical Records Committee (2022-2025)
 
 __*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (2), *Information, Communication,& Society* (1), *Ecology* (4), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (13), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
 
-__US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population and Evolutionary Processes (2007), DEB Population and Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (7), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists and Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
+__US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population & Evolutionary Processes (2007), DEB Population & Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (7), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists & Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
 
 __Other service as a reviewer (No. of reviews or year of service)__: Red Line Editorial (2019, technical review of a K-12 book), Mindlin Foundation (2018), Cornell University Press (2017), Instituto Serrapliheira (2017), HHMI Professors Program (2017), UF FAES/CRIS Project Proposals (2), U. of Chicago Press (1), Alfred P. Sloan Foundation Minority Ph.D. Program (3). National Geographic Society (1), U. of California Press (1)  
 
 \endgroup 
-### INVITED PRESENTATIONS
+
+--- 
+## SEMINARS & OUTREACH ACTIVITIES
+
+### INVITED SEMINARS
 ```{r talks, echo=FALSE,message = FALSE,warning=FALSE}
 talks<-read_csv("./cv_files/talks.csv", col_types = cols(.default = "c")) %>% 
   select(-year)  %>% 
@@ -1247,14 +1271,14 @@ kbl(talks,
 2006\hspace{4mm} The Scientist Magazine, Science Minority Scientists Network  
 2005\hspace{4mm} Science's Next Wave, Televisão Universitária, Uberlândia, Folha de São Paulo  
 2004\hspace{4mm} Science Magazine's Minority Scientists Network  
-2002\hspace{4mm} NPR's Weekend Edition Saturday, BBC World Service Radio 4, Austrian Public Television's Modern Times. 
+2002\hspace{4mm} NPR's Weekend Edition Saturday, BBC World Service Radio 4, Austrian Public Television's Modern Times.  
 
-\endgroup
+\endgroup   
 
-### PROFESSIONAL DEVELOPMENT  
+## PROFESSIONAL DEVELOPMENT & MEMBERSHIPS
 \begingroup 
 \setlength{\leftskip}{.2cm}  
-
+### PROFESSIONAL DEVELOPMENT 
 2013\hspace{4mm} University of Florida Science Communication Academy  
 2004\hspace{4mm} California Academy of Sciences: The Ant Course: Taxonomy & Systematics (Costa Rica)  
 1996\hspace{4mm} Organization for Tropical Studies: Tropical Plant Systematics 96-9 (Costa Rica)  
@@ -1267,9 +1291,9 @@ kbl(talks,
 \begingroup 
 \setlength{\leftskip}{.2cm}  
 Ecological Society of America  
-Association for Tropical Biology and Conservation
+Association for Tropical Biology & Conservation
 British Ecological Society  
 American Association for the Advancement of Science  
-International Society for Scientometrics and Infometrics  
+International Society for Scientometrics & Infometrics  
 
 \endgroup
