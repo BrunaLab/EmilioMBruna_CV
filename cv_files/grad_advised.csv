@@ -1,4 +1,5 @@
 ﻿role,Student,Instititution,Program,Degree,Year
+advisor,Eric Escobar Chena,UF,Wildlife Ecology & Conservation    ,M.S.,In progress
 advisor,Priyanka Hari Haran,UF,Wildlife Ecology & Conservation    ,Ph.D.,In progress
 advisor,Thomas Smith,UF,Wildlife Ecology & Conservation    ,Ph.D.,2023
 advisor,Simon Parsons,UF,Latin American Studies,M.A.,2018
@@ -15,6 +16,7 @@ advisor,Alana Vaz Ferreira,UFU (Brazil),Ecology & Nat. Res. Cons.,M.S.,2008
 advisor,Ian Fiske ,UF,Wildlife Ecology & Conservation    ,M.S.,2006
 advisor,Matthew Trager,UF,Interdisciplinary Ecology,M.S.,2005
 advisor,Maria B. Nogueira-Ribeiro ,USP (Brazil),Ecology,M.S.,2005
+doc_cmte,Emeline Pano,UF,Biology,Ph.D.,In progress
 doc_cmte,Lydia Soifer,UF,SNRE,Ph.D.,In progress
 doc_cmte,María José Román,UF,Biology,Ph.D.,In progress
 doc_cmte,Malu Ore Rengifo,UF,Biology,Ph.D.,In progress
@@ -23,7 +25,7 @@ doc_cmte,Yuley Encarnacion Pineyro,UF,Biology,Ph.D.,In progress
 doc_cmte,Jacob Herschberger,UF,Entomology,Ph.D.,In progress
 doc_cmte,Austin Nelsen,UF,History,Ph.D.,In progress
 doc_cmte,Andrea Irons,UF,Forest Resources & Conservation,Ph.D.,In progress
-doc_cmte,Maria Beatriz Cortez,UF,Biology,Ph.D.,In progress
+doc_cmte,Maria Beatriz Cortez,UF,Biology,Ph.D.,2023
 doc_cmte,David Mason,UF,Wildlife Ecology & Conservation ,Ph.D.,2022
 doc_cmte,Johanna R. Jantzen,UF,Biology,Ph.D.,2020
 doc_cmte,Demian Gomez Damiano,UF,Forest Resources & Conservation,Ph.D.,2020
@@ -56,7 +58,7 @@ doc_cmte,Silvia Lomáscolo,UF,Zoology ,Ph.D.,2008
 doc_cmte,Bonifacio Mostacedo,UF,Botany,Ph.D.,2007
 doc_cmte,David Serrano,UF,Entomology,Ph.D.,2006
 doc_cmte,Traci Darnell,UF,Wildlife Ecology & Conservation,Ph.D.,2006
-masters_cmte,Emma Zeitler,UF,Wildlife Ecology & Conservation,M.S.,In progress
+masters_cmte,Emma Zeitler,UF,Wildlife Ecology & Conservation,M.S.,2023
 masters_cmte,Autumn Rose,UF,Anthropology,M.A.,2022
 masters_cmte,Tania Kim,UF,Zoology,M.S.,2006
 masters_cmte,Lauren Trotta,UF,Wildlife Ecology & Conservation,M.S.,2016
