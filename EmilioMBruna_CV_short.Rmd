@@ -56,11 +56,8 @@ header-includes:
 
 # https://babichmorrowc.github.io/post/changing-fonts-in-rmarkdown-pdfs/
 
-output:
-   pdf_document: default
-   html_document:
-   df_print: paged
-   toc: false
+output: pdf_document
+   
 # 
 # 
 # 
@@ -285,7 +282,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 <!-- ### GRANT PROPOSALS UNDER REVIEW or IN PREPARATION -->
 
-### RELEVANT PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & CORRESPONDENCE (N = 110)
+### RELEVANT PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & CORRESPONDENCE (N = 115)
 
 **_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
 

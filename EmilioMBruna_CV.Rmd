@@ -362,7 +362,7 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 ### GRANT PROPOSALS UNDER REVIEW or IN PREPARATION
 
 
-1. National Science Foundation. "ORCC: The evolution of male-specific responses to seasonal precipitation in moss" $2,127,443). 
+1. National Science Foundation. "ORCC: The evolution of male-specific responses to seasonal precipitation in moss" ($2,127,443; PI: S. McDaniel, Co-PIs: EM Bruna, G John, BP Durham). 
 
 <!-- --- -->
 <!-- nocite: '@*' -->
@@ -375,8 +375,6 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 ### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=3)
 
 1. Hyde, J. L., Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. _In review_ A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. **_Perspectives in Ecology & Conservation_**. 
-
-1. Ferreira, A. M., A. P. Faria, H. L. Vasconcelos, E. M. Bruna, Vladimir Eliodoro Costa, A. S. Franco Pinheiro Moreira. _In preparation._ Does anthropogenic nitrogen deposition have effects on grass physiology of natural areas? **_South African Journal of Botany_**.
 
 <!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
 <!-- maybe to print out by reference groups? -->
@@ -403,11 +401,13 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 **_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
 
+1. Ferreira, A. M., A. P. Faria, H. L. Vasconcelos, E. M. Bruna, Vladimir Eliodoro Costa, A. S. Franco Pinheiro Moreira. _In press._ Does anthropogenic nitrogen deposition have effects on grass physiology of natural areas? **_South African Journal of Botany_**.
+
 1. The Herbivory Variability Network (Robinsion, M. L., et al.). 2023. Plant size, latitude, and phylogeny explain within-population variability in herbivory. **_Science_** 382:679-683. [DOI: 10.1126/science.adh8830](https://www.science.org/doi/full/10.1126/science.adh8830)
 
-1. Bruna, E. M., M. Uriarte, M. Rosa Darrigo, P. Rubim, C. F. Jurinitz, E. R. Scott, O. Ferreira da Silva, & W. John Kress. _In press_. Demography of the understory herb _Heliconia acuminata_ (Heliconiaceae) in an experimentally fragmented tropical landscape. **_Ecology_** https://doi.org/10.1002/ecy.4174
+1. Bruna, E. M., M. Uriarte, M. Rosa Darrigo, P. Rubim, C. F. Jurinitz, E. R. Scott, O. Ferreira da Silva, & W. John Kress. 2023. Demography of the understory herb _Heliconia acuminata_ (Heliconiaceae) in an experimentally fragmented tropical landscape. **_Ecology_** 104(12): e4174 https://doi.org/10.1002/ecy.4174 
 
-1. Bruna, E. M. 2023. Fundamental errors of data collection & validation undermine claims of 'Ideological Intensification'. **_Bioscience_** biad047. https://doi.org/10.1093/biosci/biad047  
+1. Bruna, E. M. 2023. Fundamental errors of data collection & validation undermine claims of 'Ideological Intensification' in STEM. **_Bioscience_** 73(11): 775-777. https://doi.org/10.1093/biosci/biad047
 
 1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. 2023. Landscape experiments unlock the multi-scale relationships among habitat loss, fragmentation, and patch-size effects. **_Ecology_** 104(5): e4037. https://doi.org/10.1002/ecy.4037
 
@@ -1073,7 +1073,7 @@ kbl(lab_members3,digits = 1,
 
 \begingroup 
 \setlength{\leftskip}{.2cm}
-Search Committee, UF QUEST Program (2023)   
+Search Committee, UF QUEST Program Director (2023)   
 Samuel P. Harn Museum of Art Faculty Council (2012-2015)  
 Selection Committee, UF Undergraduate Faculty Mentor/Advisor of the Year (2022)  
 Selection Committee, UF Undergraduate Teacher of the Year  (2022)  
@@ -1150,7 +1150,7 @@ Peer Teaching Evaluation for Dr. Michelle Mack (UF-Botany, 2006)
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-Search & Screen Committee, Asst. Professor of Environmental Justice (2023)
+Search & Screen Committee, Asst. Professor of Environmental Justice (2023)  
 Post-Tenure Review Committee (2023)
 LAS Faculty Advisory Council (2020-2023)  
 LAS Bylaws Revision Committee (2020-2021)  
@@ -1263,6 +1263,7 @@ kbl(talks,
 ### INTERVIEWS & MEDIA APPEARANCES  
 \begingroup 
 \setlength{\leftskip}{.2cm}
+2024\hspace{4mm}  [Science News](https://www.sciencenews.org/article/invasive-ant-lion-dinner-trees-ecosystem),
 2023\hspace{4mm}  [Nature](https://www.nature.com/articles/d41586-023-00711-z), [Vox](https://www.vox.com/policy-and-politics/23593369/ron-desantis-florida-schools-higher-education-woke)   
 2022\hspace{4mm}  [NRC (The Netherlands)](https://www.nrc.nl/nieuws/2022/02/22/systeem-van-open-access-helpt-wetenschappers-uit-arme-landen-niet-a4092976), [Nature](https://www.nature.com/articles/d41586-022-00342-w), WIRED Magazine, [Fox News Business](https://www.foxbusiness.com/politics/university-professors-unhappy-desantis-accountability), [The Scientist](https://www.the-scientist.com/news-opinion/florida-faculty-await-details-on-new-tenure-law-69971),  
 &nbsp;\hspace{10mm} [Miami Herald](https://www.miamiherald.com/news/local/education/article263966316.html), [The Independent Florida Alligator](https://www.alligator.org/article/2022/09/blue-and-gold-macaw-uf-campus), [Chronicle for Higher Education](https://www.chronicle.com/article/it-could-have-been-worse-higher-ed-reacts-to-ben-sasse-at-u-of-florida),  
