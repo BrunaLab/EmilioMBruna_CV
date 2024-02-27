@@ -374,7 +374,12 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 ### MANUSCRIPTS & OTHER PRODUCTS IN REVIEW or REVISION (N=3)
 
-1. Hyde, J. L., Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. _In review_ A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. **_Perspectives in Ecology & Conservation_**. 
+1. J. L. Hyde, Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. _In review._ A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. **_Perspectives in Ecology & Conservation_**. 
+
+1. R. J. Fletcher Jr., T A. H. Smith, S. Troy, N. Kortessis, E. C. Turner, E. M. Bruna, and R. D. Holt. _In review._ Matrix effects in ecology, evolution, and conservation. **_Annual Review of Ecology, Evolution, and Systematics_**.  
+
+1. D. S. Mason, Kevin M. Robertson, Phillip G. Hahn, Emilio M. Bruna, John L. Willis, & Marcus A. Lashley. _In review._ Fire promotes passive directed seed dispersal by birds.  
+
 
 <!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
 <!-- maybe to print out by reference groups? -->
@@ -422,7 +427,6 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. **_Journal of Ecology_** 109:2729- 2739. [PhD Thesis Chapter]. https://doi.org/10.1111/1365-2745.13684 _**Selected as a 2021 UF-IFAS High Impact Publication**_.  
 
 1. Bruna, E.M., R Chazdon, TM Errington and BA Nosek. 2021. A proposal to advance theory and promote collaboration in tropical biology by supporting replications. **_Biotropica_** 53:6-10. https://doi.org/10.1111/btp.12912
-
 
 1. Barbosa Silva, LV, HL Vasconcelos, MC Mack, AdS Ferreira, and EM Bruna. 2020. Effects of experimental nitrogen enrichment on soil properties and litter decomposition in a Neotropical savanna. **_Austral Ecology_** 45:1093-1102. https://doi.org/10.1111/aec.12936 [Ph. D. Thesis Chapter].  
 
