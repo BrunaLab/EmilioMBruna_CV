@@ -27,6 +27,7 @@ header-includes:
 - \fancyfoot{}
 - \fancyfoot[R]{`r format(Sys.time(), '%B %Y')`}
 - \fancyhead[R]{Emilio M. Bruna, p. \thepage}
+- \fancyhead[L]{}
 - \usepackage{setspace}
 - \usepackage{parskip}
 - \usepackage{xcolor}
@@ -376,8 +377,6 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 1. J. L. Hyde, Bohlman, S. A., Athayde, S., Bruna, E. M., Valle, D.R. _In review._ A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. **_Perspectives in Ecology & Conservation_**. 
 
-1. R. J. Fletcher Jr., T A. H. Smith, S. Troy, N. Kortessis, E. C. Turner, E. M. Bruna, and R. D. Holt. _In review._ Matrix effects in ecology, evolution, and conservation. **_Annual Review of Ecology, Evolution, and Systematics_**.  
-
 1. D. S. Mason, Kevin M. Robertson, Phillip G. Hahn, Emilio M. Bruna, John L. Willis, & Marcus A. Lashley. _In review._ Fire promotes passive directed seed dispersal by birds.  
 
 
@@ -402,9 +401,11 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 <!-- --- -->
 
 
-### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & CORRESPONDENCE (N = 115)
+### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & CORRESPONDENCE (N = 118)
 
 **_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
+
+1. R. J. Fletcher Jr., T A. H. Smith, S. Troy, N. Kortessis, E. C. Turner, E. M. Bruna, and R. D. Holt. _Accepted pending revisions._ Matrix effects in ecology, evolution, and conservation. **_Annual Review of Ecology, Evolution, and Systematics_**.  
 
 1. Ferreira, A. M., A. P. Faria, H. L. Vasconcelos, E. M. Bruna, Vladimir Eliodoro Costa, A. S. Franco Pinheiro Moreira. _In press._ Does anthropogenic nitrogen deposition have effects on grass physiology of natural areas? **_South African Journal of Botany_**.
 
@@ -1168,7 +1169,7 @@ Academic Advisor, Tropical Conservation & Development Program (2008-11, 2021-202
 Faculty Advisor, TCD Graduate Student Organization (2008-2016)  
 Steering Committee, Tropical Conservation & Development Program (2002-08, 2010-16, 2018-present)  
 Chair, TCD Fellowship Committee (2012, 2022)  
-Chair, TCD Field Research Grants Committee (2004, 2008, 2009, 2010, 2015, 2020, 2021)  
+Chair, TCD Field Research Grants Committee (2004, 2008-2010, 2015, 2020-2021, 2024)  
 Chair, Marianne Schmink Outstanding Dissertation Award Selection Committee (2010, 2011, 2013, 2022)  
 TCD Field Research Grants Committee (2003, 2004)  
 TCD Fellowship Committee (2003-2005)  
