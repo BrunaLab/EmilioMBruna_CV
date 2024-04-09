@@ -262,7 +262,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 <!--   sub("\\\\bottomrule", "", .) -->
 
 <!-- ``` -->
-\raggedright
+
 \begingroup 
 \setlength{\leftskip}{.2cm} 
 2022\hspace{4mm}Fellow, American Association for the Advancement of Science   

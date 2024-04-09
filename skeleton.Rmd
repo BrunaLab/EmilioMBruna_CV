@@ -1,0 +1,296 @@
+---
+title: "Curriculum Vitae"
+author: "Emilio M. Bruna"
+date: "`r format(Sys.time(), '%B %Y')`"
+
+email: embruna@ufl.edu
+phone: "(352) 514-3935"
+web: www.BrunaLab.org
+github: embruna
+twitter: BrunaLab
+
+# bibliography: ./emb_cv_modular/EMB_publications.bib
+# csl: brunacv.csl
+
+geometry: margin=1in
+linkcolor: darkmidnightblue
+urlcolor: darkmidnightblue
+fontawesome: yes
+updated: yes
+
+header-includes:
+- \usepackage{etaremune}
+- \usepackage[default]{sourcesanspro}
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot{}
+- \fancyfoot[R]{`r format(Sys.time(), '%B %Y')`}
+- \fancyhead[R]{Emilio M. Bruna, p. \thepage}
+- \fancyhead[L]{}
+- \usepackage{setspace}
+- \usepackage{parskip}
+- \usepackage{xcolor}
+- \AtBeginDocument{\let\maketitle\relax}
+- \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
+- \usepackage{sectsty} \subsectionfont{\color{darkmidnightblue}}
+- \usepackage{sectsty} \subsubsectionfont{\color{darkmidnightblue}}
+- \definecolor{darkcerulean}{rgb}{0.03, 0.27, 0.49}
+- \definecolor{darkmidnightblue}{rgb}{0.0, 0.2, 0.4}
+- \usepackage{xhfill}
+
+output:
+  pdf_document: default
+  # html_document: null
+  df_print: paged
+  toc: no
+  # word_document: default
+---
+
+
+```{r setup, include = FALSE}
+
+knitr::opts_chunk$set(echo = FALSE,message=FALSE,warning=FALSE)
+library(tidyverse)
+library(gridExtra)
+library(kableExtra)
+# library(citr)
+library(RefManageR)
+
+```
+<!-- this next line suppresses the header (line, name,  page number) on 1st page -->
+<!-- \begin{document}. -->
+\thispagestyle{empty}  
+# FIRSTNAME MIDDLENAME LASTNAME
+\vspace{-0.3cm}  <!--space between name and address -->
+University of ----\hfill -----@ufl.edu  
+Dept. of -\hfill +1 (352) 846-xxxx  
+Center for ---- Studies\hfill&nbsp;[www.------.org](www.-----.org)  
+Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@asasdad](https://twitter.com/asasd) 
+\vspace{-0.5cm}  <!--there was too much space, so reduced it with minus: -Xcm -->
+<!-- ___   -->
+\par\noindent\rule{\textwidth}{0.4pt}
+\textbf{\textcolor{darkmidnightblue}{RESEARCH \& TEACHING INTERESTS:}} keyswords or phrases
+
+<!-- \textbf{\textcolor{darkmidnightblue}{LANGUAGES:}} Fluent in Spanish, English, & Portuguese   -->
+<!-- \vspace{-0.6cm}   -->
+
+<!-- ```{r, child=c('one.Rmd', 'two.Rmd')} -->
+<!-- ``` -->
+
+<!-- ```{r, child='one.Rmd'} -->
+<!-- ``` -->
+
+### EDUCATION
+<!--to indent a block of stuff treat it as a 'group' and then set leftskip -->
+<!--be sure to indicate where the group ends with \endgroup -->
+
+\begingroup 
+\setlength{\leftskip}{.2cm} 
+
+<!-- ### EDUCATION \hrulefill\ -->
+<!-- TEXT \hrulefill\ -->
+<!-- Here is some text\xfill{1pt} \par -->
+<!-- Here is some text\xfill{8pt} \par -->
+<!-- Here is some text\xhrulefill{darkmidnightblue}{2pt}\par -->
+<!-- Here is some text\xhrulefill{darkmidnightblue}{1ex}\par -->
+<!-- HOW TO MAKE LINE COLOR SAME'? -->
+<!-- https://tex.stackexchange.com/questions/32597/vertically-centered-horizontal-rule-filling-the-rest-of-a-line -->
+<!-- \textbf{\textcolor{darkmidnightblue}{EDUCATION }}\xrfill[0.5ex]{0.5pt} -->
+
+<!-- ### EDUCATION \hrulefill -->
+
+
+
+2001\hspace{4mm} Ph.D. in Population Biology, University of California, Davis  
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;\hspace{6mm}  _Dissertation Co-Advisors: Susan P. Harrison and Sharon Y. Strauss_   -->
+1995\hspace{4mm} M.S. in Biology, University of California, San Diego  
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;\hspace{6mm} _Thesis Advisor: Ted J. Case_   -->
+1994\hspace{4mm} B.S. in Ecology, Behavior, & Evolution with a minor in Literature, University of California, San Diego  
+
+\endgroup 
+
+<!-- ```{r ed, echo=FALSE,message = FALSE,warning=FALSE} -->
+
+<!-- ed<-read_csv("./cv_files/education.csv") %>% -->
+<!-- replace_na(list(program=" ", school=" ",year=" ",degree=" ")) -->
+<!-- ed$program<-gsub('","',", ",ed$program) -->
+<!-- ed$school<-gsub('","',", ",ed$school) -->
+<!-- kbl(ed, -->
+<!--     digits = 1, -->
+<!--     format = "latex", -->
+<!--     align="l", -->
+<!--     col.names = NULL, -->
+<!--     longtable = T, -->
+<!--     row.names = FALSE, -->
+<!--     booktabs=T, -->
+<!--     linesep = "") %>% -->
+
+<!--   kable_styling(bootstrap_options = c("hover"), -->
+<!--                 latex_options = c("scale_down"), -->
+<!--                 full_width = F, -->
+<!--                 font_size = 10, -->
+<!--                 position = "left") %>% -->
+<!--   # row_spec(0:0, bold = T) %>% -->
+<!--   # # column_spec(2, width = "35em") %>% -->
+<!--   sub("\\\\toprule", "", .) %>% -->
+<!--   sub("\\\\bottomrule", "", .) -->
+<!-- ``` -->
+
+### PROFESSIONAL APPOINTMENTS
+\begingroup 
+\setlength{\leftskip}{.2cm} 
+
+YEAR-Present\hspace{6mm}**Title**, Institution  
+&nbsp;\hspace{24mm}Department of Whatever
+
+\endgroup
+
+\vspace{-0.2cm}
+### AWARDS
+
+\begingroup 
+\setlength{\leftskip}{.2cm} 
+YEAR\hspace{4mm}Item
+\endgroup
+
+### FELLOWSHIPS
+
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+YEAR\hspace{4mm}Item
+
+
+\endgroup
+
+## GRANTS IN SUPPORT OF RESEARCH, TRAINING, & PROGRAM DEVELOPMENT (>$5.5 million)  
+
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+
+
+### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & CORRESPONDENCE 
+
+
+### SOFTWARE 
+
+
+### OTHER WRITING & SCHOLARLY COMMUNICATION (N=15)
+
+
+
+### PUBLICLY ARCHIVED DATASETS & CODE (N=21)
+
+
+
+### MANUSCRIPTS IN PREPARATION (drafts available upon request). 
+
+
+## COURSE DEVELOPMENT & TEACHING EXPERIENCE
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+### University of Florida  
+
+## STUDENT & POSTDOCTORAL MENTORSHIP
+
+### GRADUATE STUDENTS ADVISED
+
+
+## INSTITUIONAL AND PROFESSIONAL SERVICE
+
+
+### UNIVERSITY OF FLORIDA  
+
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+\endgroup 
+
+
+
+
+### OTHER INSTITUTIONS  
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+
+\endgroup 
+
+### ASSOCIATION FOR TROPICAL BIOLOGY & CONSERVATION  
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+
+
+\endgroup 
+
+### ECOLOGICAL SOCIETY OF AMERICA   
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+
+
+\endgroup 
+
+### SERVICE AS A REVIEWER & EDITOR  
+
+\begingroup 
+\setlength{\leftskip}{.2cm}
+
+
+\endgroup 
+
+## SEMINARS & OUTREACH ACTIVITIES
+
+### INVITED SEMINARS
+
+<!-- ```{r talks, echo=FALSE,message = FALSE,warning=FALSE} -->
+<!-- talks<-read_csv("./cv_files/talks.csv", col_types = cols(.default = "c")) %>%  -->
+<!--   select(-year)  %>%  -->
+<!--   replace_na(list(year2="")) -->
+<!-- kbl(talks,  -->
+<!--       format    = "latex",  -->
+<!--       align = "l", -->
+<!--       longtable = T,  -->
+<!--       row.names = FALSE, -->
+<!--       col.names = NULL, -->
+<!--       booktabs=T, -->
+<!--       linesep = "") %>% -->
+<!--   kable_styling(bootstrap_options = c("hover"), -->
+<!--                 latex_options = c("scale_down"), -->
+<!--                 full_width = F, -->
+<!--                 font_size = 10, -->
+<!--                 position = "left") %>% -->
+<!--   sub("\\\\toprule", "", .) %>% -->
+<!--   sub("\\\\bottomrule", "", .) -->
+<!-- ``` -->
+
+### INTERVIEWS & MEDIA APPEARANCES  
+\begingroup 
+\setlength{\leftskip}{.2cm}
+2024\hspace{4mm}  [Outlet](link)  
+
+\endgroup   
+
+## PROFESSIONAL DEVELOPMENT ACTIVITIES  
+
+### PROFESSIONAL DEVELOPMENT 
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+YEAR\hspace{4mm} Activity
+
+
+\endgroup
+
+### MEMBERSHIPS IN PROFESSIONAL SOCIETIES  
+
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+Society 1
+Society 2
+Society 3
+
+
+\endgroup

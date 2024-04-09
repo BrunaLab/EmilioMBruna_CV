@@ -30,7 +30,8 @@ header-includes:
   # to center to top level (#) headings (my name) and change color of font
   # more info # https://www.ctan.org/pkg/sectsty
 - \usepackage{sectsty} \sectionfont{\centering\color{darkmidnightblue}}
-# to center to sub-sub-headings (###) and change color of font
+# centersub-headings (##) & sub-sub-headings (###) & change font color
+- \usepackage{sectsty} \subsectionfont{\color{darkmidnightblue}}
 - \usepackage{sectsty} \subsubsectionfont{\color{darkmidnightblue}}
 # http://latexcolor.com/ to choose colors
 # define the colors used above with rgb codes
