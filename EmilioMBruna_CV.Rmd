@@ -425,10 +425,14 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 <!-- \begin{etaremune} -->
 
 <!-- \item  -->
-1. J. L. Hyde, Bohlman, S. A., Athayde, S., Bruna, E. M., and Valle, D.R. \textit{In review.} A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. \textit{\textbf{Perspectives in Ecology and Conservation}}. 
+
+
+1. E. M. Bruna \textit{In review.} Is there really such a thing as _Tropical_ Biology?. \textit{\textbf{Biotropica}}. 
+
+2. J. L. Hyde, Bohlman, S. A., Athayde, S., Bruna, E. M., and Valle, D.R. \textit{In review.} A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. \textit{\textbf{Perspectives in Ecology and Conservation}}. 
 
 <!-- \item  -->
-2. D. S. Mason, K. M. Robertson, P. G. Hahn, E. M. Bruna, J. L. Willis, and M. A. Lashley. \textit{In review}. Fire promotes passive directed seed dispersal by birds.\textit{\textbf{}}  
+3. D. S. Mason, K. M. Robertson, P. G. Hahn, E. M. Bruna, J. L. Willis, and M. A. Lashley. \textit{In review}. Fire promotes passive directed seed dispersal by birds.\textit{\textbf{}}  
 
 <!-- \end{etaremune} -->
 <!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
@@ -456,7 +460,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 **_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
 
-1. R. J. Fletcher Jr., T A. H. Smith, S. Troy, N. Kortessis, E. C. Turner, E. M. Bruna, and R. D. Holt. _Accepted pending revisions._ Matrix effects in ecology, evolution, and conservation. **_Annual Review of Ecology, Evolution, and Systematics_**.  
+1. R. J. Fletcher Jr., T A. H. Smith, S. Troy, N. Kortessis, E. C. Turner, E. M. Bruna, and R. D. Holt. _In press._ Matrix effects in ecology, evolution, and conservation. **_Annual Review of Ecology, Evolution, and Systematics_**.  
 
 1. Ferreira, A. M., A. P. Faria, H. L. Vasconcelos, E. M. Bruna, Vladimir Eliodoro Costa, A. S. Franco Pinheiro Moreira. _In press._ Does anthropogenic nitrogen deposition have effects on grass physiology of natural areas? **_South African Journal of Botany_**.
 
