@@ -340,7 +340,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 2. National Science Foundation. _"SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics"_ ($199,904; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2020-2022).
 
-2. National Science Foundation. _"REU Supplement for SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics"_ ($14,400; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2021).
+3. National Science Foundation. _"REU Supplement for SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics"_ ($14,400; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2021).
 
 3. National Science Foundation. _"The role of the matrix in fragmented landscapes: experimental tests and novel theory"_ ($548,058; PI: R. Fletcher, Co-PIs: E. M. Bruna, R. D. Holt, and B. Reichert, 2018-2023)  
 
@@ -408,6 +408,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 ### GRANT PROPOSALS UNDER REVIEW or IN PREPARATION
 
+1. UF 10x10x10 Initiative: The "interconnected future of Florida & Latin America: Entrepreneurship, the Environment, & Transnational Migration" (E. M. Bruna and R. Stepp, UF Center for Latin American Studies).
 
 1. National Science Foundation. "ORCC: The evolution of male-specific responses to seasonal precipitation in moss" ($2,127,443; PI: S. McDaniel, Co-PIs: EM Bruna, G John, BP Durham). 
 
@@ -427,12 +428,13 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 <!-- \item  -->
 
 
-1. E. M. Bruna \textit{In review.} Is there really such a thing as _Tropical_ Biology?. \textit{\textbf{Biotropica}}. 
+1. E. M. Bruna. \textit{In review.} Is there really such a thing as _Tropical_ Biology? \textit{\textbf{Biotropica}}. 
 
-2. J. L. Hyde, Bohlman, S. A., Athayde, S., Bruna, E. M., and Valle, D.R. \textit{In review.} A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. \textit{\textbf{Perspectives in Ecology and Conservation}}. 
+1. Smith, T. A. H., R. D. Holt, E. M. Bruna, and R. J. Fletcher. \textit{In review.} Isolating the role of the matrix at patch and landscape scales. In review, \textit{\textbf{Journal of Animal Ecology}}.
 
+1. J. L. Hyde, Bohlman, S. A., Athayde, S., Bruna, E. M., and Valle, D.R. \textit{In review.} A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. \textit{\textbf{Perspectives in Ecology and Conservation}}. 
 <!-- \item  -->
-3. D. S. Mason, K. M. Robertson, P. G. Hahn, E. M. Bruna, J. L. Willis, and M. A. Lashley. \textit{In review}. Fire promotes passive directed seed dispersal by birds.\textit{\textbf{}}  
+1. D. S. Mason, K. M. Robertson, P. G. Hahn, E. M. Bruna, J. L. Willis, and M. A. Lashley. \textit{In review}. Fire promotes passive directed seed dispersal by birds.\textit{\textbf{}}  
 
 <!-- \end{etaremune} -->
 <!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
@@ -823,11 +825,9 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 1. Kortessis, N., R. J. Fletcher, E. M. Bruna, T. A. H. Smith, and R. D. Holt. Habitat degradation, dispersal, and matrix effects: Interactions between processes at different spatial scales determine species persistence. In preparation for **_The American Naturalist_**.
 
-1. Smith, T. A. H., E. M. Bruna, R. D. Holt, and R. J. Fletcher. The matrix matters: A hierarchical experiment reveals the multi-scale role of matrix habitat. In preparation for **_Ecology_**
-
 1. Smith, T. A. H., E. M. Bruna, and R. J. Fletcher. Autotomy in a changing world: How landscape structure alters the prevalence and consequences of limb loss. In preparation for **_Functional Ecology_**
 
-1.	E. H. M. Vieira-Neto, F. M. Mundim, and E. M. Bruna. Closed and open demographic models give contrasting patterns of inter-ppopulation dynamics in a long-lived superorganism. In preparation for **_Ecology_**.
+1.	E. H. M. Vieira-Neto, F. M. Mundim, and E. M. Bruna. Closed and open demographic models give contrasting patterns of inter-population dynamics in a long-lived superorganism. In preparation for **_Ecology_**.
 
 1.	Goring, S., K.S. Whitney, E. M. Bruna, A. L. Jacob, and T. Poisot. Ten Simple Rules to Make Scientific Content More Accessible. Preprint at: DOI: [10.22541/au.150844289.92609826](https://doi.org/10.22541/au.150844289.92609826)
 
@@ -1300,9 +1300,9 @@ Historical Records Committee (2022-2025)
 
 *__Ecology__*, *__Ecological Monographs__*, and *__Ecological Applications__*: Editorial Board (2008-2012)  
 
-__*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (2), *Information, Communication,& Society* (1), _Acta Amazonica_ (1), *Ecology* (4), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (13), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
+__*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (2), *Information, Communication,& Society* (1), _Acta Amazonica_ (1), *Ecology* (5), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (13), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
 
-__US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population & Evolutionary Processes (2007), DEB Population & Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (7), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists & Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
+__US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population & Evolutionary Processes (2007), DEB Population & Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (8), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists & Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
 
 __Other service as a reviewer (No. of reviews or year of service)__: Red Line Editorial (2019, technical review of a K-12 book), Mindlin Foundation (2018), Cornell University Press (2017), Instituto Serrapliheira (2017), HHMI Professors Program (2017), UF FAES/CRIS Project Proposals (2), U. of Chicago Press (1), Alfred P. Sloan Foundation Minority Ph.D. Program (3). National Geographic Society (1), U. of California Press (1)  
 
