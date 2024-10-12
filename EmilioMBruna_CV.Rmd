@@ -378,8 +378,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 <!-- \item  -->
 
-
-1. Mundim, F. M., E. Vieira-Neto, G. F. Schneider, H. Alborn, E. M. Bruna.  Simultaneous and Sequential herbivory dynamics: exploring plant defenses strategies amidst drought challenges. In review, \textit{\textbf{Journal of Ecology}}.
+1. Mundim, F. M., E. Vieira-Neto, G. F. Schneider, H. Alborn, E. M. Bruna.  Simultaneous and sequential herbivory dynamics: exploring plant defenses strategies amidst drought challenges. In review, \textit{\textbf{Frontiers in Plant Science}}.
 
 1. J. L. Hyde, Bohlman, S. A., Athayde, S., Bruna, E. M., and Valle, D.R. \textit{In review.} A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. \textit{\textbf{Perspectives in Ecology and Conservation}}. 
 <!-- \item  -->
