@@ -814,7 +814,8 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 <!-- ## COURSE DEVELOPMENT & TEACHING EXPERIENCE -->
 \begingroup 
 \setlength{\leftskip}{.2cm}  
-### University of Florida Courses  
+## Courses - University of Florida (N = 12)  
+
 The Future of Rain Forests (Undergraduate, 2021, 2022)  
 Data Collection & Management for Latin American Studies (Graduate, 2019, 2021, 2022)  
 Ecology and Conservation of Tropical Wildlife (Undergraduate, 03,05,07,11,12,14,18)  
@@ -827,19 +828,15 @@ Design and Methods of Research in Latin American Studies (Graduate, 2008, 2010)
 Research Methods in Tropical Conservation & Development (Graduate, 2003-2007)  
 Seminar in Wildlife Ecology and Conservation (Graduate, 2003, 2004)  
 Social Media Workshop (Graduate, 2016)  
-<!-- \endgroup  -->
-<!-- \begingroup  -->
-\setlength{\leftskip}{.2cm}  
-<!-- __Other Teaching Experience__   -->
-*__Guest Lectures__*: _UF SACNAS CV Workshop_ (2023), _The Professional Scientist_ (WIS 6934: 2021, 2022), _Diverse Perspectives in Conservation_ (WIS4934: 2021, 2022), _Human Footprint on the Landscape_ (GEO3352: 2019), _Facets of Sustainability_ (IDS2154: 2011, 2013), _Environmental Planning & Design_ (EES 6051: 2016, 2018), _The Amazon_ (LAS6290: 2009, 2011), _Design & Methods of Research in Latin American Studies_ (Graduate, 2019, 2020), _Discovering Research & Communicating Science_ (IDH3931: 2015), _Wildlife Techniques_ (WIS4945C: 2005), _Development Theory & Practice_ (LAS6938: 2010), _Wildlife Population Modeling_ (WIS6466: 2003, 2006, 2008, 2010), _Principles of Wildlife Ecology & Conservation_ (WIS6934: 2008), _Luso-Brazilian Civilization_ (POW3500: 2004)  
 
-### Universidade Federal de Uberlândia 
+## Courses - Universidade Federal de Uberlândia (N = 3)
+Mechanisms of Species Coexistence (Graduate, 2006)  
+Data Management & Archiving (Graduate, 2012, 2014)  
+Scientific Publishing (Graduate, 2011)  
 
-Mechanisms of Species Coexistence (Graduate Course, 2006)  
-Data Management & Archiving (Graduate Course, 2012, 2014)  
-Scientific Publishing (Graduate Course, 2011)  
+## Guest Lectures (N = 35)
 
-**_Guest lectures:_** **INPA:** _Population Ecology_ (2002, 2003), Community Ecology (2002), **OTS**: _3M Field Course_ (2001), _Amazonian Ecosystems Field Course_ (2001), **Antioch College**: Semester Abroad in Brazil (1999, 2001), **Univ. Federal do Amazonas**: _Fragmented Landscapes Field Course_ (2000, 2002)    
+**University of Florida:** _UF SACNAS CV Workshop_ (2023, 2024), _The Professional Scientist_ (WIS 6934: 2021, 2022), _Diverse Perspectives in Conservation_ (WIS4934: 2021, 2022), _Human Footprint on the Landscape_ (GEO3352: 2019), _Facets of Sustainability_ (IDS2154: 2011, 2013), _Environmental Planning & Design_ (EES 6051: 2016, 2018), _The Amazon_ (LAS6290: 2009, 2011), _Design & Methods of Research in Latin American Studies_ (Graduate, 2019, 2020), _Discovering Research & Communicating Science_ (IDH3931: 2015), _Wildlife Techniques_ (WIS4945C: 2005), _Development Theory & Practice_ (LAS6938: 2010), _Wildlife Population Modeling_ (WIS6466: 2003, 2006, 2008, 2010), _Principles of Wildlife Ecology & Conservation_ (WIS6934: 2008), _Luso-Brazilian Civilization_ (POW3500: 2004)  **Yale**: Tropical Forest Ecology & Conservation (2024), **Michigan State University** _Decolonizing EEB_ (2024), **INPA:** _Population Ecology_ (2002, 2003), Community Ecology (2002), **OTS**: _3M Field Course_ (2001), _Amazonian Ecosystems Field Course_ (2001), **Antioch College**: Semester Abroad in Brazil (1999, 2001), **Univ. Federal do Amazonas**: _Fragmented Landscapes Field Course_ (2000, 2002)    
 
 \endgroup 
 
