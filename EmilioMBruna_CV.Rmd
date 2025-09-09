@@ -283,6 +283,10 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 \begingroup 
 \setlength{\leftskip}{.2cm}  
 
+1. National Science Foundation. "OPUS: Is habitat fragmentation detrimental or beneficial? Promoting our understanding of a contentious ecological question via synthesis." ($245,385, PI: E. M. Bruna)  
+
+1. UF Faculty Enhancement Opportunity Program _"Application of artificial intelligence for the study of tropical plant demography"_ ($31,159.03, Spring 2025).
+
 1. Maxwell-Hanrahan Foundation. _"Support for the ATBC Field Grant Program"_ (PIs E. M. Bruna, P. Sampaio, L. Lohmann: $10,000 for 2022-2023, renewed 2023-2026 for $45,000)
 
 1. Maxwell-Hanrahan Foundation. _"Support for the UF TCD Seed Grant Program"_ ($10,000; PIs E. M. Bruna, B. Loiselle: $10,000 for 2022-2023, renewed 2023-2026 for $45,000)
@@ -361,7 +365,8 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 1. UF 10x10x10 Initiative: The "interconnected future of Florida & Latin America: Entrepreneurship, the Environment, & Transnational Migration" (E. M. Bruna and R. Stepp, UF Center for Latin American Studies).
 
-1. National Science Foundation. "The genomic basis and demographic consequences of male-biased local adaptation in a moss" ($2,267,331; PI: S. McDaniel, Co-PIs: K. Krippen, E. M. Bruna, G. John, B. P. Durham). 
+<!-- 1. National Science Foundation. "The genomic basis and demographic consequences of male-biased local adaptation in a moss" ($2,267,331; PI: S. McDaniel, Co-PIs: K. Krippen, E. M. Bruna, G. John, B. P. Durham).  -->
+
 
 <!-- --- -->
 <!-- nocite: '@*' -->
@@ -378,13 +383,20 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 <!-- \item  -->
 
-1. Mundim, F. M., E. Vieira-Neto, G. F. Schneider, H. Alborn, E. M. Bruna.  Simultaneous and sequential herbivory dynamics: exploring plant defenses strategies amidst drought challenges. In review, \textit{\textbf{Frontiers in Plant Science}}.
+<!-- 1. ATBC Code of Conduct Editorial -->
 
-1. J. L. Hyde, Bohlman, S. A., Athayde, S., Bruna, E. M., and Valle, D.R. \textit{In review.} A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. \textit{\textbf{Perspectives in Ecology and Conservation}}.  
+<!-- 1. ATBC Ethics Editorial -->
 
-1. Smith, T., R. Holt, E. M. Bruna, R. Fletcher. \textit{In review.} Isolating the role of the matrix at patch and landscape scales. \textit{\textbf{Journal of Animal Ecology}}.  
+1. Mundim, F. M., E. Vieira-Neto, G. F. Schneider, H. Alborn, E. M. Bruna. \textit{In review.} Simultaneous and sequential herbivory dynamics: exploring plant defenses strategies amidst drought challenges. \textit{\textbf{Frontiers in Plant Science}}.
 
-1. D. S. Mason, K. M. Robertson, P. G. Hahn, E. M. Bruna, J. L. Willis, and M. A. Lashley. \textit{In review}. Fire promotes passive directed seed dispersal by birds.\textit{\textbf{}}  
+1. Smith, T., R. Holt, E. M. Bruna, R. Fletcher. \textit{In revision.} Isolating the role of the matrix at patch and landscape scales. \textit{\textbf{Journal of Animal Ecology}}.  
+
+1. Radhamoni, Harikrishnan, M. Spicer; M. Duguid, L. Comita. E. M. Bruna, A. Andrade, J. Beck, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, S. Queenborough, \textit{In review.} Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. \textit{\textbf{Journal of Ecology}}.  
+
+<!-- 1. R. J. Fletcher, Jr., T. A. H. Smith, M. Jones, F. Potash, R. Payne, N. Kortessis, E. M. Bruna, and R. D. Holt. The landscape matrix dominates habitat fragmentation experiments. -->
+
+1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. _In review._ Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. **_Tropical Ecology_**
+
 
 <!-- \end{etaremune} -->
 <!-- very helpful for bibliography: https://inbo.github.io/tutorials/tutorials/r_citations_markdown/ -->
@@ -408,15 +420,19 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 <!-- --- -->
 
  
-### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & CORRESPONDENCE (N = 119)
+### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & CORRESPONDENCE (N = 120)
 
 **_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
+
+1. D. S. Mason, K. M. Robertson, P. G. Hahn, E. M. Bruna, J. L. Willis, and M. A. Lashley. \textit{In press}. Fire promotes passive directed seed dispersal by birds. \textit{\textbf{Current Biology}}.  
+
+1. J. L. Hyde, C. Swanson, S. A. Bohlman, S. Athayde, E. M. Bruna, and D. R. Valle 2025. A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. \textit{\textbf{PeerJ}} 13:e19926 https://doi.org/10.7717/peerj.19926
 
 1. Bruna, E. M. 2025. Is there really such a thing as _Tropical_ Biology? **_Biotropica_** 57: e13387. [doi.org/10.1111/btp.13387](https://doi.org/10.1111/btp.13387)  
 
 1. R. J. Fletcher Jr., T A. H. Smith, S. Troy, N. Kortessis, E. C. Turner, E. M. Bruna, and R. D. Holt. 2024. Matrix effects in ecology, evolution, and conservation. **_Annual Review of Ecology, Evolution, and Systematics_** 55:423-447 [doi.org/10.1146/annurev-ecolsys-102722-025653](https://doi.org/10.1146/annurev-ecolsys-102722-025653)
 
-1. Ferreira, A. M., A. P. Faria, H. L. Vasconcelos, E. M. Bruna, V. E. Costa, A. S. Franco Pinheiro Moreira. 2024. Does anthropogenic nitrogen deposition have effects on grass physiology of natural areas? **_South African Journal of Botany_** 165: 339-348. [doi.org/10.1016/j.sajb.2023.12.044]https://doi.org/10.1016/j.sajb.2023.12.044
+1. Ferreira, A. M., A. P. Faria, H. L. Vasconcelos, E. M. Bruna, V. E. Costa, A. S. Franco Pinheiro Moreira. 2024. Does anthropogenic nitrogen deposition have effects on grass physiology of natural areas? **_South African Journal of Botany_** 165: 339-348. [doi.org/10.1016/j.sajb.2023.12.044](https://doi.org/10.1016/j.sajb.2023.12.044)
 
 1. The Herbivory Variability Network (Robinsion, M. L., et al.). 2023. Plant size, latitude, and phylogeny explain within-population variability in herbivory. **_Science_** 382:679-683. [DOI: 10.1126/science.adh8830](https://www.science.org/doi/full/10.1126/science.adh8830)
 
@@ -652,7 +668,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 88. Bruna, EM, RN Fisher, and TJ Case. 1995. Cryptic species of Pacific skinks (_Emoia_): Further support from mitochondrial DNA sequences. **_Copeia_** 1995:981-983.  
 
 
-### SOFTWARE, TECHNICAL MANUALS, & ONLINE MATERIALS (N=2)
+### SOFTWARE, TECHNICAL MANUALS, & ONLINE MATERIALS (N=3)
 
 1. HerbVar Steering Committee (2024). HerbVar: Project Manual and Field protocols (v0.9.0). Zenodo. https://doi.org/10.5281/zenodo.14232308
 
@@ -661,7 +677,9 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 1. _Jean Theodore Descourtilz (1796-1855) and the Ornithologie Bresilienne_: Website created with graduate students in response to request from the UF Harn Museum of Art to analyze an aqcuisition of chromolithographs https://descourtilz.wordpress.com/
 
 
-### EDITORIALS, BOOK REVIEWS, AND OTHER SCHOLARLY COMMUNICATIONS (N=15)
+### EDITORIALS, BOOK REVIEWS, AND OTHER SCHOLARLY COMMUNICATIONS (N=14)
+
+1. Powers, Jennifer S., E. M. Bruna, and Lúcia G. Lohmann. _In press_. Looking Back and Moving Forward: Reflections on 60 Years of the Association for Tropical Biology and Conservation. \textit{\textbf{Biotropica}}. 
 
 1. Bruna, E., Powers, J.S. and Lohmann, L.G. 2022. 2022 ATBC Honorary Fellows. _Biotropica_ 54:1521-1522. https://doi.org/10.1111/btp.13170
 
@@ -773,8 +791,6 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 <!-- 1. Mundim,F. M. E. Vieira-Neto, G. F. Schneider, H. Alborn, E. M. Bruna. _In preparation._ Simultaneous and Sequential herbivory dynamics: exploring plant defenses strategies amidst drought challenges. **_Ecology_** -->
 
-<!-- 1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. _In preparation._ Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. **_Plant Ecology_** -->
-
 <!-- 1.	E. S. Parsons and E. M. Bruna. Assessing the magnitude of abiotic edge effects in fragmented landscapes: revisiting the paradigm with data. In preparation for **_Biological Conservation_**[MA Thesis chapter]. -->
 
 <!-- 1. Kortessis, N., R. J. Fletcher, E. M. Bruna, T. A. H. Smith, and R. D. Holt. Habitat degradation, dispersal, and matrix effects: Interactions between processes at different spatial scales determine species persistence. In preparation for **_The American Naturalist_**. -->
@@ -819,13 +835,13 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 \setlength{\leftskip}{.2cm}  
 ## Courses - University of Florida (N = 12)  
 
-The Future of Rain Forests (Undergraduate, 2021, 2022)  
-Data Collection & Management for Latin American Studies (Graduate, 2019, 2021, 2022)  
-Ecology and Conservation of Tropical Wildlife (Undergraduate, 03,05,07,11,12,14,18)  
-Plant-Animal Interactions (Graduate, 2004, 2006, 2008, 2010)  
-Fundraising for Tropical Conservation & Development (Graduate, 2013, 2016, 2018, 2020)  
+The Future of Rain Forests (Undergraduate, annually 2021-2023)  
+Data Collection & Management for Latin American Studies (Graduate, annually 2019-2024)  
+Ecology and Conservation of Tropical Wildlife (Undergraduate, biannually 2003-11 & 2012-2014,2018)  
+Plant-Animal Interactions (Graduate, biannually 2004-2010)  
+Fundraising for Tropical Conservation & Development (Graduate, 2013, biannually 2016-2020)  
 Scientific Publishing (Graduate, 2014, 2015, 2017, 2018)  
-Ecological Principles for Development & Conservation Professionals (Graduate, 2010, 2011, 2012)  
+Ecological Principles for Development & Conservation Professionals (Graduate, 2010-2012)  
 Tropical Forest Community Ecology (Graduate, 2000)  
 Design and Methods of Research in Latin American Studies (Graduate, 2008, 2010)  
 Research Methods in Tropical Conservation & Development (Graduate, 2003-2007)  
@@ -1131,7 +1147,7 @@ Steering Committee, PSTC Compton Fellowship Program (2002-2010)
 Seminar Series Coordinator (2003-2004)  
 Seminar Series Coordinator (2015)  
 Chair, Tenure Mentorship Committee for Dr. Robert Fletcher (2009-2012)  
-Tenure Mentorship Committee for Dr. Nia Morales (2021-2023)  
+Tenure Mentorship Committee for Dr. Nia Morales (2021-2025)  
 Tenure Mentorship Committee for Dr. Matt Hallet (2022-2025)  
 Search & Screen Committee, Research Asst. Professor, Zoo Wildlife Conservation Biology (2020)  
 Search & Screen Committee, Asst. Professor of Population Ecology (2017)  
@@ -1198,6 +1214,8 @@ UC San Diego EAP Selection Committee, Tropical Biology Program (1994)
 \begingroup 
 \setlength{\leftskip}{.2cm}  
 
+Search Committee, ATBC Executive Director (2024-2025)
+Search Committee, _Biotropica_ Editor-in-Chief (2024-2025)
 Past-President (2022), President (2021), & President-Elect (2020)  
 Chair, Nominations Committee (2022)  
 Program & Organizing Committees, Annual Meeting of the ATBC (2021)    
@@ -1231,9 +1249,9 @@ Historical Records Committee (2022-2025)
 
 *__Ecology__*, *__Ecological Monographs__*, and *__Ecological Applications__*: Editorial Board (2008-2012)  
 
-__*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (2), *Information, Communication,& Society* (1), _Acta Amazonica_ (1), *Ecology* (5), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (13), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
+__*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (2), *Information, Communication,& Society* (1), _Acta Amazonica_ (1), *Ecology* (5), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (14), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
 
-__US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population & Evolutionary Processes (2007), DEB Population & Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (8), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists & Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
+__US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population & Evolutionary Processes (2007), DEB Population & Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (9), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists & Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
 
 __Other service as a reviewer (No. of reviews or year of service)__: Red Line Editorial (2019, technical review of a K-12 book), Mindlin Foundation (2018), Cornell University Press (2017), Instituto Serrapliheira (2017), HHMI Professors Program (2017), UF FAES/CRIS Project Proposals (2), U. of Chicago Press (1), Alfred P. Sloan Foundation Minority Ph.D. Program (3). National Geographic Society (1), U. of California Press (1)  
 
@@ -1322,7 +1340,7 @@ kbl(talks,
 \begingroup 
 \setlength{\leftskip}{.2cm}  
 Ecological Society of America  
-Association for Tropical Biology & Conservation
+Association for Tropical Biology & Conservation  
 British Ecological Society  
 American Association for the Advancement of Science  
 International Society for Scientometrics & Infometrics  
