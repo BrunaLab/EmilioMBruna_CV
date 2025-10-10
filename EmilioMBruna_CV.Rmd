@@ -387,15 +387,14 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 <!-- 1. ATBC Ethics Editorial -->
 
-1. Mundim, F. M., E. Vieira-Neto, G. F. Schneider, H. Alborn, E. M. Bruna. \textit{In review.} Simultaneous and sequential herbivory dynamics: exploring plant defenses strategies amidst drought challenges. \textit{\textbf{Frontiers in Plant Science}}.
+1. Bruna, E. M. Declining contribution of the United States federal government to global research corpus. \textit{In review}, \textit{\textbf{Science}}.
 
-1. Smith, T., R. Holt, E. M. Bruna, R. Fletcher. \textit{In revision.} Isolating the role of the matrix at patch and landscape scales. \textit{\textbf{Journal of Animal Ecology}}.  
+1. Mundim, F. M., E. Vieira-Neto, G. F. Schneider, H. Alborn, E. M. Bruna. Simultaneous and sequential herbivory dynamics: exploring plant defenses strategies amidst drought challenges. \textit{In review}, \textit{\textbf{Frontiers in Plant Science}}.
 
-1. Radhamoni, Harikrishnan, M. Spicer; M. Duguid, L. Comita. E. M. Bruna, A. Andrade, J. Beck, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, S. Queenborough, \textit{In review.} Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. \textit{\textbf{Journal of Ecology}}.  
-
+1. Radhamoni, Harikrishnan, M. Spicer; M. Duguid, L. Comita. E. M. Bruna, A. Andrade, J. Beck, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, S. Queenborough. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. \textit{In review}, \textit{\textbf{Forest Ecology \& Management}}.  
 <!-- 1. R. J. Fletcher, Jr., T. A. H. Smith, M. Jones, F. Potash, R. Payne, N. Kortessis, E. M. Bruna, and R. D. Holt. The landscape matrix dominates habitat fragmentation experiments. -->
 
-1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. _In review._ Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. **_Tropical Ecology_**
+1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. \textit{In review}, \textit{\textbf{Tropical Ecology}}.
 
 
 <!-- \end{etaremune} -->
@@ -426,9 +425,17 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 1. D. S. Mason, K. M. Robertson, P. G. Hahn, E. M. Bruna, J. L. Willis, and M. A. Lashley. \textit{In press}. Fire promotes passive directed seed dispersal by birds. \textit{\textbf{Current Biology}}.  
 
+1. Smith, T. A. H., Holt, R. D., Bruna, E. M., & Fletcher, R. J. Jr. (2025). Isolating the role of the matrix at patch and landscape scales. \textit{\textbf{Journal of Animal Ecology}} 94:1800–1810. https://doi.org/10.1111/1365-2656.70089
+
 1. J. L. Hyde, C. Swanson, S. A. Bohlman, S. Athayde, E. M. Bruna, and D. R. Valle 2025. A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. \textit{\textbf{PeerJ}} 13:e19926 https://doi.org/10.7717/peerj.19926
 
-1. Bruna, E. M. 2025. Is there really such a thing as _Tropical_ Biology? **_Biotropica_** 57: e13387. [doi.org/10.1111/btp.13387](https://doi.org/10.1111/btp.13387)  
+1. Carrasco‐Rueda, F., C. L. Cardelús, Y. Chirango, C. J. Garnica‐Díaz, Y. Godwill, V. Gowda, B. Maas, F. Montaño‐Centellas, R. Ostertag, A. Roopsind, Sheherazade, G. Vargas G., Y. Arn Teh, E. M. Bruna, N. J. Cordeiro, G. G.O. Dossa, E. Effiom, L. G. Lohmann, M. Mujawamariya, I. Oliveras Menor, P. Parolin, J. M. Posada, R. A. Zahawi, L. S. Santiago. 2025. ATBC Code of Conduct. \textit{\textbf{Biotropica}} 57(5): e70090. https://doi.org/10.1111/btp.70090.
+
+1. Brodie, J. F., F. Carrasco, S. Chatterjee, Y. Chirango, C. J. Garnica‐Díaz, V. Gowda, B. Maas, F. Montaño‐Centellas, R. Ostertag, P. Hariharan, G. Vargas, E. M. Bruna, C. L Cardelus, N. J. Cordeiro, G. G. O. Dossa, E. Effiom, L. G. Lohmann, I. O Menor, M. Mujawamariya, P. Parolin, J. M. Posada, M. Soto Rueda, Y. Arn Teh, B. Yadok, R. A. Zahawi, L. Santiago. 2025. ATBC Code of Ethics. \textit{\textbf{Biotropica}} 57(5): e70091. https://doi.org/10.1111/btp.70091.
+
+1. Powers, J. S., E. M. Bruna, and L. G. Lohmann. 2025. “ Looking Back and Moving Forward: Reflections on 60 Years of the Association for Tropical Biology and Conservation.” \textit{\textbf{Biotropica}} 57(5): e70074. https://doi.org/10.1111/btp.70074.
+
+1. Bruna, E. M. 2025. Is there really such a thing as _Tropical_ Biology? \textit{\textbf{Biotropica}} 57: e13387. [doi.org/10.1111/btp.13387](https://doi.org/10.1111/btp.13387)  
 
 1. R. J. Fletcher Jr., T A. H. Smith, S. Troy, N. Kortessis, E. C. Turner, E. M. Bruna, and R. D. Holt. 2024. Matrix effects in ecology, evolution, and conservation. **_Annual Review of Ecology, Evolution, and Systematics_** 55:423-447 [doi.org/10.1146/annurev-ecolsys-102722-025653](https://doi.org/10.1146/annurev-ecolsys-102722-025653)
 
@@ -855,7 +862,7 @@ Scientific Publishing (Graduate, 2011)
 
 ## Guest Lectures (N = 35)
 
-**University of Florida:** _UF SACNAS CV Workshop_ (2023, 2024), _The Professional Scientist_ (WIS 6934: 2021, 2022), _Diverse Perspectives in Conservation_ (WIS4934: 2021, 2022), _Human Footprint on the Landscape_ (GEO3352: 2019), _Facets of Sustainability_ (IDS2154: 2011, 2013), _Environmental Planning & Design_ (EES 6051: 2016, 2018), _The Amazon_ (LAS6290: 2009, 2011), _Design & Methods of Research in Latin American Studies_ (Graduate, 2019, 2020), _Discovering Research & Communicating Science_ (IDH3931: 2015), _Wildlife Techniques_ (WIS4945C: 2005), _Development Theory & Practice_ (LAS6938: 2010), _Wildlife Population Modeling_ (WIS6466: 2003, 2006, 2008, 2010), _Principles of Wildlife Ecology & Conservation_ (WIS6934: 2008), _Luso-Brazilian Civilization_ (POW3500: 2004)  **Yale**: Tropical Forest Ecology & Conservation (2024), **Michigan State University** _Decolonizing EEB_ (2024), **INPA:** _Population Ecology_ (2002, 2003), Community Ecology (2002), **OTS**: _3M Field Course_ (2001), _Amazonian Ecosystems Field Course_ (2001), **Antioch College**: Semester Abroad in Brazil (1999, 2001), **Univ. Federal do Amazonas**: _Fragmented Landscapes Field Course_ (2000, 2002)    
+**University of Florida:** _UF SACNAS CV Workshop_ (2023, 2024, 2025), _The Professional Scientist_ (WIS 6934: 2021, 2022), _Diverse Perspectives in Conservation_ (WIS4934: 2021, 2022), _Human Footprint on the Landscape_ (GEO3352: 2019), _Facets of Sustainability_ (IDS2154: 2011, 2013), _Environmental Planning & Design_ (EES 6051: 2016, 2018), _The Amazon_ (LAS6290: 2009, 2011), _Design & Methods of Research in Latin American Studies_ (Graduate, 2019, 2020), _Discovering Research & Communicating Science_ (IDH3931: 2015), _Wildlife Techniques_ (WIS4945C: 2005), _Development Theory & Practice_ (LAS6938: 2010), _Wildlife Population Modeling_ (WIS6466: 2003, 2006, 2008, 2010), _Principles of Wildlife Ecology & Conservation_ (WIS6934: 2008), _Luso-Brazilian Civilization_ (POW3500: 2004)  **Yale**: Tropical Forest Ecology & Conservation (2024), **Michigan State University** _Decolonizing EEB_ (2024), **INPA:** _Population Ecology_ (2002, 2003), Community Ecology (2002), **OTS**: _3M Field Course_ (2001), _Amazonian Ecosystems Field Course_ (2001), **Antioch College**: Semester Abroad in Brazil (1999, 2001), **Univ. Federal do Amazonas**: _Fragmented Landscapes Field Course_ (2000, 2002)    
 
 \endgroup 
 
