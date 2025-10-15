@@ -383,16 +383,13 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 <!-- \item  -->
 
-<!-- 1. ATBC Code of Conduct Editorial -->
-
-<!-- 1. ATBC Ethics Editorial -->
-
-1. Bruna, E. M. Declining contribution of the United States federal government to global research corpus. \textit{In review}, \textit{\textbf{Science}}.
+1. Bruna, E. M. Declining contribution of the United States federal government to global research corpus. \textit{In review}, \textit{\textbf{Science}}. \textit{Preprint:} https://doi.org/10.31222/osf.io/4hfe9_v1
 
 1. Mundim, F. M., E. Vieira-Neto, G. F. Schneider, H. Alborn, E. M. Bruna. Simultaneous and sequential herbivory dynamics: exploring plant defenses strategies amidst drought challenges. \textit{In review}, \textit{\textbf{Frontiers in Plant Science}}.
 
 1. Radhamoni, Harikrishnan, M. Spicer; M. Duguid, L. Comita. E. M. Bruna, A. Andrade, J. Beck, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, S. Queenborough. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. \textit{In review}, \textit{\textbf{Forest Ecology \& Management}}.  
-<!-- 1. R. J. Fletcher, Jr., T. A. H. Smith, M. Jones, F. Potash, R. Payne, N. Kortessis, E. M. Bruna, and R. D. Holt. The landscape matrix dominates habitat fragmentation experiments. -->
+
+1. R. J. Fletcher, Jr., T. A. H. Smith, M. Jones, F. Schellenberg, R. Payne, N. Kortessis, E. M. Bruna, and R. D. Holt. Landscape quality drives ecological change in habitat fragmentation experiments. \textit{In review}, \textit{\textbf{Science Advances}}.  
 
 1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. \textit{In review}, \textit{\textbf{Tropical Ecology}}.
 
@@ -419,7 +416,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 <!-- --- -->
 
  
-### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & CORRESPONDENCE (N = 120)
+### PEER-REVIEWED PUBLICATIONS, BOOK CHAPTERS, & CORRESPONDENCE  
 
 **_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
 
@@ -428,12 +425,6 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 1. Smith, T. A. H., Holt, R. D., Bruna, E. M., & Fletcher, R. J. Jr. (2025). Isolating the role of the matrix at patch and landscape scales. \textit{\textbf{Journal of Animal Ecology}} 94:1800–1810. https://doi.org/10.1111/1365-2656.70089
 
 1. J. L. Hyde, C. Swanson, S. A. Bohlman, S. Athayde, E. M. Bruna, and D. R. Valle 2025. A lack of open data standards for large infrastructure project hampers social-ecological research in the Brazilian Amazon. \textit{\textbf{PeerJ}} 13:e19926 https://doi.org/10.7717/peerj.19926
-
-1. Carrasco‐Rueda, F., C. L. Cardelús, Y. Chirango, C. J. Garnica‐Díaz, Y. Godwill, V. Gowda, B. Maas, F. Montaño‐Centellas, R. Ostertag, A. Roopsind, Sheherazade, G. Vargas G., Y. Arn Teh, E. M. Bruna, N. J. Cordeiro, G. G.O. Dossa, E. Effiom, L. G. Lohmann, M. Mujawamariya, I. Oliveras Menor, P. Parolin, J. M. Posada, R. A. Zahawi, L. S. Santiago. 2025. ATBC Code of Conduct. \textit{\textbf{Biotropica}} 57(5): e70090. https://doi.org/10.1111/btp.70090.
-
-1. Brodie, J. F., F. Carrasco, S. Chatterjee, Y. Chirango, C. J. Garnica‐Díaz, V. Gowda, B. Maas, F. Montaño‐Centellas, R. Ostertag, P. Hariharan, G. Vargas, E. M. Bruna, C. L Cardelus, N. J. Cordeiro, G. G. O. Dossa, E. Effiom, L. G. Lohmann, I. O Menor, M. Mujawamariya, P. Parolin, J. M. Posada, M. Soto Rueda, Y. Arn Teh, B. Yadok, R. A. Zahawi, L. Santiago. 2025. ATBC Code of Ethics. \textit{\textbf{Biotropica}} 57(5): e70091. https://doi.org/10.1111/btp.70091.
-
-1. Powers, J. S., E. M. Bruna, and L. G. Lohmann. 2025. “ Looking Back and Moving Forward: Reflections on 60 Years of the Association for Tropical Biology and Conservation.” \textit{\textbf{Biotropica}} 57(5): e70074. https://doi.org/10.1111/btp.70074.
 
 1. Bruna, E. M. 2025. Is there really such a thing as _Tropical_ Biology? \textit{\textbf{Biotropica}} 57: e13387. [doi.org/10.1111/btp.13387](https://doi.org/10.1111/btp.13387)  
 
@@ -675,7 +666,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 88. Bruna, EM, RN Fisher, and TJ Case. 1995. Cryptic species of Pacific skinks (_Emoia_): Further support from mitochondrial DNA sequences. **_Copeia_** 1995:981-983.  
 
 
-### SOFTWARE, TECHNICAL MANUALS, & ONLINE MATERIALS (N=3)
+### SOFTWARE, TECHNICAL MANUALS, & ONLINE MATERIALS 
 
 1. HerbVar Steering Committee (2024). HerbVar: Project Manual and Field protocols (v0.9.0). Zenodo. https://doi.org/10.5281/zenodo.14232308
 
@@ -684,9 +675,13 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 1. _Jean Theodore Descourtilz (1796-1855) and the Ornithologie Bresilienne_: Website created with graduate students in response to request from the UF Harn Museum of Art to analyze an aqcuisition of chromolithographs https://descourtilz.wordpress.com/
 
 
-### EDITORIALS, BOOK REVIEWS, AND OTHER SCHOLARLY COMMUNICATIONS (N=14)
+### EDITORIALS, BOOK REVIEWS, AND OTHER SCHOLARLY COMMUNICATIONS  
 
-1. Powers, Jennifer S., E. M. Bruna, and Lúcia G. Lohmann. _In press_. Looking Back and Moving Forward: Reflections on 60 Years of the Association for Tropical Biology and Conservation. \textit{\textbf{Biotropica}}. 
+1. Carrasco‐Rueda, F., C. L. Cardelús, Y. Chirango, C. J. Garnica‐Díaz, Y. Godwill, V. Gowda, B. Maas, F. Montaño‐Centellas, R. Ostertag, A. Roopsind, Sheherazade, G. Vargas G., Y. Arn Teh, E. M. Bruna, N. J. Cordeiro, G. G.O. Dossa, E. Effiom, L. G. Lohmann, M. Mujawamariya, I. Oliveras Menor, P. Parolin, J. M. Posada, R. A. Zahawi, L. S. Santiago. 2025. ATBC Code of Conduct. \textit{\textbf{Biotropica}} 57(5): e70090. https://doi.org/10.1111/btp.70090.
+
+1. Brodie, J. F., F. Carrasco, S. Chatterjee, Y. Chirango, C. J. Garnica‐Díaz, V. Gowda, B. Maas, F. Montaño‐Centellas, R. Ostertag, P. Hariharan, G. Vargas, E. M. Bruna, C. L Cardelus, N. J. Cordeiro, G. G. O. Dossa, E. Effiom, L. G. Lohmann, I. O Menor, M. Mujawamariya, P. Parolin, J. M. Posada, M. Soto Rueda, Y. Arn Teh, B. Yadok, R. A. Zahawi, L. Santiago. 2025. ATBC Code of Ethics. \textit{\textbf{Biotropica}} 57(5): e70091. https://doi.org/10.1111/btp.70091.
+
+1. Powers, J. S., E. M. Bruna, and L. G. Lohmann. 2025. “ Looking Back and Moving Forward: Reflections on 60 Years of the Association for Tropical Biology and Conservation.” \textit{\textbf{Biotropica}} 57(5): e70074. https://doi.org/10.1111/btp.70074.
 
 1. Bruna, E., Powers, J.S. and Lohmann, L.G. 2022. 2022 ATBC Honorary Fellows. _Biotropica_ 54:1521-1522. https://doi.org/10.1111/btp.13170
 
@@ -715,7 +710,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 1. Over 30 Wikipedia pages edited with students as part of graduate and undergraduate courses in Plant Animal Interactions and Tropical Ecology. Complete at: http://en.wikipedia.org/wiki/User:Embruna   
 
 
-### PUBLICATIONS BY LAB MEMBERS (N = 16; see co-authorship philosophy above; * indicates lab member).
+### PUBLICATIONS BY LAB MEMBERS (_see co-authorship philosophy above; * indicates the lab member_).
 
 1.	\*Costa, AN and \*Vieira-Neto, EHM. 2016. Species turnover regulates leaf-cutter ant densities in environmental gradients across the Brazilian Cerrado. **_Journal of Applied Entomology_** 140(2016):474-478. 
 
