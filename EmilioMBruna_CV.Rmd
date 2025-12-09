@@ -383,13 +383,15 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 <!-- \item  -->
 
-1. Bruna, E. M. Declining contribution of the United States federal government to global research corpus. \textit{In review}, \textit{\textbf{Science}}. \textit{Preprint:} https://doi.org/10.31222/osf.io/4hfe9_v1
+1. Bruna, E. M. Declining contribution of the United States federal government to global research corpus. \textit{In preparation}, \textit{\textbf{PNAS}}. \textit{Preprint:} https://doi.org/10.31222/osf.io/4hfe9_v1
+
+1. Galmán, A.  \textit{et. al.} Beyond the mean: how plant growth-defense strategies influence intrapopulation variation in herbivory. \textit{In review}, \textit{\textbf{Ecology Letters}}.
 
 1. Mundim, F. M., E. Vieira-Neto, G. F. Schneider, H. Alborn, E. M. Bruna. Simultaneous and sequential herbivory dynamics: exploring plant defenses strategies amidst drought challenges. \textit{In review}, \textit{\textbf{Frontiers in Plant Science}}.
 
 1. Radhamoni, Harikrishnan, M. Spicer; M. Duguid, L. Comita. E. M. Bruna, A. Andrade, J. Beck, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, S. Queenborough. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. \textit{In review}, \textit{\textbf{Forest Ecology \& Management}}.  
 
-1. R. J. Fletcher, Jr., T. A. H. Smith, M. Jones, F. Schellenberg, R. Payne, N. Kortessis, E. M. Bruna, and R. D. Holt. Landscape quality drives ecological change in habitat fragmentation experiments. \textit{In review}, \textit{\textbf{Science Advances}}.  
+1. R. J. Fletcher, Jr., T. A. H. Smith, M. Jones, F. Schellenberg, R. Payne, N. Kortessis, E. M. Bruna, and R. D. Holt. Landscape quality drives ecological change in habitat fragmentation experiments. \textit{In revision}, \textit{\textbf{Nature Ecology \& Evolution}}.  
 
 1. Resende Rodrigues, D., Y. R. Bovolenta, E. M. Bruna, J. A. Pimenta, E. Bianchini. Coexistence of understory tree species via architecture differentiation in the Atlantic Forest of southern Brazil. \textit{In review}, \textit{\textbf{Tropical Ecology}}.
 
@@ -1247,15 +1249,17 @@ Historical Records Committee (2022-2025)
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-*__Biotropica:__* Editor-in-Chief (2013-2019; _>2400 decisions_), Assoc. Editor (2010-2013), Subject Editor (2007-2019).
+**Editor-in-Chief**: _Biotropica_ (2013-2019; _>2400 decisions_)  
 
-*__Ecology__*, *__Ecological Monographs__*, and *__Ecological Applications__*: Editorial Board (2008-2012)  
+**Associate Editor:** _Biotropica_ (2010-2013)  
 
-__*Ad hoc* referee for journals (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (2), *Information, Communication,& Society* (1), _Acta Amazonica_ (1), *Ecology* (5), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (14), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
+**Subject Editor:** _PLOS Ecosystems_ (2025-Present), _Biotropica_ (2007-2019), _Ecology_ (2008-2012), _Ecological Monographs_ (2008-2012), _Ecological Applications_ (2008-2012).
+
+__*Ad hoc* journal referee (No. of reviews):__ *Trends in Ecology and Evolution* (1), *Nature Human Behavior* (1),*Nature Ecology & Evolution* (2), *Information, Communication,& Society* (1), _Acta Amazonica_ (1), *Ecology* (5), *Ecology and Evolution* (1),  *Methods in Ecology & Evolution* (1), *Conservation Biology* (5), *Biological Conservation* (7), *Ecological Applications* (1), *Oecologia* (4), *Journal of Tropical Ecology* (2), *Journal of Ecology* (6), *New Phytologist* (1), *American Naturalist* (3), *Plant Ecology* (3), *Proc. Roy. Soc. Lond. B* (1), *Journal of Applied Ecology* (1), *Biotropica* (14), *Ecography* (5), *Ciência y Cultura* (2), *Oikos* (1), *Revista Chilena de Historia Natural* (1), *Biochemical Systematics & Ecology* (1), *Ecology Letters* (2), *Insectes Sociaux* (1), *American J. of Botany* (1), *Scientometrics* (1), *F1000* (1), *Desenvolvimento e Meio Ambiente* (1), *PLoS Biology* (2), *PLoS ONE* (1), *Theoretical Ecology* (1), *Conservation Science & Practice* (1)
 
 __US National Science Foundation:__ Proposal Review Panels: DEB Ecology (2005), DEB Population & Evolutionary Processes (2007), DEB Population & Community Ecology (2011, 2013). Ad-hoc proposal review: Division of Environmental Biology Core Programs (9), UMEB Program (2), RUI Program (1), AMERICAS Dissertation Improvement Grants (1), NSF Global Scientists & Engineers Program (1), International Research Fellowship Program (1),  Dimensions of Biodiversity Program (1)
 
-__Other service as a reviewer (No. of reviews or year of service)__: Red Line Editorial (2019, technical review of a K-12 book), Mindlin Foundation (2018), Cornell University Press (2017), Instituto Serrapliheira (2017), HHMI Professors Program (2017), UF FAES/CRIS Project Proposals (2), U. of Chicago Press (1), Alfred P. Sloan Foundation Minority Ph.D. Program (3). National Geographic Society (1), U. of California Press (1)  
+__Other reviewer service (No. of reviews or year of service)__: Red Line Editorial (2019, technical review of a K-12 book), Mindlin Foundation (2018), Cornell University Press (2017), Instituto Serrapliheira (2017), HHMI Professors Program (2017), UF FAES/CRIS Project Proposals (2), U. of Chicago Press (1), Alfred P. Sloan Foundation Minority Ph.D. Program (3). National Geographic Society (1), U. of California Press (1)  
 
 \endgroup 
 
@@ -1341,11 +1345,7 @@ kbl(talks,
 
 \begingroup 
 \setlength{\leftskip}{.2cm}  
-Ecological Society of America  
-Association for Tropical Biology & Conservation  
-British Ecological Society  
-American Association for the Advancement of Science  
-International Society for Scientometrics & Infometrics  
+Ecological Society of America, Association for Tropical Biology & Conservation, British Ecological Society, American Association for the Advancement of Science, International Society for Scientometrics & Infometrics  
 
 \endgroup
 
