@@ -361,9 +361,9 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 \endgroup
 
-### GRANT PROPOSALS UNDER REVIEW or IN PREPARATION
+<!-- ### GRANT PROPOSALS UNDER REVIEW or IN PREPARATION -->
 
-1. UF 10x10x10 Initiative: The "interconnected future of Florida & Latin America: Entrepreneurship, the Environment, & Transnational Migration" (E. M. Bruna and R. Stepp, UF Center for Latin American Studies).
+<!-- 1. UF 10x10x10 Initiative: The "interconnected future of Florida & Latin America: Entrepreneurship, the Environment, & Transnational Migration" (E. M. Bruna and R. Stepp, UF Center for Latin American Studies). -->
 
 <!-- 1. National Science Foundation. "The genomic basis and demographic consequences of male-biased local adaptation in a moss" ($2,267,331; PI: S. McDaniel, Co-PIs: K. Krippen, E. M. Bruna, G. John, B. P. Durham).  -->
 
@@ -837,28 +837,30 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 <!-- ## COURSE DEVELOPMENT & TEACHING EXPERIENCE -->
 \begingroup 
 \setlength{\leftskip}{.2cm}  
-## Courses - University of Florida (N = 12)  
-
-The Future of Rain Forests (Undergraduate, annually 2021-2023)  
-Data Collection & Management for Latin American Studies (Graduate, annually 2019-2024)  
+\vspace{-0.2cm}
+### University of Florida
+\vspace{-0.2cm}
+The Future of Rain Forests (Undergraduate, 2021-2023,2025)  
+Data Collection & Management for Latin American Studies (Graduate, 2019-2024, 2026)  
 Ecology and Conservation of Tropical Wildlife (Undergraduate, biannually 2003-11 & 2012-2014,2018)  
 Plant-Animal Interactions (Graduate, biannually 2004-2010)  
-Fundraising for Tropical Conservation & Development (Graduate, 2013, biannually 2016-2020)  
-Scientific Publishing (Graduate, 2014, 2015, 2017, 2018)  
+Fundraising for Tropical Conservation & Development (Graduate, 2013 and biannually 2016-2020)  
+Scientific Publishing (Graduate, 2014-2015, 2017-2018)  
 Ecological Principles for Development & Conservation Professionals (Graduate, 2010-2012)  
 Tropical Forest Community Ecology (Graduate, 2000)  
 Design and Methods of Research in Latin American Studies (Graduate, 2008, 2010)  
 Research Methods in Tropical Conservation & Development (Graduate, 2003-2007)  
-Seminar in Wildlife Ecology and Conservation (Graduate, 2003, 2004)  
+Seminar in Wildlife Ecology and Conservation (Graduate, 2003-2004)  
 Social Media Workshop (Graduate, 2016)  
 
-## Courses - Universidade Federal de Uberlândia (N = 3)
+### Universidade Federal de Uberlândia
+\vspace{-0.2cm}
 Mechanisms of Species Coexistence (Graduate, 2006)  
 Data Management & Archiving (Graduate, 2012, 2014)  
 Scientific Publishing (Graduate, 2011)  
 
-## Guest Lectures (N = 35)
-
+### Guest Lectures
+\vspace{-0.2cm}
 **University of Florida:** _UF SACNAS CV Workshop_ (2023, 2024, 2025), _The Professional Scientist_ (WIS 6934: 2021, 2022), _Diverse Perspectives in Conservation_ (WIS4934: 2021, 2022), _Human Footprint on the Landscape_ (GEO3352: 2019), _Facets of Sustainability_ (IDS2154: 2011, 2013), _Environmental Planning & Design_ (EES 6051: 2016, 2018), _The Amazon_ (LAS6290: 2009, 2011), _Design & Methods of Research in Latin American Studies_ (Graduate, 2019, 2020), _Discovering Research & Communicating Science_ (IDH3931: 2015), _Wildlife Techniques_ (WIS4945C: 2005), _Development Theory & Practice_ (LAS6938: 2010), _Wildlife Population Modeling_ (WIS6466: 2003, 2006, 2008, 2010), _Principles of Wildlife Ecology & Conservation_ (WIS6934: 2008), _Luso-Brazilian Civilization_ (POW3500: 2004)  **Yale**: Tropical Forest Ecology & Conservation (2024), **Michigan State University** _Decolonizing EEB_ (2024), **INPA:** _Population Ecology_ (2002, 2003), Community Ecology (2002), **OTS**: _3M Field Course_ (2001), _Amazonian Ecosystems Field Course_ (2001), **Antioch College**: Semester Abroad in Brazil (1999, 2001), **Univ. Federal do Amazonas**: _Fragmented Landscapes Field Course_ (2000, 2002)    
 
 \endgroup 
@@ -892,7 +894,7 @@ Scientific Publishing (Graduate, 2011)
 # table1 <- border_remove(x = table1)
 # table1
 ```
-
+\vspace{-0.2cm}
 ```{r GradStudents, echo=FALSE,message = FALSE,warning=FALSE}
 grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="advisor") %>% select(-role)
 kbl(grad_advised,digits = 1,
@@ -911,7 +913,8 @@ kbl(grad_advised,digits = 1,
   sub("\\\\toprule", "", .) %>%
   sub("\\\\bottomrule", "", .)
 ```
-Students under my supervision have been awarded over $35,000 in grants to support their research and been the recipients of prestigious fellowships and awards to support their studies: 
+\vspace{-0.2cm}
+_Students under my supervision have been awarded over $35,000 in grants to support their research and been the recipients of prestigious fellowships and awards to support their studies:_ 
 
 * Priyanka Hari Haran: Research Grants from the ATBC, UF-SNRE, & UF-TCD 
 *	FLAS Fellowship (S. Parsons)
@@ -925,7 +928,7 @@ Students under my supervision have been awarded over $35,000 in grants to suppor
 *	UF-WEC Jennings Scholarship (A. Neto, M. Trager, F. Mundim, G. Iacona) 
 *	UF-CALS Doris Lowe & Earl & Verna Lowe Scholarship (C. Lucas, E. V. Neto). 
 
-Research by my students has also been recognized for its excellence: 
+_Research by my students has also been recognized for its excellence:_ 
 
 * Thomas Smith: Best Student Presentation, IALE-NA Annual Meeting (2022)
 *	Fabiane Mundim: UF-IFAS High-Impact Publication (2021)
@@ -939,7 +942,7 @@ Research by my students has also been recognized for its excellence:
 
 
 ### DOCTORAL COMMITTEE SERVICE
-
+\vspace{-0.2cm}
 ```{r DocCmte, echo=FALSE,message = FALSE,warning=FALSE}
 grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="doc_cmte") %>% select(-role)
 kbl(grad_advised,digits = 1,
@@ -963,6 +966,7 @@ kbl(grad_advised,digits = 1,
 
 
 ### MASTERS COMMITTEE SERVICE
+\vspace{-0.2cm}
 ```{r MastersCmte, echo=FALSE,message = FALSE,warning=FALSE}
 grad_advised<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="masters_cmte") %>% select(-role)
 kbl(grad_advised,digits = 1,
@@ -984,6 +988,7 @@ kbl(grad_advised,digits = 1,
 <!-- **Wildlife Ecology & Conservation**: Lauren Trotta (2016), Brittany Bankovich (2014), Nathan Marcy (2010), Kristen Aaltonen (2009), Mariano Rodriguez Cabal (2007)  **Forest Resources & Conservation**: Jennifer Holm (2007), Christie Klimas (2006)  **Biology (*formerly Depts. of Botany & Zoology*)**: Tania Kim (2006), Silvia Alvarez Clare (2004)  **Interdisciplinary Ecology**: Jamie Cotta (2006)  **Entomology**: Teresa Cooper (2006)  **Latin American Studies**: Crisne Lebron (2015), Carly Voight (2010), Laura Fonseca (2009), Jennifer Davies (2003), **Anthropology**: Autumn Rose (in progress). -->
 
 ### PROPOSAL REVIEW, THESIS REVIEW, OR THESIS DEFENSE COMMITTEE
+\vspace{-0.2cm}
 ```{r external, echo=FALSE,message = FALSE,warning=FALSE}
 other<-read_csv("./cv_files/grad_advised.csv") %>% filter(role=="other") %>% select(-role,-Program)
 kbl(other,digits = 1,
@@ -1004,6 +1009,7 @@ kbl(other,digits = 1,
 ```
 
 ### POSTDOCTORAL, SABBATICAL, & POSTGRADUATE SCHOLARS 
+\vspace{-0.2cm}
 ```{r lab_members, echo=FALSE,message = FALSE,warning=FALSE}
 lab_members<-read_csv("./cv_files/lab_members.csv") 
 lab_members$cat<-as.factor(lab_members$cat)
@@ -1048,7 +1054,8 @@ kbl(lab_members2,digits = 1,
 
 <!-- Pedro B. Vasconcelos		U. Federal de Uberlândia, Brazil		B.S. Thesis Defense, 2009 -->
 <!-- Fabiane M. Mundim 		U. Federal de Uberlândia, Brazil		B.S. Thesis Defense, 2007 -->
-### UNDERGRADUATE THESIS STUDENTS, HIGH SCHOOL RESEARCHERS, & VISITING GRADUATE STUDENTS  
+### UNDERGRADUATE THESIS STUDENTS, HIGH SCHOOL RESEARCHERS, & VISITING GRADUATE STUDENTS 
+\vspace{-0.2cm}
 ```{r lab_members2, echo=FALSE,message = FALSE,warning=FALSE}
 lab_members<-read_csv("./cv_files/lab_members.csv") 
 lab_members$cat<-as.factor(lab_members$cat)
@@ -1092,7 +1099,7 @@ kbl(lab_members3,digits = 1,
 <!-- ## INSTITUIONAL AND PROFESSIONAL SERVICE -->
 <!-- \vspace{0.2cm} -->
 ### UNIVERSITY OF FLORIDA  
-
+\vspace{-0.2cm}
 \begingroup 
 \setlength{\leftskip}{.2cm}
 Search Committee, UF QUEST Program Director (2023)   
@@ -1111,11 +1118,12 @@ Administrative Council, QSE3 IGERT (2008-2014)
 
 \endgroup 
 
-### UF COLLEGE OF AGRICULTURAL & LIFE SCIENCES (CALS)
+### UF COLLEGE OF AGRICULTURAL & LIFE SCIENCES
+\vspace{-0.2cm}
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
-Panelist, IFAS Research Symposium  (2024)
+Panelist, IFAS Research Symposium  (2024)  
 Peer Teaching Evaluation Committee for Dr. Raelene Crandall (UF-FFGS, 2021-2022)  
 IFAS International Programs Advisory Team (2020-2022)  
 UF-CALS Outstanding Thesis Selection Committee (2020)  
@@ -1137,8 +1145,8 @@ SNRE Seed Grant and New Faculty Support Grant Programs (2005)
 
 \endgroup 
 
-### UF DEPARTMENT OF WILDLIFE ECOLOGY & CONSERVATION (WEC)
-
+### UF DEPARTMENT OF WILDLIFE ECOLOGY & CONSERVATION
+\vspace{-0.2cm}
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
@@ -1158,6 +1166,7 @@ Search & Screen Committee, Asst. Professor of Population Ecology (2017)
 Search & Screen Committee, Department Head (2006)  
 Search & Screen Committee, Asst. Professor of Landscape Ecology (2004)  
 Search & Screen Committee, Asst. Professor of Conservation Genetics, WEC (2004)  
+Chair, Peer Teaching Evaluation Committee for Dr. Ben Baiser (2025)  
 Chair, Peer Teaching Evaluation Committee for Dr. Ethan White (2019-2020)  
 Chair, Peer Teaching Evaluation Committee for Dr. Morgan Ernest (2017-2018)  
 Chair, Peer Teaching Evaluation Committee for Dr. Lyn Branch (2011)  
@@ -1169,36 +1178,78 @@ Peer Teaching Evaluation for Dr. Michelle Mack (UF-Botany, 2006)
 
 \endgroup 
 
-### UF CENTER FOR LATIN AMERICAN STUDIES (LAS)
+### UF CENTER FOR LATIN AMERICAN STUDIES
+\vspace{-0.2cm}
 \begingroup 
 \setlength{\leftskip}{.2cm}
-
+Graduate Admissions Committee (2026)    
 Search & Screen Committee, Asst. Professor of Environmental Justice (2023)  
 Post-Tenure Review Committee (2023)
 LAS Faculty Advisory Council (2020-2023)  
 LAS Bylaws Revision Committee (2020-2021)  
-LAS Merit Evaluation Committee (2015-2017)  
-LAS Graduate Admissions & Fellowship Committee (2007)  
-Chair, Search & Screen Committee, Lecturer in Latin American Studies (2015)  
 Chair, LAS Awards & Scholarship Committee (2019)  
+LAS Merit Evaluation Committee (2015-2017)  
+Chair, Search & Screen Committee, Lecturer in Latin American Studies (2015)  
 Search & Screen Committee, LAS Communications Coordinator (2015)  
 Bacardi Seminar Series Coordinator (2015)  
-Academic Advisor, Tropical Conservation & Development Program (2008-11, 2021-2022) 
-Faculty Advisor, TCD Graduate Student Organization (2008-2016)  
-Steering Committee, Tropical Conservation & Development Program (2002-08, 2010-16, 2018-present)  
-Chair, TCD Fellowship Committee (2012, 2022)  
+LAS Graduate Admissions & Fellowship Committee (2007)  
+
+\endgroup 
+
+### UF TROPICAL CONSERVATION & DEVELOPMENT PROGRAM
+\vspace{-0.2cm}
+\begingroup 
+\setlength{\leftskip}{.2cm}
 Chair, TCD Field Research Grants Committee (2004, 2008-2010, 2015, 2020-2021, 2024)  
+Academic Advisor, Tropical Conservation & Development Program (2008-11, 2021-2022)  
+Steering Committee, Tropical Conservation & Development Program (2002-08, 2010-16, 2018-2024)  
 Chair, Marianne Schmink Outstanding Dissertation Award Selection Committee (2010, 2011, 2013, 2022)  
-TCD Field Research Grants Committee (2003, 2004)  
-TCD Fellowship Committee (2003-2005)  
+Chair, TCD Fellowship Committee (2012, 2022)  
+Advisory Committee, Pan-Amazon Community of Practice Project (2018-2020)  
+Faculty Advisor, TCD Graduate Student Organization (2008-2016)  
 Organizing Committee, TCD Strategic Planning (2007-2008)  
-Curriculum Committee, Masters Program in Sustainable Development Practice (2010-2012)  
 Advisory Council, Amazon Conservation Leadership Initiative (2004-2005)  
-Advisory Committee, Pan-Amazon Community of Practice Project (2018-2020) 
+TCD Fellowship Committee (2003-2005)  
+TCD Field Research Grants Committee (2003, 2004)  
+Curriculum Committee, Masters Program in Sustainable Development Practice (2010-2012)  
 
 \endgroup  
 
-### OTHER INSTITUTIONS  
+
+### ASSOCIATION FOR TROPICAL BIOLOGY & CONSERVATION 
+\vspace{-0.2cm}
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+Search Committee, ATBC Executive Director (2024-2025)  
+Search Committee, _Biotropica_ Editor-in-Chief (2024-2025)  
+Past-President (2022), President (2021), & President-Elect (2020)  
+Chair, Nominations Committee (2022)  
+Program & Organizing Committees, Annual Meeting of the ATBC (2021)    
+Student Field Grants Selection Committee (2020)  
+Student Field Grants Selection Committee (2020)  
+Crowdfunding Workshop, Annual Meeting of the ATBC (2018)  
+Annual Meeting Scientific Committee (2017, 2012)  
+Councillor (2009-2011)  
+Conservation Committee (2004-2006)  
+Co-organizer, Symposium on Amazonian Conservation, Annual Meeting (2004)  
+
+\endgroup 
+
+### ECOLOGICAL SOCIETY OF AMERICA   
+\vspace{-0.2cm}
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+Secretary (2022-2025)  
+Teller's Committee (2022-2025)   
+Governance & Leadership Committee (2022-2025)   
+Historical Records Committee (2022-2025)   
+
+\endgroup 
+
+### OTHER INSTITUTIONS & ORGANIZATIONS  
+\vspace{-0.2cm}
 \begingroup 
 \setlength{\leftskip}{.2cm}
 
@@ -1214,37 +1265,8 @@ UC San Diego EAP Selection Committee, Tropical Biology Program (1994)
 
 \endgroup 
 
-### ASSOCIATION FOR TROPICAL BIOLOGY & CONSERVATION  
-\begingroup 
-\setlength{\leftskip}{.2cm}  
-
-Search Committee, ATBC Executive Director (2024-2025)
-Search Committee, _Biotropica_ Editor-in-Chief (2024-2025)
-Past-President (2022), President (2021), & President-Elect (2020)  
-Chair, Nominations Committee (2022)  
-Program & Organizing Committees, Annual Meeting of the ATBC (2021)    
-Student Field Grants Selection Committee (2020)  
-Student Field Grants Selection Committee (2020)  
-Crowdfunding Workshop, Annual Meeting of the ATBC (2018)  
-Annual Meeting Scientific Committee (2017, 2012)  
-Councillor (2009-2011)  
-Conservation Committee (2004-2006)  
-Co-organizer, Symposium on Amazonian Conservation, Annual Meeting (2004)  
-
-\endgroup 
-
-### ECOLOGICAL SOCIETY OF AMERICA   
-\begingroup 
-\setlength{\leftskip}{.2cm}  
-
-Secretary (2022-2025)  
-Teller's Committee (2022-2025)   
-Governance & Leadership Committee (2022-2025)   
-Historical Records Committee (2022-2025)   
-
-\endgroup 
-
-### SERVICE AS A REVIEWER & EDITOR  
+\vspace{0.2cm}
+\textbf{\textcolor{darkmidnightblue}{\large{EDITORIAL POSITIONS \& SERVICE}}}\xrfill[0.5ex]{1pt}
 
 \begingroup 
 \setlength{\leftskip}{.2cm}
@@ -1272,6 +1294,7 @@ __Other reviewer service (No. of reviews or year of service)__: Red Line Editori
 <!-- ## SEMINARS & OUTREACH ACTIVITIES -->
 
 ### INVITED SEMINARS
+\vspace{-0.2cm}
 ```{r talks, echo=FALSE,message = FALSE,warning=FALSE}
 talks<-read_csv("./cv_files/talks.csv", col_types = cols(.default = "c")) %>% 
   select(-year)  %>% 
