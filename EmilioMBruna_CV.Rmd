@@ -44,13 +44,15 @@ geometry: margin=1in
 linkcolor: darkmidnightblue
 urlcolor: darkmidnightblue
 fontawesome: yes
-
+# 
 output:
   pdf_document: default
-  # html_document: null
   df_print: paged
   toc: no
   # word_document: default
+  # html_document: null
+  
+
 ---
 
 
@@ -77,7 +79,7 @@ library(RefManageR)
 University of Florida\hfill embruna@ufl.edu  
 Dept. of Wildlife Ecology & Conservation &\hfill +1 (352) 846-0634  
 Center for Latin American Studies\hfill&nbsp;[www.brunalab.org](www.brunalab.org)  
-Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/BrunaLab) 
+Gainesville, FL 32611-0430 USA\hfill&nbsp;
 \vspace{-0.5cm}  <!--there was too much space, so reduced it with minus: -Xcm -->
 <!-- ___   -->
 <!-- \par\noindent\rule{\textwidth}{0.4pt} -->
@@ -382,6 +384,8 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 <!-- \begin{etaremune} -->
 
 <!-- \item  -->
+1. Ykeuti Meiga, A. Y.,  A. L. J. Desbiez, R. A. P. Dornas, A. Giroux, E. M. Bruna, A. Bertassoni, N. Attias, V. Hull, G. Soresini, M. H. Alves, D. Valle. Beyond deforestation: the impact of agricultural intensification on wildlife.  \textit{In review}.
+
 
 1. Bruna, E. M. Declining contribution of the United States federal government to global research corpus. \textit{In preparation}, \textit{\textbf{PNAS}}. \textit{Preprint:} https://doi.org/10.31222/osf.io/4hfe9_v1
 
@@ -389,7 +393,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 1. Mundim, F. M., E. Vieira-Neto, G. F. Schneider, H. Alborn, E. M. Bruna. Simultaneous and sequential herbivory dynamics: exploring plant defenses strategies amidst drought challenges. \textit{In review}, \textit{\textbf{Frontiers in Plant Science}}.
 
-1. Radhamoni, Harikrishnan, M. Spicer; M. Duguid, L. Comita. E. M. Bruna, A. Andrade, J. Beck, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, S. Queenborough. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. \textit{In review}, \textit{\textbf{Forest Ecology \& Management}}.  
+1. Radhamoni, H., M. Spicer; M. Duguid, L. Comita. E. M. Bruna, A. Andrade, J. Beck, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, S. Queenborough. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. \textit{In review}, \textit{\textbf{Journal of Vegetation Science}}.  
 
 1. R. J. Fletcher, Jr., T. A. H. Smith, M. Jones, F. Schellenberg, R. Payne, N. Kortessis, E. M. Bruna, and R. D. Holt. Landscape quality drives ecological change in habitat fragmentation experiments. \textit{In revision}, \textit{\textbf{Nature Ecology \& Evolution}}.  
 
@@ -422,7 +426,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 **_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
 
-1. D. S. Mason, K. M. Robertson, P. G. Hahn, E. M. Bruna, J. L. Willis, and M. A. Lashley. \textit{In press}. Fire promotes passive directed seed dispersal by birds. \textit{\textbf{Current Biology}}.  
+1. D. S. Mason, K. M. Robertson, P. G. Hahn, E. M. Bruna, J. L. Willis, and M. A. Lashley. 2026. Fire promotes passive directed seed dispersal by birds. \textit{\textbf{Current Biology}} 36(1):28–37. https://doi.org/10.1016/j.cub.2025.11.014
 
 1. Smith, T. A. H., Holt, R. D., Bruna, E. M., & Fletcher, R. J. Jr. (2025). Isolating the role of the matrix at patch and landscape scales. \textit{\textbf{Journal of Animal Ecology}} 94:1800–1810. https://doi.org/10.1111/1365-2656.70089
 
@@ -471,6 +475,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 8. Costa, AN, HL Vasconcelos, EHM Vieira-Neto, and EM Bruna. 2019. Adaptive foraging of leaf-cutter ants to spatiotemporal changes in resource availability in Neotropical savannas. **_Ecological Entomology_** 44:227-238.  
 
 9. Fletcher, RJ, Jr., JA Sefair, C Wang, CL Poli, TAH Smith, EM Bruna, RD Holt, M Barfield, AJ Marx, and MA Acevedo. 2019. Towards a unified framework for connectivity that disentangles movement and mortality in space and time. **_Ecology Letters_** 22:1680-1689. 
+
 1.	Johnson-Ulrich, L. and E. Bruna. 2019. Emilio Bruna: Seed germination is lower in fragmented rainforest. **_Project Biodiversify_** [projectbiodiversify.org/emilio-bruna/](projectbiodiversify.org/emilio-bruna/) 
 
 10. Bruna, EM. 2018. Editorial board members are a non-random sample of ecological experts. **_Nature Ecology and Evolution_** 2(2):202.  
@@ -1102,6 +1107,8 @@ kbl(lab_members3,digits = 1,
 \vspace{-0.2cm}
 \begingroup 
 \setlength{\leftskip}{.2cm}
+
+SEED Grant Committee, Artificial Intelligence & Informatics Research Institute (2026)
 Search Committee, UF QUEST Program Director (2023)   
 Samuel P. Harn Museum of Art Faculty Council (2012-2015)  
 Selection Committee, UF Undergraduate Faculty Mentor/Advisor of the Year (2022)  

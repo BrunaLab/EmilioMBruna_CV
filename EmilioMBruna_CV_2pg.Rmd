@@ -55,10 +55,16 @@ library(RefManageR)
 University of Florida\hfill embruna@ufl.edu  
 Dept. of Wildlife Ecology & Conservation &\hfill +1 (352) 846-0634  
 Center for Latin American Studies\hfill&nbsp;[www.brunalab.org](www.brunalab.org)  
-Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/BrunaLab) 
+Gainesville, FL 32611-0430 USA\hfill&nbsp;
 \vspace{-0.5cm}  <!--there was too much space, so reduced it with minus: -Xcm -->
 <!-- ___   -->
-\par\noindent\rule{\textwidth}{0.4pt}
+<!-- \par\noindent\rule{\textwidth}{0.4pt} -->
+\vspace{0.2cm}  
+<!-- \textbf{\textcolor{darkmidnightblue}{RESEARCH \& TEACHING INTERESTS:}} Tropical ecology and conservation, plant population ecology, plant-animal interactions, scientometrics and bibliometrics, science & science policy in Latin America   -->
+
+<!-- text size: https://www.overleaf.com/learn/latex/Font_sizes%2C_families%2C_and_styles -->
+<!-- xrfill adjusts line position and width -->
+
 
 ### EDUCATION
 <!--to indent a block of stuff treat it as a 'group' and then set leftskip -->
@@ -185,48 +191,72 @@ Gainesville, FL 32611-0430 USA\hfill&nbsp;[\@BrunaLab](https://twitter.com/Bruna
 
 \endgroup
 
-## RECENT GRANTS IN SUPPORT OF RESEARCH, TRAINING, & PROGRAM DEVELOPMENT (of >$5.5 million)  
+## RELEVANT GRANTS IN SUPPORT OF RESEARCH & TRAINING (of >$5.5 million)  
 
 \begingroup 
 \setlength{\leftskip}{.2cm}  
 
-1. Maxwell-Hanrahan Foundation. _"Support for the ATBC Field Grant Program"_ (PIs E. M. Bruna, P. Sampaio, L. Lohmann: $10,000 for 2022-2023, renewed 2023-2026 for $45,000)
+1. National Science Foundation. "OPUS: Is habitat fragmentation detrimental or beneficial? Promoting our understanding of a contentious ecological question via synthesis." ($245,385, PI: E. M. Bruna)  
 
 1. Maxwell-Hanrahan Foundation. _"Support for the UF TCD Seed Grant Program"_ ($10,000; PIs B. Loiselle, E. M. Bruna: $10,000 for 2022-2023, renewed 2023-2026 for $45,000)
 
-1. Sloan Foundation. _"Reinventing Field Courses"_ ($74,060; PI: E. M. Bruna, Co-PIs: R. McCleery, P. Antonenko, N. Attias, D. Barton, 2020-2021)
+1. National Science Foundation. _"SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics"_ ($199,904; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2020-2022).
 
-2. National Science Foundation. _"SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics"_ ($199,904; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2020-2022).
+1. National Science Foundation. _"REU Supplement for SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics"_ ($14,400; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2021).
 
-2. National Science Foundation. _"REU Supplement for SG: Synergistic effects of forest fragmentation and droughts on tropical plant population dynamics"_ ($14,400; PI: E. M. Bruna, Co-PIs: M. Uriarte, 2021).
+1. National Science Foundation. _"The role of the matrix in fragmented landscapes: experimental tests and novel theory"_ ($548,058; PI: R. Fletcher, Co-PIs: E. M. Bruna, R. D. Holt, and B. Reichert, 2018-2023)  
 
-3. National Science Foundation. _"The role of the matrix in fragmented landscapes: experimental tests and novel theory"_ ($548,058; PI: R. Fletcher, Co-PIs: E. M. Bruna, R. D. Holt, and B. Reichert, 2018-2023)  
+\endgroup
 
 
-## TEN RELEVANT PUBLICATIONS or PRODUCTS (of N = 115)
+## TEN PUBLICATIONS or PRODUCTS RELEVANT TO THE PROPOSAL (of N = 123)
 
-**_Note regarding coauthorship on publications by lab members:_** _I am not a coauthor on papers by lab members, including publications that result from side projects or thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor. A list of the publications by lab members on which I am not a coauthor can be found below._ 
+\begingroup 
+\setlength{\leftskip}{.2cm}  
 
-1. The Herbivory Variability Network (Robinsion, M. L., et al.). 2023. Plant size, latitude, and phylogeny explain within-population variability in herbivory. **_Science_** 382:679-683. [DOI: 10.1126/science.adh8830](https://www.science.org/doi/full/10.1126/science.adh8830)
+**_Note regarding coauthorship on publications by lab members:_** _I am not necessarily a coauthor on all papers by lab members, including publications thesis chapters, as I consider mentorship regarding study development and design, analyses, and manuscript preparation fundamental to my role as their advisor._ 
 
-1. Bruna, E. M., M. Uriarte, M. Rosa Darrigo, P. Rubim, C. F. Jurinitz, E. R. Scott, O. Ferreira da Silva, & W. John Kress. _In press_. Demography of the understory herb _Heliconia acuminata_ (Heliconiaceae) in an experimentally fragmented tropical landscape. **_Ecology_** https://doi.org/10.1002/ecy.4174
+1. D. S. Mason, K. M. Robertson, P. G. Hahn, E. M. Bruna, J. L. Willis, and M. A. Lashley. 2026. Fire promotes passive directed seed dispersal by birds. \textit{\textbf{Current Biology}} 36(1):28–37. https://doi.org/10.1016/j.cub.2025.11.014
 
-1. Bruna, E. M. 2023. Fundamental errors of data collection & validation undermine claims of 'Ideological Intensification'. **_Bioscience_** biad047. https://doi.org/10.1093/biosci/biad047  
+1. Bruna, E. M., M. Uriarte, M. Rosa Darrigo, P. Rubim, C. F. Jurinitz, E. R. Scott, O. Ferreira da Silva, & W. John Kress. 2023. Demography of the understory herb _Heliconia acuminata_ (Heliconiaceae) in an experimentally fragmented tropical landscape. **_Ecology_** 104(12): https://e4174 doi.org/10.1002/ecy.4174 
 
 1. Fletcher, R. J., T. A. H. Smith, N. Kortessis, E. M. Bruna, and R. D. Holt. 2023. Landscape experiments unlock the multi-scale relationships among habitat loss, fragmentation, and patch-size effects. **_Ecology_** 104(5): e4037. https://doi.org/10.1002/ecy.4037
 
-1. Halpern, B. S., C. Boettiger, M. C. Dietze, *et al.* 2023. Priorities for synthesis research in ecology and environmental Science. **_Ecosphere_** 14(1): e4342. https://doi.org/10.1002/ecs2.4342
-
 1. 	Scott, E. R., M. Uriarte, and E. M. Bruna. 2022. Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. **_Global Change Biology_** 28(2):463-479. https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15900 **_Recipient of the Postdoctoral Excellence Award from the Ecological Society of America's Plant Population Ecology Section_**
 
-1. Audrey C. Smith, Leandra Merz, Jesse B. Borden, Chris K. Gulick, Akhil R. Kshirsagar, Emilio M. Bruna. 2022. Assessing the effect of article processing charges on the geographic diversity of authors using Elsevier's 'Mirror Journal' system. **_Quantitative Science Studies_** 2(4):1123-1143. doi: https://doi.org/10.1162/qss_a_00157 **_Featured in [Nature](https://www.nature.com/articles/d41586-022-00342-w), [NRC News](https://www.nrc.nl/nieuws/2022/02/22/systeem-van-open-access-helpt-wetenschappers-uit-arme-landen-niet-a4092976)_**. 
+1. Beckman, NG, CE Aslan, HS Rogers, O Kogan, JL Bronstein, JM Bullock, F Hartig, J HilleRisLambers, Y Zhou, D Zurell, JF Brodie, EM Bruna, RS Cantrell, RR Decker, E Efiom, EC Fricke, K Gurski, A Hastings, JS Johnson, BA Loiselle, MN Miriti, MG Neubert, L Pejchar, JR Poulsen, G Pufal, OH Razafindratsima, ME Sandor, K Shea, S Schreiber, EW Schupp, RS Snell, C Strickland, and J Zambrano. 2020. Advancing an interdisciplinary framework to study seed dispersal ecology. **_AoB Plants_** 12:plz048.  
 
-1. Russell, A.E., T.M. Aide, E. Braker, E. M. Bruna, C. N. Ganong, R. D. Hardin, K. D. Holl, S. C. Hotchkiss, J. Klemens, E. K. Kuprewicz, S. K. Macey, D. McClearn, G. Middendorf, R. Ostertag, J. S. Powers, S. E. Russo, J. L. Stynoski, U. Valdez, C. G. Wills. 2022. Integrating tropical research into biology education is urgently needed. **_PLoS Biology_** 20(6): e3001674. doi: https://doi.org/10.1371/journal.pbio.3001674 
+1. Costa, AN, HL Vasconcelos, and EM Bruna. 2017. Biotic drivers of seedling establishment in Neotropical savannas: Selective granivory and seedling herbivory by leaf-cutter ants as an ecological filter. **_Journal of Ecology_** 105:132-141. [Ph. D. Thesis Chapter].    
 
-1. Mundim, F. M. E. H. M. Vieira-Neto, H. Alborn, & E. M. Bruna. 2021. Disentangling the influence of resource variability and simultaneous attacks on whole-plant tolerance to herbivory. **_Journal of Ecology_** 109:2729- 2739. [PhD Thesis Chapter]. https://doi.org/10.1111/1365-2745.13684 _**Selected as a 2021 UF-IFAS High Impact Publication**_.  
+1. Lucas, CM, EM Bruna, and CMN Nascimento. 2013. Seedling co-tolerance of multiple stressors in a disturbed tropical floodplain forest. **_Ecosphere_** 4(1):3.  [Ph. D. Thesis Chapter].  
 
-1. Bruna, E.M., R Chazdon, TM Errington and BA Nosek. 2021. A proposal to advance theory and promote collaboration in tropical biology by supporting replications. **_Biotropica_** 53:6-10. https://doi.org/10.1111/btp.12912
+1. Ferreira, AV, EM Bruna, and HL Vasconcelos. 2011. Seed predators limit plant recruitment in Neotropical savannas. **_Oikos_** 120:1013-1022.  
+
+1. Uriarte, M. Anciães, M. T.B. da Silva, P. Rubim, E. Johnson, and E. M. Bruna.  2011. Disentangling the drivers of reduced long-distance seed dispersal by birds in an experimentally fragmented  landscape.  **_Ecology_** 92(4): 924-93. **_2012 Outstanding Paper in Landscape Ecology, Int. Assoc. for Landscape Ecology - US Chapter_**.  
+
+1. Iacona, GD, LK Kirkman, and EM Bruna. 2010. Effects of resource availability on seedling recruitment in a fire-maintained savanna. **_Oecologia_** 163:171-180.  [Ph. D. Thesis Chapter].  
+
+\endgroup
 
 
+## RELEVANT COURSE DEVELOPMENT & TEACHING EXPERIENCE
 
+\begingroup 
+\setlength{\leftskip}{.2cm}  
 
+The Future of Rain Forests (Undergraduate, 2021-2023,2025)  
+Data Collection & Management for Latin American Studies (Graduate, 2019-2024, 2026)  
+Plant-Animal Interactions (Graduate, biannually 2004-2010)  
+Fundraising for Tropical Conservation & Development (Graduate, 2013 and biannually 2016-2020)  
+Scientific Publishing (Graduate, 2014-2015, 2017-2018)  
+
+\endgroup
+
+## EDITORIAL POSITIONS & SERVICE
+
+\begingroup 
+\setlength{\leftskip}{.2cm}  
+
+**Editor-in-Chief**: _Biotropica_ (2013-2019; _>2400 decisions_)  
+**Associate Editor:** _Biotropica_ (2010-2013)  
+**Subject Editor:** _PLOS Ecosystems_ (2025-Present), _Biotropica_ (2007-2019), _Ecology_ (2008-2012), _Ecological Monographs_ (2008-2012), _Ecological Applications_ (2008-2012).
