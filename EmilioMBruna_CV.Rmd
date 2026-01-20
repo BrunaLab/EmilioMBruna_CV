@@ -23,7 +23,7 @@ header-includes:
 - \fancyfoot{} # cues the use of fancy footer
 - \fancyfoot[R]{`r format(Sys.time(), '%B %Y')`} # month & year on footer right
 - \fancyhead[R]{Emilio M. Bruna, p. \thepage} # name and page on header right
-- \fancyhead[L]{\hl{Highlighting indicates items for PTR Period (2021-2025)}} # name and page on header left
+# - \fancyhead[L]{\hl{Highlighting indicates items for PTR Period (2021-2025)}} # name and page on header left
 - \usepackage{setspace} # manipulate line spacing 
 - \usepackage{parskip} # manipulate indents and spacing before/after paragraphs 
 - \usepackage{xcolor} # changes colors of text
@@ -75,14 +75,14 @@ library(RefManageR)
 <!-- this next line suppresses the header (line, name,  page number) on 1st page -->
 <!-- \begin{document}. -->
 \thispagestyle{empty}
-### \textcolor{black}{\textbf{\hl{Highlighting indicates items for PTR Period (2021-2025)}}}  
+<!-- ### \textcolor{black}{\textbf{\hl{Highlighting indicates items for PTR Period (2021-2025)}}}   -->
 \vspace{-0.3cm}  <!--space between name and address -->
 # EMILIO MIGUEL BRUNA
 \vspace{-0.3cm}  <!--space between name and address -->
 University of Florida\hfill embruna@ufl.edu  
 Dept. of Wildlife Ecology & Conservation &\hfill +1 (352) 846-0634  
-Center for Latin American Studies\hfill&nbsp;[www.brunalab.org](www.brunalab.org)  
-Gainesville, FL 32611-0430 USA\hfill&nbsp;
+Center for Latin American Studies\hfill&nbsp;[www.BrunaLab.org](www.brunalab.org)  
+Gainesville, FL 32611-0430 USA\hfill&nbsp;[Github.com/BrunaLab](https://github.com/BrunaLab)
 \vspace{-0.5cm}  <!--there was too much space, so reduced it with minus: -Xcm -->
 <!-- ___   -->
 <!-- \par\noindent\rule{\textwidth}{0.4pt} -->
@@ -116,7 +116,7 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 \begingroup 
 \setlength{\leftskip}{.2cm} 
-
+\setlength{\rightskip}{1cm} 
 <!-- ### EDUCATION \hrulefill\ -->
 <!-- TEXT \hrulefill\ -->
 <!-- Here is some text\xfill{1pt} \par -->
@@ -131,11 +131,11 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 
 
 
-2001\hspace{4mm} Ph.D. in Population Biology, University of California, Davis  
+**Ph.D. in Population Biology**, University of California, Davis  \hfill 2001  
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;\hspace{6mm}  _Dissertation Co-Advisors: Susan P. Harrison and Sharon Y. Strauss_   -->
-1995\hspace{4mm} M.S. in Biology, University of California, San Diego  
+**M.S. in Biology**, University of California, San Diego  \hfill 1995  
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;\hspace{6mm} _Thesis Advisor: Ted J. Case_   -->
-1994\hspace{4mm} B.S. in Ecology, Behavior, & Evolution with a minor in Literature, University of California, San Diego  
+**B.S. in Ecology, Behavior, & Evolution**, Revelle College,  University of California, San Diego  \hfill 1994  
 
 \endgroup 
 
@@ -173,32 +173,28 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 <!-- ### PROFESSIONAL APPOINTMENTS -->
 \begingroup 
 \setlength{\leftskip}{.2cm} 
+\setlength{\rightskip}{1cm} 
+**Professor & Distinguished Teaching Scholar**, University of Florida  
+Department of Wildlife Ecology & Conservation & Center for Latin American Studies \hfill 2013-Present  
 
-2013-Present\hspace{5mm}**Professor & Distinguished Teaching Scholar**, University of Florida  
-&nbsp;\hspace{24mm}Department of Wildlife Ecology & Conservation & Center for Latin American Studies  
+**Secretary**, Ecological Society of America  \hfill 2022-2025  
 
-2022-2025\hspace{10mm}**Secretary**, Ecological Society of America  
+**President**, Association for Tropical Biology & Conservation   \hfill 2020-2021  
 
-2020-2021\hspace{10mm}**President**, Association for Tropical Biology & Conservation  
+**Director**, Florida-Brazil Linkage Institute, University of Florida  \hfill 2012-2021  
 
-2012-2021\hspace{10mm}**Director**, Florida-Brazil Linkage Institute, University of Florida
-<!-- &nbsp;\hspace{24mm}Center for Latin American Studies, University of Florida   -->
+**Editor-in-Chief**, _Biotropica_   \hfill 2013-2019
 
-2013-2019\hspace{10mm}**Editor-in-Chief**, _Biotropica_  
+**Board of Directors**, Dryad Digital Data Repository   \hfill 2014-2020  
 
-2014-2020\hspace{10mm}**Board of Directors**, Dryad Digital Data Repository  
+**Adjunct Professor**, Universidade Federal de Uberlândia, Brazil   \hfill 2005-2020  
 
-2005-Present\hspace{6mm}**Adjunct Professor**, Universidade Federal de Uberlândia, Brazil  
-&nbsp;\hspace{24mm}Graduate Program in Ecology & Natural Resource Conservation  
+**Associate Professor**, University of Florida  \hfill 2007-2013  
 
-2007-2013\hspace{10mm}**Associate Professor**, University of Florida
-<!-- &nbsp;\hspace{24mm}Department of Wildlife Ecology & Conservation & Center for Latin American Studies   -->
+**Assistant Professor**, University of Florida  \hfill 2002-2007  
 
-2002-2007\hspace{10mm}**Assistant Professor**, University of Florida
-<!-- &nbsp;\hspace{24mm}Department of Wildlife Ecology & Conservation & Center for Latin American Studies   -->
-
-2001-2002\hspace{10mm}**NSF Minority Postdoctoral Fellow**, Biological Dynamics of Forest Fragments Project  
-&nbsp;\hspace{24mm}Instituto Nacional de Pesquisas da Amazônia-Smithsonian Institution  
+**NSF Minority Postdoctoral Fellow**, Biological Dynamics of Forest Fragments Project   \hfill 2001-2002  
+Instituto Nacional de Pesquisas da Amazônia-Smithsonian Institution  
 
 \endgroup
 <!-- ```{r positions, echo=FALSE,message = FALSE,warning=FALSE} -->
@@ -241,19 +237,20 @@ Tropical ecology and conservation, plant population ecology, demographic modelin
 \vspace{-0.2cm}  
 \begingroup 
 \setlength{\leftskip}{.3cm} 
-Fellow of the American Association for the Advancement of Science (2022)   
-Alpha Zeta (Faculty Affiliate UF Chapter, 2020)  
-Roche Teaching Scholar, UF College of Agricultural & Life Sciences (2020)  
-Sigma Xi (Full Member UF Chapter, 2016)  
-University of Florida Academy of Distinguished Teaching Scholars (2014)  
-Outstanding Paper Award, US Chapter of the International Association for Landscape Ecology (2012)  
-Graduate Advisor & Teacher of the Year, UF College of Agricultural & Life Sciences (2011)  
-University of Florida Research Foundation Professor (2009)  
-Julie S. Denslow Prize for the Outstanding article in _Biotropica_ (2007)  
-UF International Educator of the Year (Untenured Faculty category, 2005)  
-Diversity Scholar, American Institute for Biological Sciences, 2003  
-John L. Harper Early Career Researcher Award, British Ecological Society (2002)  
-Ernest C. Mort Leadership Excellence Award, Revelle College, UC San Diego (1994)  
+\setlength{\rightskip}{1cm} 
+Fellow of the American Association for the Advancement of Science \hfill 2022   
+Alpha Zeta (Faculty Affiliate UF Chapter) \hfill 2020  
+Roche Teaching Scholar, UF College of Agricultural & Life Sciences \hfill 2020  
+Sigma Xi (Full Member UF Chapter) \hfill 2016  
+University of Florida Academy of Distinguished Teaching Scholars \hfill 2014  
+Outstanding Paper Award, US Chapter of the International Association for Landscape Ecology \hfill 2012  
+Graduate Advisor & Teacher of the Year, UF College of Agricultural & Life Sciences \hfill 2011  
+University of Florida Research Foundation Professor \hfill 2009  
+Julie S. Denslow Prize for the Outstanding article in _Biotropica_ \hfill 2007  
+UF International Educator of the Year (Untenured Faculty category) \hfill 2005  
+Diversity Scholar, American Institute for Biological Sciences \hfill 2003  
+John L. Harper Early Career Researcher Award, British Ecological Society \hfill 2002  
+Ernest C. Mort Leadership Excellence Award, Revelle College, UC San Diego \hfill 1994  
 
 \endgroup
 
@@ -269,18 +266,19 @@ Ernest C. Mort Leadership Excellence Award, Revelle College, UC San Diego (1994)
 \vspace{-0.2cm}
 \begingroup 
 \setlength{\leftskip}{.3cm} 
-Edward P. Bass Distinguished Visiting Environmental Scholar, Yale University (2024)  
-*Ciência Sem Fronteiras* Special Visiting Researcher Fellowship, CNPq Brazil (2012)  
-Fulbright Scholar, Brazil (2009)  
-Visiting Researcher Fellowship, CNPq Brazil (2009)  
-NSF Minority Postdoctoral Research Fellowship (2001)  
-NSF International Research Fellowship (*declined*, 2001)  
-Ford Foundation Dissertation Year Fellowship (2000)  
-UC Davis Graduate Studies Fellowship (1999)  
-UC Davis John F. Steindler Graduate Fellowship (1998)  
-NSF Minority Predoctoral Research Fellowship (1995)  
-Howard Hughes Senior Honors Thesis Fellowship (1993)  
-UCSD Howard Hughes Summer Research Fellowship (1993)  
+\setlength{\rightskip}{1cm} 
+Edward P. Bass Distinguished Visiting Environmental Scholar, Yale University \hfill 2024  
+*Ciência Sem Fronteiras* Special Visiting Researcher Fellowship, CNPq Brazil \hfill 2012  
+Fulbright Scholar, Brazil \hfill 2009  
+Visiting Researcher Fellowship, CNPq Brazil \hfill 2009  
+NSF Minority Postdoctoral Research Fellowship \hfill 2001  
+NSF International Research Fellowship *(declined)* \hfill 2001  
+Ford Foundation Dissertation Year Fellowship \hfill 2000  
+UC Davis Graduate Studies Fellowship \hfill 1999  
+UC Davis John F. Steindler Graduate Fellowship \hfill 1998  
+NSF Minority Predoctoral Research Fellowship \hfill 1995  
+Howard Hughes Senior Honors Thesis Fellowship \hfill 1993  
+UCSD Howard Hughes Summer Research Fellowship \hfill 1993  
 
 \endgroup
 
